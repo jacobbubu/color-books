@@ -26,7 +26,7 @@
     "TOYO",
     "TRUMATCH"
   ],
-  "author": "jacobbubu <rong.shen@gmail.com>",
+  "author": "Rong Shen <rong.shen@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "coffeescript": "^2.0.0-beta4"
