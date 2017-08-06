@@ -1,0 +1,34 @@
+{
+  "name": "color-books",
+  "version": "0.0.1",
+  "description": "Easily use color books in Javascript.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobbubu/color-books.git"
+  },
+  "scripts": {
+    "build": "coffee --compile --bare --output lib/ src/",
+    "watch": "coffee --compile --bare --watch --output lib/ src/",
+    "prepublish": "npm run build"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "colorbook",
+    "color",
+    "PANTONE",
+    "ANPA",
+    "HKS",
+    "DIC",
+    "FOCOLTONE",
+    "TOYO",
+    "TRUMATCH"
+  ],
+  "author": "jacobbubu <rong.shen@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "coffeescript": "^2.0.0-beta4"
+  }
+}

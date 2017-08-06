@@ -1,0 +1,804 @@
+{
+  "version": 1,
+  "title": "HKS K",
+  "prefix": "HKS ",
+  "suffix": " K",
+  "colorCount": 88,
+  "colorSpace": "LAB",
+  "channels": 3,
+  "spotIdentifier": "Spot",
+  "records": {
+    "HKS 1 K": {
+      "name": "HKS 1 K",
+      "code": "1K",
+      "components": [
+        87.05882352941177,
+        3,
+        57
+      ]
+    },
+    "HKS 2 K": {
+      "name": "HKS 2 K",
+      "code": "2K",
+      "components": [
+        85.49019607843138,
+        -2,
+        95
+      ]
+    },
+    "HKS 3 K": {
+      "name": "HKS 3 K",
+      "code": "3K",
+      "components": [
+        87.84313725490196,
+        0,
+        110
+      ]
+    },
+    "HKS 4 K": {
+      "name": "HKS 4 K",
+      "code": "4K",
+      "components": [
+        81.9607843137255,
+        13,
+        98
+      ]
+    },
+    "HKS 5 K": {
+      "name": "HKS 5 K",
+      "code": "5K",
+      "components": [
+        80,
+        21,
+        102
+      ]
+    },
+    "HKS 6 K": {
+      "name": "HKS 6 K",
+      "code": "6K",
+      "components": [
+        71.76470588235294,
+        44,
+        94
+      ]
+    },
+    "HKS 7 K": {
+      "name": "HKS 7 K",
+      "code": "7K",
+      "components": [
+        65.09803921568628,
+        57,
+        94
+      ]
+    },
+    "HKS 8 K": {
+      "name": "HKS 8 K",
+      "code": "8K",
+      "components": [
+        61.9607843137255,
+        61,
+        72
+      ]
+    },
+    "HKS 10 K": {
+      "name": "HKS 10 K",
+      "code": "10K",
+      "components": [
+        57.64705882352941,
+        67,
+        66
+      ]
+    },
+    "HKS 11 K": {
+      "name": "HKS 11 K",
+      "code": "11K",
+      "components": [
+        72.15686274509804,
+        41,
+        38
+      ]
+    },
+    "HKS 12 K": {
+      "name": "HKS 12 K",
+      "code": "12K",
+      "components": [
+        53.333333333333336,
+        69,
+        56
+      ]
+    },
+    "HKS 13 K": {
+      "name": "HKS 13 K",
+      "code": "13K",
+      "components": [
+        51.76470588235294,
+        75,
+        57
+      ]
+    },
+    "HKS 14 K": {
+      "name": "HKS 14 K",
+      "code": "14K",
+      "components": [
+        49.411764705882355,
+        69,
+        47
+      ]
+    },
+    "HKS 15 K": {
+      "name": "HKS 15 K",
+      "code": "15K",
+      "components": [
+        43.13725490196079,
+        68,
+        36
+      ]
+    },
+    "HKS 16 K": {
+      "name": "HKS 16 K",
+      "code": "16K",
+      "components": [
+        36.07843137254902,
+        52,
+        25
+      ]
+    },
+    "HKS 17 K": {
+      "name": "HKS 17 K",
+      "code": "17K",
+      "components": [
+        34.90196078431373,
+        55,
+        19
+      ]
+    },
+    "HKS 18 K": {
+      "name": "HKS 18 K",
+      "code": "18K",
+      "components": [
+        25.490196078431374,
+        39,
+        8
+      ]
+    },
+    "HKS 21 K": {
+      "name": "HKS 21 K",
+      "code": "21K",
+      "components": [
+        67.05882352941177,
+        54,
+        13
+      ]
+    },
+    "HKS 22 K": {
+      "name": "HKS 22 K",
+      "code": "22K",
+      "components": [
+        54.50980392156863,
+        72,
+        49
+      ]
+    },
+    "HKS 23 K": {
+      "name": "HKS 23 K",
+      "code": "23K",
+      "components": [
+        48.235294117647065,
+        74,
+        37
+      ]
+    },
+    "HKS 24 K": {
+      "name": "HKS 24 K",
+      "code": "24K",
+      "components": [
+        42.74509803921569,
+        65,
+        18
+      ]
+    },
+    "HKS 25 K": {
+      "name": "HKS 25 K",
+      "code": "25K",
+      "components": [
+        43.13725490196079,
+        75,
+        17
+      ]
+    },
+    "HKS 26 K": {
+      "name": "HKS 26 K",
+      "code": "26K",
+      "components": [
+        39.6078431372549,
+        69,
+        -3
+      ]
+    },
+    "HKS 27 K": {
+      "name": "HKS 27 K",
+      "code": "27K",
+      "components": [
+        46.274509803921575,
+        80,
+        -8
+      ]
+    },
+    "HKS 28 K": {
+      "name": "HKS 28 K",
+      "code": "28K",
+      "components": [
+        38.03921568627451,
+        64,
+        9
+      ]
+    },
+    "HKS 29 K": {
+      "name": "HKS 29 K",
+      "code": "29K",
+      "components": [
+        34.11764705882353,
+        55,
+        -29
+      ]
+    },
+    "HKS 31 K": {
+      "name": "HKS 31 K",
+      "code": "31K",
+      "components": [
+        42.352941176470594,
+        70,
+        -11
+      ]
+    },
+    "HKS 32 K": {
+      "name": "HKS 32 K",
+      "code": "32K",
+      "components": [
+        40.7843137254902,
+        71,
+        3
+      ]
+    },
+    "HKS 33 K": {
+      "name": "HKS 33 K",
+      "code": "33K",
+      "components": [
+        36.47058823529412,
+        74,
+        -48
+      ]
+    },
+    "HKS 34 K": {
+      "name": "HKS 34 K",
+      "code": "34K",
+      "components": [
+        30.196078431372552,
+        43,
+        -43
+      ]
+    },
+    "HKS 35 K": {
+      "name": "HKS 35 K",
+      "code": "35K",
+      "components": [
+        26.666666666666668,
+        27,
+        -47
+      ]
+    },
+    "HKS 36 K": {
+      "name": "HKS 36 K",
+      "code": "36K",
+      "components": [
+        27.450980392156865,
+        38,
+        -48
+      ]
+    },
+    "HKS 37 K": {
+      "name": "HKS 37 K",
+      "code": "37K",
+      "components": [
+        24.705882352941178,
+        32,
+        -40
+      ]
+    },
+    "HKS 38 K": {
+      "name": "HKS 38 K",
+      "code": "38K",
+      "components": [
+        17.647058823529413,
+        -4,
+        -18
+      ]
+    },
+    "HKS 39 K": {
+      "name": "HKS 39 K",
+      "code": "39K",
+      "components": [
+        36.86274509803922,
+        4,
+        -62
+      ]
+    },
+    "HKS 40 K": {
+      "name": "HKS 40 K",
+      "code": "40K",
+      "components": [
+        48.235294117647065,
+        -27,
+        -37
+      ]
+    },
+    "HKS 41 K": {
+      "name": "HKS 41 K",
+      "code": "41K",
+      "components": [
+        21.176470588235297,
+        -2,
+        -22
+      ]
+    },
+    "HKS 42 K": {
+      "name": "HKS 42 K",
+      "code": "42K",
+      "components": [
+        25.88235294117647,
+        18,
+        -59
+      ]
+    },
+    "HKS 43 K": {
+      "name": "HKS 43 K",
+      "code": "43K",
+      "components": [
+        25.88235294117647,
+        29,
+        -79
+      ]
+    },
+    "HKS 44 K": {
+      "name": "HKS 44 K",
+      "code": "44K",
+      "components": [
+        33.72549019607843,
+        -4,
+        -56
+      ]
+    },
+    "HKS 45 K": {
+      "name": "HKS 45 K",
+      "code": "45K",
+      "components": [
+        34.90196078431373,
+        15,
+        -44
+      ]
+    },
+    "HKS 46 K": {
+      "name": "HKS 46 K",
+      "code": "46K",
+      "components": [
+        45.490196078431374,
+        -21,
+        -37
+      ]
+    },
+    "HKS 47 K": {
+      "name": "HKS 47 K",
+      "code": "47K",
+      "components": [
+        47.05882352941177,
+        -33,
+        -56
+      ]
+    },
+    "HKS 48 K": {
+      "name": "HKS 48 K",
+      "code": "48K",
+      "components": [
+        47.450980392156865,
+        -45,
+        -46
+      ]
+    },
+    "HKS 49 K": {
+      "name": "HKS 49 K",
+      "code": "49K",
+      "components": [
+        41.96078431372549,
+        -33,
+        -47
+      ]
+    },
+    "HKS 50 K": {
+      "name": "HKS 50 K",
+      "code": "50K",
+      "components": [
+        65.09803921568628,
+        -37,
+        -35
+      ]
+    },
+    "HKS 51 K": {
+      "name": "HKS 51 K",
+      "code": "51K",
+      "components": [
+        52.54901960784314,
+        -47,
+        -19
+      ]
+    },
+    "HKS 52 K": {
+      "name": "HKS 52 K",
+      "code": "52K",
+      "components": [
+        47.05882352941177,
+        -55,
+        -6
+      ]
+    },
+    "HKS 53 K": {
+      "name": "HKS 53 K",
+      "code": "53K",
+      "components": [
+        61.568627450980394,
+        -73,
+        2
+      ]
+    },
+    "HKS 54 K": {
+      "name": "HKS 54 K",
+      "code": "54K",
+      "components": [
+        45.09803921568628,
+        -71,
+        16
+      ]
+    },
+    "HKS 55 K": {
+      "name": "HKS 55 K",
+      "code": "55K",
+      "components": [
+        39.21568627450981,
+        -58,
+        6
+      ]
+    },
+    "HKS 56 K": {
+      "name": "HKS 56 K",
+      "code": "56K",
+      "components": [
+        32.15686274509804,
+        -39,
+        -1
+      ]
+    },
+    "HKS 57 K": {
+      "name": "HKS 57 K",
+      "code": "57K",
+      "components": [
+        42.74509803921569,
+        -60,
+        23
+      ]
+    },
+    "HKS 58 K": {
+      "name": "HKS 58 K",
+      "code": "58K",
+      "components": [
+        34.50980392156863,
+        -25,
+        17
+      ]
+    },
+    "HKS 59 K": {
+      "name": "HKS 59 K",
+      "code": "59K",
+      "components": [
+        41.1764705882353,
+        -52,
+        -14
+      ]
+    },
+    "HKS 60 K": {
+      "name": "HKS 60 K",
+      "code": "60K",
+      "components": [
+        48.235294117647065,
+        -50,
+        50
+      ]
+    },
+    "HKS 61 K": {
+      "name": "HKS 61 K",
+      "code": "61K",
+      "components": [
+        29.01960784313726,
+        -21,
+        16
+      ]
+    },
+    "HKS 62 K": {
+      "name": "HKS 62 K",
+      "code": "62K",
+      "components": [
+        37.64705882352941,
+        -7,
+        34
+      ]
+    },
+    "HKS 63 K": {
+      "name": "HKS 63 K",
+      "code": "63K",
+      "components": [
+        40.392156862745104,
+        -30,
+        34
+      ]
+    },
+    "HKS 64 K": {
+      "name": "HKS 64 K",
+      "code": "64K",
+      "components": [
+        51.372549019607845,
+        -57,
+        45
+      ]
+    },
+    "HKS 65 K": {
+      "name": "HKS 65 K",
+      "code": "65K",
+      "components": [
+        58.82352941176471,
+        -59,
+        60
+      ]
+    },
+    "HKS 66 K": {
+      "name": "HKS 66 K",
+      "code": "66K",
+      "components": [
+        66.66666666666667,
+        -43,
+        68
+      ]
+    },
+    "HKS 67 K": {
+      "name": "HKS 67 K",
+      "code": "67K",
+      "components": [
+        68.62745098039215,
+        -50,
+        75
+      ]
+    },
+    "HKS 68 K": {
+      "name": "HKS 68 K",
+      "code": "68K",
+      "components": [
+        75.29411764705883,
+        0,
+        78
+      ]
+    },
+    "HKS 69 K": {
+      "name": "HKS 69 K",
+      "code": "69K",
+      "components": [
+        80.3921568627451,
+        -9,
+        89
+      ]
+    },
+    "HKS 71 K": {
+      "name": "HKS 71 K",
+      "code": "71K",
+      "components": [
+        68.23529411764706,
+        21,
+        64
+      ]
+    },
+    "HKS 72 K": {
+      "name": "HKS 72 K",
+      "code": "72K",
+      "components": [
+        61.9607843137255,
+        28,
+        67
+      ]
+    },
+    "HKS 73 K": {
+      "name": "HKS 73 K",
+      "code": "73K",
+      "components": [
+        54.90196078431373,
+        19,
+        47
+      ]
+    },
+    "HKS 74 K": {
+      "name": "HKS 74 K",
+      "code": "74K",
+      "components": [
+        44.313725490196084,
+        15,
+        37
+      ]
+    },
+    "HKS 75 K": {
+      "name": "HKS 75 K",
+      "code": "75K",
+      "components": [
+        41.568627450980394,
+        5,
+        34
+      ]
+    },
+    "HKS 76 K": {
+      "name": "HKS 76 K",
+      "code": "76K",
+      "components": [
+        27.84313725490196,
+        8,
+        14
+      ]
+    },
+    "HKS 77 K": {
+      "name": "HKS 77 K",
+      "code": "77K",
+      "components": [
+        27.84313725490196,
+        14,
+        17
+      ]
+    },
+    "HKS 78 K": {
+      "name": "HKS 78 K",
+      "code": "78K",
+      "components": [
+        31.764705882352942,
+        25,
+        23
+      ]
+    },
+    "HKS 81 K": {
+      "name": "HKS 81 K",
+      "code": "81K",
+      "components": [
+        50.196078431372555,
+        43,
+        48
+      ]
+    },
+    "HKS 82 K": {
+      "name": "HKS 82 K",
+      "code": "82K",
+      "components": [
+        39.6078431372549,
+        40,
+        38
+      ]
+    },
+    "HKS 83 K": {
+      "name": "HKS 83 K",
+      "code": "83K",
+      "components": [
+        32.15686274509804,
+        28,
+        19
+      ]
+    },
+    "HKS 84 K": {
+      "name": "HKS 84 K",
+      "code": "84K",
+      "components": [
+        27.450980392156865,
+        22,
+        13
+      ]
+    },
+    "HKS 88 K": {
+      "name": "HKS 88 K",
+      "code": "88K",
+      "components": [
+        12.15686274509804,
+        1,
+        2
+      ]
+    },
+    "HKS 89 K": {
+      "name": "HKS 89 K",
+      "code": "89K",
+      "components": [
+        64.70588235294117,
+        2,
+        11
+      ]
+    },
+    "HKS 90 K": {
+      "name": "HKS 90 K",
+      "code": "90K",
+      "components": [
+        20.784313725490197,
+        5,
+        2
+      ]
+    },
+    "HKS 91 K": {
+      "name": "HKS 91 K",
+      "code": "91K",
+      "components": [
+        65.49019607843138,
+        -4,
+        2
+      ]
+    },
+    "HKS 92 K": {
+      "name": "HKS 92 K",
+      "code": "92K",
+      "components": [
+        45.88235294117647,
+        -2,
+        -1
+      ]
+    },
+    "HKS 93 K": {
+      "name": "HKS 93 K",
+      "code": "93K",
+      "components": [
+        33.72549019607843,
+        -2,
+        -5
+      ]
+    },
+    "HKS 95 K": {
+      "name": "HKS 95 K",
+      "code": "95K",
+      "components": [
+        60.00000000000001,
+        -1,
+        5
+      ]
+    },
+    "HKS 96 K": {
+      "name": "HKS 96 K",
+      "code": "96K",
+      "components": [
+        49.411764705882355,
+        -1,
+        4
+      ]
+    },
+    "HKS 97 K": {
+      "name": "HKS 97 K",
+      "code": "97K",
+      "components": [
+        23.137254901960787,
+        -3,
+        4
+      ]
+    },
+    "HKS 98 K": {
+      "name": "HKS 98 K",
+      "code": "98K",
+      "components": [
+        46.66666666666667,
+        8,
+        25
+      ]
+    },
+    "HKS 99 K": {
+      "name": "HKS 99 K",
+      "code": "99K",
+      "components": [
+        62.74509803921569,
+        0,
+        0
+      ]
+    }
+  }
+}

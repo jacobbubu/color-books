@@ -1,0 +1,1902 @@
+{
+  "version": 1,
+  "title": "PANTONE+® Pastels & Neons Coated",
+  "prefix": "PANTONE ",
+  "suffix": " C",
+  "colorCount": 210,
+  "colorSpace": "LAB",
+  "channels": 3,
+  "spotIdentifier": "Spot",
+  "records": {
+    "PANTONE Yellow 0131 C": {
+      "name": "PANTONE Yellow 0131 C",
+      "code": "Y131PC",
+      "components": [
+        93.72549019607844,
+        -7,
+        38
+      ]
+    },
+    "PANTONE Red 0331 C": {
+      "name": "PANTONE Red 0331 C",
+      "code": "R331PC",
+      "components": [
+        79.6078431372549,
+        31,
+        6
+      ]
+    },
+    "PANTONE Magenta 0521 C": {
+      "name": "PANTONE Magenta 0521 C",
+      "code": "M521PC",
+      "components": [
+        80,
+        29,
+        -11
+      ]
+    },
+    "PANTONE Violet 0631 C": {
+      "name": "PANTONE Violet 0631 C",
+      "code": "V631PC",
+      "components": [
+        69.41176470588236,
+        24,
+        -29
+      ]
+    },
+    "PANTONE Blue 0821 C": {
+      "name": "PANTONE Blue 0821 C",
+      "code": "B821PC",
+      "components": [
+        78.43137254901961,
+        -24,
+        -23
+      ]
+    },
+    "PANTONE Green 0921 C": {
+      "name": "PANTONE Green 0921 C",
+      "code": "G921PC",
+      "components": [
+        86.27450980392157,
+        -27,
+        -1
+      ]
+    },
+    "PANTONE Black 0961 C": {
+      "name": "PANTONE Black 0961 C",
+      "code": "K961PC",
+      "components": [
+        62.74509803921569,
+        2,
+        6
+      ]
+    },
+    "PANTONE 9140P C": {
+      "name": "PANTONE 9140P C",
+      "code": "9140PC",
+      "components": [
+        93.72549019607844,
+        -2,
+        17
+      ]
+    },
+    "PANTONE 9284P C": {
+      "name": "PANTONE 9284P C",
+      "code": "9284PC",
+      "components": [
+        85.88235294117648,
+        19,
+        3
+      ]
+    },
+    "PANTONE 9324P C": {
+      "name": "PANTONE 9324P C",
+      "code": "9324PC",
+      "components": [
+        85.49019607843138,
+        19,
+        -7
+      ]
+    },
+    "PANTONE 9344P C": {
+      "name": "PANTONE 9344P C",
+      "code": "9344PC",
+      "components": [
+        77.64705882352942,
+        17,
+        -20
+      ]
+    },
+    "PANTONE 9464P C": {
+      "name": "PANTONE 9464P C",
+      "code": "9464PC",
+      "components": [
+        84.31372549019608,
+        -18,
+        -15
+      ]
+    },
+    "PANTONE 9524P C": {
+      "name": "PANTONE 9524P C",
+      "code": "9524PC",
+      "components": [
+        88.23529411764706,
+        -22,
+        -1
+      ]
+    },
+    "PANTONE 9084P C": {
+      "name": "PANTONE 9084P C",
+      "code": "9084PC",
+      "components": [
+        69.01960784313727,
+        1,
+        6
+      ]
+    },
+    "PANTONE 9060P C": {
+      "name": "PANTONE 9060P C",
+      "code": "9060PC",
+      "components": [
+        94.50980392156863,
+        -2,
+        11
+      ]
+    },
+    "PANTONE 9280P C": {
+      "name": "PANTONE 9280P C",
+      "code": "9280PC",
+      "components": [
+        91.37254901960785,
+        7,
+        2
+      ]
+    },
+    "PANTONE 9320P C": {
+      "name": "PANTONE 9320P C",
+      "code": "9320PC",
+      "components": [
+        90.58823529411765,
+        9,
+        -3
+      ]
+    },
+    "PANTONE 9340P C": {
+      "name": "PANTONE 9340P C",
+      "code": "9340PC",
+      "components": [
+        89.01960784313727,
+        6,
+        -6
+      ]
+    },
+    "PANTONE 9460P C": {
+      "name": "PANTONE 9460P C",
+      "code": "9460PC",
+      "components": [
+        91.37254901960785,
+        -7,
+        -4
+      ]
+    },
+    "PANTONE 9520P C": {
+      "name": "PANTONE 9520P C",
+      "code": "9520PC",
+      "components": [
+        92.15686274509804,
+        -9,
+        0
+      ]
+    },
+    "PANTONE 9083P C": {
+      "name": "PANTONE 9083P C",
+      "code": "9083PC",
+      "components": [
+        80.78431372549021,
+        1,
+        5
+      ]
+    },
+    "PANTONE 9064P C": {
+      "name": "PANTONE 9064P C",
+      "code": "9064PC",
+      "components": [
+        94.50980392156863,
+        -2,
+        9
+      ]
+    },
+    "PANTONE 9285P C": {
+      "name": "PANTONE 9285P C",
+      "code": "9285PC",
+      "components": [
+        93.72549019607844,
+        2,
+        3
+      ]
+    },
+    "PANTONE 9061P C": {
+      "name": "PANTONE 9061P C",
+      "code": "9061PC",
+      "components": [
+        92.94117647058825,
+        4,
+        0
+      ]
+    },
+    "PANTONE 9345P C": {
+      "name": "PANTONE 9345P C",
+      "code": "9345PC",
+      "components": [
+        92.54901960784315,
+        2,
+        0
+      ]
+    },
+    "PANTONE 9062P C": {
+      "name": "PANTONE 9062P C",
+      "code": "9062PC",
+      "components": [
+        93.33333333333334,
+        -3,
+        0
+      ]
+    },
+    "PANTONE 9063P C": {
+      "name": "PANTONE 9063P C",
+      "code": "9063PC",
+      "components": [
+        93.72549019607844,
+        -4,
+        3
+      ]
+    },
+    "PANTONE 9081P C": {
+      "name": "PANTONE 9081P C",
+      "code": "9081PC",
+      "components": [
+        87.84313725490196,
+        0,
+        4
+      ]
+    },
+    "PANTONE 9043P C": {
+      "name": "PANTONE 9043P C",
+      "code": "9043PC",
+      "components": [
+        91.37254901960785,
+        0,
+        4
+      ]
+    },
+    "PANTONE 9080P C": {
+      "name": "PANTONE 9080P C",
+      "code": "9080PC",
+      "components": [
+        89.80392156862746,
+        0,
+        3
+      ]
+    },
+    "PANTONE 9100P C": {
+      "name": "PANTONE 9100P C",
+      "code": "9100PC",
+      "components": [
+        91.37254901960785,
+        0,
+        3
+      ]
+    },
+    "PANTONE 9101P C": {
+      "name": "PANTONE 9101P C",
+      "code": "9101PC",
+      "components": [
+        90.19607843137256,
+        -1,
+        3
+      ]
+    },
+    "PANTONE 9102P C": {
+      "name": "PANTONE 9102P C",
+      "code": "9102PC",
+      "components": [
+        87.05882352941177,
+        -1,
+        3
+      ]
+    },
+    "PANTONE 9103P C": {
+      "name": "PANTONE 9103P C",
+      "code": "9103PC",
+      "components": [
+        85.88235294117648,
+        -1,
+        2
+      ]
+    },
+    "PANTONE 9082P C": {
+      "name": "PANTONE 9082P C",
+      "code": "9082PC",
+      "components": [
+        82.74509803921569,
+        1,
+        5
+      ]
+    },
+    "PANTONE 9121P C": {
+      "name": "PANTONE 9121P C",
+      "code": "9121PC",
+      "components": [
+        93.72549019607844,
+        -6,
+        31
+      ]
+    },
+    "PANTONE 9120P C": {
+      "name": "PANTONE 9120P C",
+      "code": "9120PC",
+      "components": [
+        93.72549019607844,
+        -5,
+        27
+      ]
+    },
+    "PANTONE 9141P C": {
+      "name": "PANTONE 9141P C",
+      "code": "9141PC",
+      "components": [
+        93.33333333333334,
+        -3,
+        22
+      ]
+    },
+    "PANTONE 9142P C": {
+      "name": "PANTONE 9142P C",
+      "code": "9142PC",
+      "components": [
+        90.19607843137256,
+        -1,
+        16
+      ]
+    },
+    "PANTONE 9161P C": {
+      "name": "PANTONE 9161P C",
+      "code": "9161PC",
+      "components": [
+        87.84313725490196,
+        1,
+        18
+      ]
+    },
+    "PANTONE 9143P C": {
+      "name": "PANTONE 9143P C",
+      "code": "9143PC",
+      "components": [
+        88.23529411764706,
+        -1,
+        14
+      ]
+    },
+    "PANTONE 9162P C": {
+      "name": "PANTONE 9162P C",
+      "code": "9162PC",
+      "components": [
+        87.05882352941177,
+        1,
+        12
+      ]
+    },
+    "PANTONE 9160P C": {
+      "name": "PANTONE 9160P C",
+      "code": "9160PC",
+      "components": [
+        91.37254901960785,
+        2,
+        20
+      ]
+    },
+    "PANTONE 9180P C": {
+      "name": "PANTONE 9180P C",
+      "code": "9180PC",
+      "components": [
+        91.37254901960785,
+        3,
+        13
+      ]
+    },
+    "PANTONE 9181P C": {
+      "name": "PANTONE 9181P C",
+      "code": "9181PC",
+      "components": [
+        90.98039215686275,
+        4,
+        15
+      ]
+    },
+    "PANTONE 9200P C": {
+      "name": "PANTONE 9200P C",
+      "code": "9200PC",
+      "components": [
+        90.98039215686275,
+        5,
+        13
+      ]
+    },
+    "PANTONE 9201P C": {
+      "name": "PANTONE 9201P C",
+      "code": "9201PC",
+      "components": [
+        91.37254901960785,
+        5,
+        13
+      ]
+    },
+    "PANTONE 9220P C": {
+      "name": "PANTONE 9220P C",
+      "code": "9220PC",
+      "components": [
+        90.58823529411765,
+        6,
+        11
+      ]
+    },
+    "PANTONE 9221P C": {
+      "name": "PANTONE 9221P C",
+      "code": "9221PC",
+      "components": [
+        87.45098039215686,
+        7,
+        12
+      ]
+    },
+    "PANTONE 9184P C": {
+      "name": "PANTONE 9184P C",
+      "code": "9184PC",
+      "components": [
+        90.98039215686275,
+        2,
+        12
+      ]
+    },
+    "PANTONE 9185P C": {
+      "name": "PANTONE 9185P C",
+      "code": "9185PC",
+      "components": [
+        90.19607843137256,
+        3,
+        10
+      ]
+    },
+    "PANTONE 9202P C": {
+      "name": "PANTONE 9202P C",
+      "code": "9202PC",
+      "components": [
+        89.41176470588236,
+        4,
+        10
+      ]
+    },
+    "PANTONE 9182P C": {
+      "name": "PANTONE 9182P C",
+      "code": "9182PC",
+      "components": [
+        88.62745098039217,
+        4,
+        12
+      ]
+    },
+    "PANTONE 9183P C": {
+      "name": "PANTONE 9183P C",
+      "code": "9183PC",
+      "components": [
+        86.66666666666667,
+        3,
+        10
+      ]
+    },
+    "PANTONE 9203P C": {
+      "name": "PANTONE 9203P C",
+      "code": "9203PC",
+      "components": [
+        86.27450980392157,
+        4,
+        10
+      ]
+    },
+    "PANTONE 9186P C": {
+      "name": "PANTONE 9186P C",
+      "code": "9186PC",
+      "components": [
+        85.49019607843138,
+        4,
+        9
+      ]
+    },
+    "PANTONE 9224P C": {
+      "name": "PANTONE 9224P C",
+      "code": "9224PC",
+      "components": [
+        92.94117647058825,
+        2,
+        8
+      ]
+    },
+    "PANTONE 9225P C": {
+      "name": "PANTONE 9225P C",
+      "code": "9225PC",
+      "components": [
+        91.76470588235294,
+        3,
+        8
+      ]
+    },
+    "PANTONE 9226P C": {
+      "name": "PANTONE 9226P C",
+      "code": "9226PC",
+      "components": [
+        90.58823529411765,
+        2,
+        7
+      ]
+    },
+    "PANTONE 9222P C": {
+      "name": "PANTONE 9222P C",
+      "code": "9222PC",
+      "components": [
+        86.66666666666667,
+        5,
+        9
+      ]
+    },
+    "PANTONE 9223P C": {
+      "name": "PANTONE 9223P C",
+      "code": "9223PC",
+      "components": [
+        85.49019607843138,
+        4,
+        8
+      ]
+    },
+    "PANTONE 9242P C": {
+      "name": "PANTONE 9242P C",
+      "code": "9242PC",
+      "components": [
+        87.05882352941177,
+        7,
+        6
+      ]
+    },
+    "PANTONE 9243P C": {
+      "name": "PANTONE 9243P C",
+      "code": "9243PC",
+      "components": [
+        84.31372549019608,
+        6,
+        6
+      ]
+    },
+    "PANTONE 9244P C": {
+      "name": "PANTONE 9244P C",
+      "code": "9244PC",
+      "components": [
+        92.94117647058825,
+        3,
+        4
+      ]
+    },
+    "PANTONE 9240P C": {
+      "name": "PANTONE 9240P C",
+      "code": "9240PC",
+      "components": [
+        92.15686274509804,
+        5,
+        5
+      ]
+    },
+    "PANTONE 9260P C": {
+      "name": "PANTONE 9260P C",
+      "code": "9260PC",
+      "components": [
+        90.58823529411765,
+        8,
+        5
+      ]
+    },
+    "PANTONE 9241P C": {
+      "name": "PANTONE 9241P C",
+      "code": "9241PC",
+      "components": [
+        89.80392156862746,
+        6,
+        6
+      ]
+    },
+    "PANTONE 9261P C": {
+      "name": "PANTONE 9261P C",
+      "code": "9261PC",
+      "components": [
+        88.23529411764706,
+        9,
+        5
+      ]
+    },
+    "PANTONE 9262P C": {
+      "name": "PANTONE 9262P C",
+      "code": "9262PC",
+      "components": [
+        87.05882352941177,
+        8,
+        5
+      ]
+    },
+    "PANTONE 9263P C": {
+      "name": "PANTONE 9263P C",
+      "code": "9263PC",
+      "components": [
+        85.49019607843138,
+        7,
+        5
+      ]
+    },
+    "PANTONE 9286P C": {
+      "name": "PANTONE 9286P C",
+      "code": "9286PC",
+      "components": [
+        90.98039215686275,
+        9,
+        2
+      ]
+    },
+    "PANTONE 9281P C": {
+      "name": "PANTONE 9281P C",
+      "code": "9281PC",
+      "components": [
+        89.80392156862746,
+        8,
+        2
+      ]
+    },
+    "PANTONE 9300P C": {
+      "name": "PANTONE 9300P C",
+      "code": "9300PC",
+      "components": [
+        90.19607843137256,
+        9,
+        0
+      ]
+    },
+    "PANTONE 9282P C": {
+      "name": "PANTONE 9282P C",
+      "code": "9282PC",
+      "components": [
+        89.01960784313727,
+        8,
+        2
+      ]
+    },
+    "PANTONE 9301P C": {
+      "name": "PANTONE 9301P C",
+      "code": "9301PC",
+      "components": [
+        89.41176470588236,
+        9,
+        0
+      ]
+    },
+    "PANTONE 9321P C": {
+      "name": "PANTONE 9321P C",
+      "code": "9321PC",
+      "components": [
+        87.84313725490196,
+        11,
+        -3
+      ]
+    },
+    "PANTONE 9302P C": {
+      "name": "PANTONE 9302P C",
+      "code": "9302PC",
+      "components": [
+        85.49019607843138,
+        11,
+        0
+      ]
+    },
+    "PANTONE 9021P C": {
+      "name": "PANTONE 9021P C",
+      "code": "9021PC",
+      "components": [
+        92.15686274509804,
+        4,
+        2
+      ]
+    },
+    "PANTONE 9022P C": {
+      "name": "PANTONE 9022P C",
+      "code": "9022PC",
+      "components": [
+        92.54901960784315,
+        4,
+        0
+      ]
+    },
+    "PANTONE 9023P C": {
+      "name": "PANTONE 9023P C",
+      "code": "9023PC",
+      "components": [
+        90.98039215686275,
+        4,
+        -3
+      ]
+    },
+    "PANTONE 9283P C": {
+      "name": "PANTONE 9283P C",
+      "code": "9283PC",
+      "components": [
+        87.84313725490196,
+        6,
+        3
+      ]
+    },
+    "PANTONE 9303P C": {
+      "name": "PANTONE 9303P C",
+      "code": "9303PC",
+      "components": [
+        86.27450980392157,
+        8,
+        1
+      ]
+    },
+    "PANTONE 9322P C": {
+      "name": "PANTONE 9322P C",
+      "code": "9322PC",
+      "components": [
+        85.88235294117648,
+        11,
+        -3
+      ]
+    },
+    "PANTONE 9323P C": {
+      "name": "PANTONE 9323P C",
+      "code": "9323PC",
+      "components": [
+        84.31372549019608,
+        10,
+        -2
+      ]
+    },
+    "PANTONE 9360P C": {
+      "name": "PANTONE 9360P C",
+      "code": "9360PC",
+      "components": [
+        87.05882352941177,
+        5,
+        -9
+      ]
+    },
+    "PANTONE 9341P C": {
+      "name": "PANTONE 9341P C",
+      "code": "9341PC",
+      "components": [
+        87.45098039215686,
+        7,
+        -6
+      ]
+    },
+    "PANTONE 9342P C": {
+      "name": "PANTONE 9342P C",
+      "code": "9342PC",
+      "components": [
+        86.27450980392157,
+        6,
+        -5
+      ]
+    },
+    "PANTONE 9343P C": {
+      "name": "PANTONE 9343P C",
+      "code": "9343PC",
+      "components": [
+        85.49019607843138,
+        7,
+        -6
+      ]
+    },
+    "PANTONE 9361P C": {
+      "name": "PANTONE 9361P C",
+      "code": "9361PC",
+      "components": [
+        85.88235294117648,
+        6,
+        -9
+      ]
+    },
+    "PANTONE 9362P C": {
+      "name": "PANTONE 9362P C",
+      "code": "9362PC",
+      "components": [
+        85.88235294117648,
+        6,
+        -7
+      ]
+    },
+    "PANTONE 9363P C": {
+      "name": "PANTONE 9363P C",
+      "code": "9363PC",
+      "components": [
+        81.5686274509804,
+        7,
+        -8
+      ]
+    },
+    "PANTONE 9380P C": {
+      "name": "PANTONE 9380P C",
+      "code": "9380PC",
+      "components": [
+        89.41176470588236,
+        1,
+        -6
+      ]
+    },
+    "PANTONE 9384P C": {
+      "name": "PANTONE 9384P C",
+      "code": "9384PC",
+      "components": [
+        88.62745098039217,
+        0,
+        -7
+      ]
+    },
+    "PANTONE 9381P C": {
+      "name": "PANTONE 9381P C",
+      "code": "9381PC",
+      "components": [
+        86.66666666666667,
+        0,
+        -8
+      ]
+    },
+    "PANTONE 9382P C": {
+      "name": "PANTONE 9382P C",
+      "code": "9382PC",
+      "components": [
+        84.31372549019608,
+        1,
+        -11
+      ]
+    },
+    "PANTONE 9383P C": {
+      "name": "PANTONE 9383P C",
+      "code": "9383PC",
+      "components": [
+        85.09803921568628,
+        1,
+        -8
+      ]
+    },
+    "PANTONE 9385P C": {
+      "name": "PANTONE 9385P C",
+      "code": "9385PC",
+      "components": [
+        85.09803921568628,
+        -1,
+        -6
+      ]
+    },
+    "PANTONE 9403P C": {
+      "name": "PANTONE 9403P C",
+      "code": "9403PC",
+      "components": [
+        86.27450980392157,
+        -2,
+        -7
+      ]
+    },
+    "PANTONE 9400P C": {
+      "name": "PANTONE 9400P C",
+      "code": "9400PC",
+      "components": [
+        89.01960784313727,
+        -2,
+        -7
+      ]
+    },
+    "PANTONE 9401P C": {
+      "name": "PANTONE 9401P C",
+      "code": "9401PC",
+      "components": [
+        89.01960784313727,
+        -2,
+        -8
+      ]
+    },
+    "PANTONE 9402P C": {
+      "name": "PANTONE 9402P C",
+      "code": "9402PC",
+      "components": [
+        88.62745098039217,
+        -2,
+        -7
+      ]
+    },
+    "PANTONE 9420P C": {
+      "name": "PANTONE 9420P C",
+      "code": "9420PC",
+      "components": [
+        89.01960784313727,
+        -4,
+        -7
+      ]
+    },
+    "PANTONE 9421P C": {
+      "name": "PANTONE 9421P C",
+      "code": "9421PC",
+      "components": [
+        87.84313725490196,
+        -4,
+        -7
+      ]
+    },
+    "PANTONE 9422P C": {
+      "name": "PANTONE 9422P C",
+      "code": "9422PC",
+      "components": [
+        85.88235294117648,
+        -4,
+        -7
+      ]
+    },
+    "PANTONE 9423P C": {
+      "name": "PANTONE 9423P C",
+      "code": "9423PC",
+      "components": [
+        82.74509803921569,
+        -4,
+        -7
+      ]
+    },
+    "PANTONE 9424P C": {
+      "name": "PANTONE 9424P C",
+      "code": "9424PC",
+      "components": [
+        87.84313725490196,
+        -10,
+        -6
+      ]
+    },
+    "PANTONE 9440P C": {
+      "name": "PANTONE 9440P C",
+      "code": "9440PC",
+      "components": [
+        87.05882352941177,
+        -9,
+        -9
+      ]
+    },
+    "PANTONE 9441P C": {
+      "name": "PANTONE 9441P C",
+      "code": "9441PC",
+      "components": [
+        87.05882352941177,
+        -9,
+        -10
+      ]
+    },
+    "PANTONE 9442P C": {
+      "name": "PANTONE 9442P C",
+      "code": "9442PC",
+      "components": [
+        85.88235294117648,
+        -9,
+        -9
+      ]
+    },
+    "PANTONE 9461P C": {
+      "name": "PANTONE 9461P C",
+      "code": "9461PC",
+      "components": [
+        87.05882352941177,
+        -11,
+        -7
+      ]
+    },
+    "PANTONE 9462P C": {
+      "name": "PANTONE 9462P C",
+      "code": "9462PC",
+      "components": [
+        85.09803921568628,
+        -11,
+        -7
+      ]
+    },
+    "PANTONE 9443P C": {
+      "name": "PANTONE 9443P C",
+      "code": "9443PC",
+      "components": [
+        83.13725490196079,
+        -8,
+        -9
+      ]
+    },
+    "PANTONE 9480P C": {
+      "name": "PANTONE 9480P C",
+      "code": "9480PC",
+      "components": [
+        89.80392156862746,
+        -11,
+        -4
+      ]
+    },
+    "PANTONE 9481P C": {
+      "name": "PANTONE 9481P C",
+      "code": "9481PC",
+      "components": [
+        89.41176470588236,
+        -12,
+        -5
+      ]
+    },
+    "PANTONE 9500P C": {
+      "name": "PANTONE 9500P C",
+      "code": "9500PC",
+      "components": [
+        89.01960784313727,
+        -15,
+        -4
+      ]
+    },
+    "PANTONE 9482P C": {
+      "name": "PANTONE 9482P C",
+      "code": "9482PC",
+      "components": [
+        87.84313725490196,
+        -12,
+        -5
+      ]
+    },
+    "PANTONE 9501P C": {
+      "name": "PANTONE 9501P C",
+      "code": "9501PC",
+      "components": [
+        86.27450980392157,
+        -14,
+        -3
+      ]
+    },
+    "PANTONE 9483P C": {
+      "name": "PANTONE 9483P C",
+      "code": "9483PC",
+      "components": [
+        85.88235294117648,
+        -8,
+        -2
+      ]
+    },
+    "PANTONE 9463P C": {
+      "name": "PANTONE 9463P C",
+      "code": "9463PC",
+      "components": [
+        84.70588235294119,
+        -9,
+        -6
+      ]
+    },
+    "PANTONE 9042P C": {
+      "name": "PANTONE 9042P C",
+      "code": "9042PC",
+      "components": [
+        91.37254901960785,
+        -2,
+        1
+      ]
+    },
+    "PANTONE 9041P C": {
+      "name": "PANTONE 9041P C",
+      "code": "9041PC",
+      "components": [
+        92.15686274509804,
+        -5,
+        2
+      ]
+    },
+    "PANTONE 9040P C": {
+      "name": "PANTONE 9040P C",
+      "code": "9040PC",
+      "components": [
+        91.76470588235294,
+        -5,
+        -2
+      ]
+    },
+    "PANTONE 9044P C": {
+      "name": "PANTONE 9044P C",
+      "code": "9044PC",
+      "components": [
+        87.84313725490196,
+        -9,
+        -3
+      ]
+    },
+    "PANTONE 9045P C": {
+      "name": "PANTONE 9045P C",
+      "code": "9045PC",
+      "components": [
+        86.66666666666667,
+        -8,
+        -1
+      ]
+    },
+    "PANTONE 9503P C": {
+      "name": "PANTONE 9503P C",
+      "code": "9503PC",
+      "components": [
+        86.66666666666667,
+        -7,
+        -1
+      ]
+    },
+    "PANTONE 9504P C": {
+      "name": "PANTONE 9504P C",
+      "code": "9504PC",
+      "components": [
+        85.49019607843138,
+        -8,
+        -1
+      ]
+    },
+    "PANTONE 9525P C": {
+      "name": "PANTONE 9525P C",
+      "code": "9525PC",
+      "components": [
+        93.33333333333334,
+        -5,
+        5
+      ]
+    },
+    "PANTONE 9540P C": {
+      "name": "PANTONE 9540P C",
+      "code": "9540PC",
+      "components": [
+        93.33333333333334,
+        -7,
+        3
+      ]
+    },
+    "PANTONE 9541P C": {
+      "name": "PANTONE 9541P C",
+      "code": "9541PC",
+      "components": [
+        92.15686274509804,
+        -6,
+        3
+      ]
+    },
+    "PANTONE 9521P C": {
+      "name": "PANTONE 9521P C",
+      "code": "9521PC",
+      "components": [
+        90.58823529411765,
+        -8,
+        1
+      ]
+    },
+    "PANTONE 9522P C": {
+      "name": "PANTONE 9522P C",
+      "code": "9522PC",
+      "components": [
+        89.80392156862746,
+        -7,
+        1
+      ]
+    },
+    "PANTONE 9523P C": {
+      "name": "PANTONE 9523P C",
+      "code": "9523PC",
+      "components": [
+        89.01960784313727,
+        -5,
+        1
+      ]
+    },
+    "PANTONE 9502P C": {
+      "name": "PANTONE 9502P C",
+      "code": "9502PC",
+      "components": [
+        88.62745098039217,
+        -8,
+        -1
+      ]
+    },
+    "PANTONE 9544P C": {
+      "name": "PANTONE 9544P C",
+      "code": "9544PC",
+      "components": [
+        93.33333333333334,
+        -6,
+        8
+      ]
+    },
+    "PANTONE 9560P C": {
+      "name": "PANTONE 9560P C",
+      "code": "9560PC",
+      "components": [
+        92.94117647058825,
+        -8,
+        7
+      ]
+    },
+    "PANTONE 9561P C": {
+      "name": "PANTONE 9561P C",
+      "code": "9561PC",
+      "components": [
+        90.19607843137256,
+        -9,
+        8
+      ]
+    },
+    "PANTONE 9562P C": {
+      "name": "PANTONE 9562P C",
+      "code": "9562PC",
+      "components": [
+        88.23529411764706,
+        -6,
+        7
+      ]
+    },
+    "PANTONE 9563P C": {
+      "name": "PANTONE 9563P C",
+      "code": "9563PC",
+      "components": [
+        87.05882352941177,
+        -5,
+        6
+      ]
+    },
+    "PANTONE 9542P C": {
+      "name": "PANTONE 9542P C",
+      "code": "9542PC",
+      "components": [
+        85.88235294117648,
+        -6,
+        4
+      ]
+    },
+    "PANTONE 9543P C": {
+      "name": "PANTONE 9543P C",
+      "code": "9543PC",
+      "components": [
+        84.31372549019608,
+        -7,
+        5
+      ]
+    },
+    "PANTONE 9020P C": {
+      "name": "PANTONE 9020P C",
+      "code": "9020PC",
+      "components": [
+        93.33333333333334,
+        -4,
+        18
+      ]
+    },
+    "PANTONE 9600P C": {
+      "name": "PANTONE 9600P C",
+      "code": "9600PC",
+      "components": [
+        92.54901960784315,
+        -6,
+        17
+      ]
+    },
+    "PANTONE 9601P C": {
+      "name": "PANTONE 9601P C",
+      "code": "9601PC",
+      "components": [
+        91.37254901960785,
+        -4,
+        13
+      ]
+    },
+    "PANTONE 9122P C": {
+      "name": "PANTONE 9122P C",
+      "code": "9122PC",
+      "components": [
+        89.01960784313727,
+        -4,
+        21
+      ]
+    },
+    "PANTONE 9602P C": {
+      "name": "PANTONE 9602P C",
+      "code": "9602PC",
+      "components": [
+        86.66666666666667,
+        -4,
+        14
+      ]
+    },
+    "PANTONE 9603P C": {
+      "name": "PANTONE 9603P C",
+      "code": "9603PC",
+      "components": [
+        86.27450980392157,
+        -2,
+        10
+      ]
+    },
+    "PANTONE 9123P C": {
+      "name": "PANTONE 9123P C",
+      "code": "9123PC",
+      "components": [
+        86.27450980392157,
+        -2,
+        16
+      ]
+    },
+    "PANTONE 9580P C": {
+      "name": "PANTONE 9580P C",
+      "code": "9580PC",
+      "components": [
+        92.54901960784315,
+        -8,
+        14
+      ]
+    },
+    "PANTONE 9581P C": {
+      "name": "PANTONE 9581P C",
+      "code": "9581PC",
+      "components": [
+        90.19607843137256,
+        -6,
+        11
+      ]
+    },
+    "PANTONE 9584P C": {
+      "name": "PANTONE 9584P C",
+      "code": "9584PC",
+      "components": [
+        88.62745098039217,
+        -5,
+        10
+      ]
+    },
+    "PANTONE 9582P C": {
+      "name": "PANTONE 9582P C",
+      "code": "9582PC",
+      "components": [
+        86.66666666666667,
+        -3,
+        8
+      ]
+    },
+    "PANTONE 9583P C": {
+      "name": "PANTONE 9583P C",
+      "code": "9583PC",
+      "components": [
+        83.13725490196079,
+        -4,
+        11
+      ]
+    },
+    "PANTONE 9585P C": {
+      "name": "PANTONE 9585P C",
+      "code": "9585PC",
+      "components": [
+        86.66666666666667,
+        -3,
+        9
+      ]
+    },
+    "PANTONE 9163P C": {
+      "name": "PANTONE 9163P C",
+      "code": "9163PC",
+      "components": [
+        83.52941176470588,
+        1,
+        12
+      ]
+    },
+    "PANTONE 801P C": {
+      "name": "PANTONE 801P C",
+      "code": "801PC",
+      "components": [
+        55.294117647058826,
+        -38,
+        -43
+      ]
+    },
+    "PANTONE 802P C": {
+      "name": "PANTONE 802P C",
+      "code": "802PC",
+      "components": [
+        75.29411764705883,
+        -63,
+        63
+      ]
+    },
+    "PANTONE 803P C": {
+      "name": "PANTONE 803P C",
+      "code": "803PC",
+      "components": [
+        93.33333333333334,
+        0,
+        94
+      ]
+    },
+    "PANTONE 804P C": {
+      "name": "PANTONE 804P C",
+      "code": "804PC",
+      "components": [
+        83.52941176470588,
+        45,
+        68
+      ]
+    },
+    "PANTONE 805P C": {
+      "name": "PANTONE 805P C",
+      "code": "805PC",
+      "components": [
+        72.94117647058825,
+        69,
+        36
+      ]
+    },
+    "PANTONE 806P C": {
+      "name": "PANTONE 806P C",
+      "code": "806PC",
+      "components": [
+        64.70588235294117,
+        83,
+        -11
+      ]
+    },
+    "PANTONE 807P C": {
+      "name": "PANTONE 807P C",
+      "code": "807PC",
+      "components": [
+        56.47058823529412,
+        80,
+        -32
+      ]
+    },
+    "PANTONE 901P C": {
+      "name": "PANTONE 901P C",
+      "code": "901PC",
+      "components": [
+        61.568627450980394,
+        -37,
+        -40
+      ]
+    },
+    "PANTONE 902P C": {
+      "name": "PANTONE 902P C",
+      "code": "902PC",
+      "components": [
+        84.31372549019608,
+        -46,
+        47
+      ]
+    },
+    "PANTONE 903P C": {
+      "name": "PANTONE 903P C",
+      "code": "903PC",
+      "components": [
+        95.29411764705883,
+        -7,
+        64
+      ]
+    },
+    "PANTONE 904P C": {
+      "name": "PANTONE 904P C",
+      "code": "904PC",
+      "components": [
+        89.01960784313727,
+        24,
+        44
+      ]
+    },
+    "PANTONE 905P C": {
+      "name": "PANTONE 905P C",
+      "code": "905PC",
+      "components": [
+        79.2156862745098,
+        49,
+        17
+      ]
+    },
+    "PANTONE 906P C": {
+      "name": "PANTONE 906P C",
+      "code": "906PC",
+      "components": [
+        71.76470588235294,
+        62,
+        -19
+      ]
+    },
+    "PANTONE 907P C": {
+      "name": "PANTONE 907P C",
+      "code": "907PC",
+      "components": [
+        66.27450980392157,
+        64,
+        -31
+      ]
+    },
+    "PANTONE 908P C": {
+      "name": "PANTONE 908P C",
+      "code": "908PC",
+      "components": [
+        63.529411764705884,
+        -37,
+        -38
+      ]
+    },
+    "PANTONE 909P C": {
+      "name": "PANTONE 909P C",
+      "code": "909PC",
+      "components": [
+        87.45098039215686,
+        -36,
+        40
+      ]
+    },
+    "PANTONE 910P C": {
+      "name": "PANTONE 910P C",
+      "code": "910PC",
+      "components": [
+        94.90196078431373,
+        -6,
+        51
+      ]
+    },
+    "PANTONE 911P C": {
+      "name": "PANTONE 911P C",
+      "code": "911PC",
+      "components": [
+        90.98039215686275,
+        16,
+        33
+      ]
+    },
+    "PANTONE 912P C": {
+      "name": "PANTONE 912P C",
+      "code": "912PC",
+      "components": [
+        81.5686274509804,
+        41,
+        12
+      ]
+    },
+    "PANTONE 913P C": {
+      "name": "PANTONE 913P C",
+      "code": "913PC",
+      "components": [
+        75.68627450980392,
+        51,
+        -16
+      ]
+    },
+    "PANTONE 914P C": {
+      "name": "PANTONE 914P C",
+      "code": "914PC",
+      "components": [
+        70.19607843137256,
+        56,
+        -27
+      ]
+    },
+    "PANTONE 915P C": {
+      "name": "PANTONE 915P C",
+      "code": "915PC",
+      "components": [
+        68.62745098039215,
+        -34,
+        -34
+      ]
+    },
+    "PANTONE 916P C": {
+      "name": "PANTONE 916P C",
+      "code": "916PC",
+      "components": [
+        89.01960784313727,
+        -28,
+        30
+      ]
+    },
+    "PANTONE 917P C": {
+      "name": "PANTONE 917P C",
+      "code": "917PC",
+      "components": [
+        94.90196078431373,
+        -7,
+        40
+      ]
+    },
+    "PANTONE 918P C": {
+      "name": "PANTONE 918P C",
+      "code": "918PC",
+      "components": [
+        91.76470588235294,
+        11,
+        26
+      ]
+    },
+    "PANTONE 919P C": {
+      "name": "PANTONE 919P C",
+      "code": "919PC",
+      "components": [
+        85.49019607843138,
+        30,
+        8
+      ]
+    },
+    "PANTONE 920P C": {
+      "name": "PANTONE 920P C",
+      "code": "920PC",
+      "components": [
+        80.78431372549021,
+        38,
+        -13
+      ]
+    },
+    "PANTONE 921P C": {
+      "name": "PANTONE 921P C",
+      "code": "921PC",
+      "components": [
+        77.64705882352942,
+        41,
+        -20
+      ]
+    },
+    "PANTONE 808P C": {
+      "name": "PANTONE 808P C",
+      "code": "808PC",
+      "components": [
+        64.31372549019608,
+        -57,
+        1
+      ]
+    },
+    "PANTONE 809P C": {
+      "name": "PANTONE 809P C",
+      "code": "809PC",
+      "components": [
+        89.41176470588236,
+        -16,
+        81
+      ]
+    },
+    "PANTONE 810P C": {
+      "name": "PANTONE 810P C",
+      "code": "810PC",
+      "components": [
+        90.58823529411765,
+        16,
+        81
+      ]
+    },
+    "PANTONE 811P C": {
+      "name": "PANTONE 811P C",
+      "code": "811PC",
+      "components": [
+        77.64705882352942,
+        57,
+        47
+      ]
+    },
+    "PANTONE 812P C": {
+      "name": "PANTONE 812P C",
+      "code": "812PC",
+      "components": [
+        67.45098039215686,
+        72,
+        4
+      ]
+    },
+    "PANTONE 813P C": {
+      "name": "PANTONE 813P C",
+      "code": "813PC",
+      "components": [
+        62.352941176470594,
+        76,
+        -24
+      ]
+    },
+    "PANTONE 814P C": {
+      "name": "PANTONE 814P C",
+      "code": "814PC",
+      "components": [
+        51.76470588235294,
+        31,
+        -51
+      ]
+    },
+    "PANTONE 922P C": {
+      "name": "PANTONE 922P C",
+      "code": "922PC",
+      "components": [
+        68.23529411764706,
+        -51,
+        0
+      ]
+    },
+    "PANTONE 923P C": {
+      "name": "PANTONE 923P C",
+      "code": "923PC",
+      "components": [
+        92.54901960784315,
+        -14,
+        64
+      ]
+    },
+    "PANTONE 924P C": {
+      "name": "PANTONE 924P C",
+      "code": "924PC",
+      "components": [
+        92.54901960784315,
+        4,
+        60
+      ]
+    },
+    "PANTONE 925P C": {
+      "name": "PANTONE 925P C",
+      "code": "925PC",
+      "components": [
+        82.3529411764706,
+        40,
+        31
+      ]
+    },
+    "PANTONE 926P C": {
+      "name": "PANTONE 926P C",
+      "code": "926PC",
+      "components": [
+        73.33333333333334,
+        57,
+        -3
+      ]
+    },
+    "PANTONE 927P C": {
+      "name": "PANTONE 927P C",
+      "code": "927PC",
+      "components": [
+        69.41176470588236,
+        62,
+        -25
+      ]
+    },
+    "PANTONE 928P C": {
+      "name": "PANTONE 928P C",
+      "code": "928PC",
+      "components": [
+        57.64705882352941,
+        28,
+        -46
+      ]
+    },
+    "PANTONE 929P C": {
+      "name": "PANTONE 929P C",
+      "code": "929PC",
+      "components": [
+        72.15686274509804,
+        -45,
+        -1
+      ]
+    },
+    "PANTONE 930P C": {
+      "name": "PANTONE 930P C",
+      "code": "930PC",
+      "components": [
+        93.72549019607844,
+        -12,
+        51
+      ]
+    },
+    "PANTONE 931P C": {
+      "name": "PANTONE 931P C",
+      "code": "931PC",
+      "components": [
+        92.94117647058825,
+        1,
+        52
+      ]
+    },
+    "PANTONE 932P C": {
+      "name": "PANTONE 932P C",
+      "code": "932PC",
+      "components": [
+        84.70588235294119,
+        32,
+        25
+      ]
+    },
+    "PANTONE 933P C": {
+      "name": "PANTONE 933P C",
+      "code": "933PC",
+      "components": [
+        77.25490196078432,
+        47,
+        -5
+      ]
+    },
+    "PANTONE 934P C": {
+      "name": "PANTONE 934P C",
+      "code": "934PC",
+      "components": [
+        73.72549019607844,
+        52,
+        -22
+      ]
+    },
+    "PANTONE 935P C": {
+      "name": "PANTONE 935P C",
+      "code": "935PC",
+      "components": [
+        65.09803921568628,
+        22,
+        -37
+      ]
+    },
+    "PANTONE 936P C": {
+      "name": "PANTONE 936P C",
+      "code": "936PC",
+      "components": [
+        78.03921568627452,
+        -35,
+        -2
+      ]
+    },
+    "PANTONE 937P C": {
+      "name": "PANTONE 937P C",
+      "code": "937PC",
+      "components": [
+        94.50980392156863,
+        -10,
+        38
+      ]
+    },
+    "PANTONE 938P C": {
+      "name": "PANTONE 938P C",
+      "code": "938PC",
+      "components": [
+        94.11764705882354,
+        -2,
+        36
+      ]
+    },
+    "PANTONE 939P C": {
+      "name": "PANTONE 939P C",
+      "code": "939PC",
+      "components": [
+        88.23529411764706,
+        21,
+        17
+      ]
+    },
+    "PANTONE 940P C": {
+      "name": "PANTONE 940P C",
+      "code": "940PC",
+      "components": [
+        82.74509803921569,
+        34,
+        -5
+      ]
+    },
+    "PANTONE 941P C": {
+      "name": "PANTONE 941P C",
+      "code": "941PC",
+      "components": [
+        79.6078431372549,
+        39,
+        -17
+      ]
+    },
+    "PANTONE 942P C": {
+      "name": "PANTONE 942P C",
+      "code": "942PC",
+      "components": [
+        74.11764705882354,
+        16,
+        -27
+      ]
+    }
+  }
+}

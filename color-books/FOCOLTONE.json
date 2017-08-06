@@ -1,0 +1,7642 @@
+{
+  "version": 1,
+  "title": "FOCOLTONE",
+  "prefix": "FOCOLTONE ",
+  "suffix": "",
+  "colorCount": 763,
+  "colorSpace": "CMYK",
+  "channels": 4,
+  "spotIdentifier": "Process",
+  "records": {
+    "FOCOLTONE 1070": {
+      "name": "FOCOLTONE 1070",
+      "code": "1070",
+      "components": [
+        100,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1071": {
+      "name": "FOCOLTONE 1071",
+      "code": "1071",
+      "components": [
+        0,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1072": {
+      "name": "FOCOLTONE 1072",
+      "code": "1072",
+      "components": [
+        0,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1073": {
+      "name": "FOCOLTONE 1073",
+      "code": "1073",
+      "components": [
+        0,
+        0,
+        0,
+        100
+      ]
+    },
+    "FOCOLTONE 1074": {
+      "name": "FOCOLTONE 1074",
+      "code": "1074",
+      "components": [
+        100,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1075": {
+      "name": "FOCOLTONE 1075",
+      "code": "1075",
+      "components": [
+        100,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1076": {
+      "name": "FOCOLTONE 1076",
+      "code": "1076",
+      "components": [
+        0,
+        100,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1083": {
+      "name": "FOCOLTONE 1083",
+      "code": "1083",
+      "components": [
+        0,
+        0,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2250": {
+      "name": "FOCOLTONE 2250",
+      "code": "2250",
+      "components": [
+        0,
+        0,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3417": {
+      "name": "FOCOLTONE 3417",
+      "code": "3417",
+      "components": [
+        0,
+        0,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 1082": {
+      "name": "FOCOLTONE 1082",
+      "code": "1082",
+      "components": [
+        0,
+        100,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2249": {
+      "name": "FOCOLTONE 2249",
+      "code": "2249",
+      "components": [
+        0,
+        100,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3416": {
+      "name": "FOCOLTONE 3416",
+      "code": "3416",
+      "components": [
+        0,
+        100,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2285": {
+      "name": "FOCOLTONE 2285",
+      "code": "2285",
+      "components": [
+        0,
+        100,
+        65.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 2291": {
+      "name": "FOCOLTONE 2291",
+      "code": "2291",
+      "components": [
+        0,
+        100,
+        70.19607843137256,
+        0
+      ]
+    },
+    "FOCOLTONE 3458": {
+      "name": "FOCOLTONE 3458",
+      "code": "3458",
+      "components": [
+        0,
+        100,
+        74.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3464": {
+      "name": "FOCOLTONE 3464",
+      "code": "3464",
+      "components": [
+        0,
+        100,
+        80,
+        0
+      ]
+    },
+    "FOCOLTONE 3470": {
+      "name": "FOCOLTONE 3470",
+      "code": "3470",
+      "components": [
+        0,
+        100,
+        85.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 1142": {
+      "name": "FOCOLTONE 1142",
+      "code": "1142",
+      "components": [
+        0,
+        100,
+        40,
+        0
+      ]
+    },
+    "FOCOLTONE 2303": {
+      "name": "FOCOLTONE 2303",
+      "code": "2303",
+      "components": [
+        0,
+        100,
+        45.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 1118": {
+      "name": "FOCOLTONE 1118",
+      "code": "1118",
+      "components": [
+        0,
+        100,
+        50.196078431372555,
+        0
+      ]
+    },
+    "FOCOLTONE 2309": {
+      "name": "FOCOLTONE 2309",
+      "code": "2309",
+      "components": [
+        0,
+        100,
+        54.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3452": {
+      "name": "FOCOLTONE 3452",
+      "code": "3452",
+      "components": [
+        0,
+        100,
+        60.00000000000001,
+        0
+      ]
+    },
+    "FOCOLTONE 1020": {
+      "name": "FOCOLTONE 1020",
+      "code": "1020",
+      "components": [
+        0,
+        40,
+        14.901960784313726,
+        0
+      ]
+    },
+    "FOCOLTONE 1034": {
+      "name": "FOCOLTONE 1034",
+      "code": "1034",
+      "components": [
+        0,
+        50.196078431372555,
+        20,
+        0
+      ]
+    },
+    "FOCOLTONE 3403": {
+      "name": "FOCOLTONE 3403",
+      "code": "3403",
+      "components": [
+        0,
+        60.00000000000001,
+        34.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 2208": {
+      "name": "FOCOLTONE 2208",
+      "code": "2208",
+      "components": [
+        0,
+        65.09803921568628,
+        25.098039215686278,
+        0
+      ]
+    },
+    "FOCOLTONE 2222": {
+      "name": "FOCOLTONE 2222",
+      "code": "2222",
+      "components": [
+        0,
+        70.19607843137256,
+        45.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 1017": {
+      "name": "FOCOLTONE 1017",
+      "code": "1017",
+      "components": [
+        0,
+        40,
+        14.901960784313726,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1031": {
+      "name": "FOCOLTONE 1031",
+      "code": "1031",
+      "components": [
+        0,
+        50.196078431372555,
+        20,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2205": {
+      "name": "FOCOLTONE 2205",
+      "code": "2205",
+      "components": [
+        0,
+        65.09803921568628,
+        25.098039215686278,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2219": {
+      "name": "FOCOLTONE 2219",
+      "code": "2219",
+      "components": [
+        0,
+        70.19607843137256,
+        45.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3342": {
+      "name": "FOCOLTONE 3342",
+      "code": "3342",
+      "components": [
+        34.90196078431373,
+        74.90196078431373,
+        60.00000000000001,
+        0
+      ]
+    },
+    "FOCOLTONE 1048": {
+      "name": "FOCOLTONE 1048",
+      "code": "1048",
+      "components": [
+        0,
+        14.901960784313726,
+        29.80392156862745,
+        0
+      ]
+    },
+    "FOCOLTONE 1062": {
+      "name": "FOCOLTONE 1062",
+      "code": "1062",
+      "components": [
+        0,
+        20,
+        40,
+        0
+      ]
+    },
+    "FOCOLTONE 2236": {
+      "name": "FOCOLTONE 2236",
+      "code": "2236",
+      "components": [
+        0,
+        25.098039215686278,
+        54.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 1006": {
+      "name": "FOCOLTONE 1006",
+      "code": "1006",
+      "components": [
+        0,
+        29.80392156862745,
+        50.196078431372555,
+        0
+      ]
+    },
+    "FOCOLTONE 2180": {
+      "name": "FOCOLTONE 2180",
+      "code": "2180",
+      "components": [
+        0,
+        45.09803921568628,
+        65.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 2328": {
+      "name": "FOCOLTONE 2328",
+      "code": "2328",
+      "components": [
+        0,
+        54.90196078431373,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2334": {
+      "name": "FOCOLTONE 2334",
+      "code": "2334",
+      "components": [
+        0,
+        70.19607843137256,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3483": {
+      "name": "FOCOLTONE 3483",
+      "code": "3483",
+      "components": [
+        0,
+        74.90196078431373,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3489": {
+      "name": "FOCOLTONE 3489",
+      "code": "3489",
+      "components": [
+        0,
+        80,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3495": {
+      "name": "FOCOLTONE 3495",
+      "code": "3495",
+      "components": [
+        0,
+        85.09803921568628,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1155": {
+      "name": "FOCOLTONE 1155",
+      "code": "1155",
+      "components": [
+        0,
+        40,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2316": {
+      "name": "FOCOLTONE 2316",
+      "code": "2316",
+      "components": [
+        0,
+        45.09803921568628,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1161": {
+      "name": "FOCOLTONE 1161",
+      "code": "1161",
+      "components": [
+        0,
+        50.196078431372555,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2322": {
+      "name": "FOCOLTONE 2322",
+      "code": "2322",
+      "components": [
+        0,
+        54.90196078431373,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3507": {
+      "name": "FOCOLTONE 3507",
+      "code": "3507",
+      "components": [
+        0,
+        60.00000000000001,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3389": {
+      "name": "FOCOLTONE 3389",
+      "code": "3389",
+      "components": [
+        0,
+        34.90196078431373,
+        85.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 2194": {
+      "name": "FOCOLTONE 2194",
+      "code": "2194",
+      "components": [
+        0,
+        54.90196078431373,
+        70.19607843137256,
+        0
+      ]
+    },
+    "FOCOLTONE 3347": {
+      "name": "FOCOLTONE 3347",
+      "code": "3347",
+      "components": [
+        0,
+        74.90196078431373,
+        60.00000000000001,
+        0
+      ]
+    },
+    "FOCOLTONE 3361": {
+      "name": "FOCOLTONE 3361",
+      "code": "3361",
+      "components": [
+        0,
+        80,
+        74.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3375": {
+      "name": "FOCOLTONE 3375",
+      "code": "3375",
+      "components": [
+        0,
+        85.09803921568628,
+        80,
+        0
+      ]
+    },
+    "FOCOLTONE 1167": {
+      "name": "FOCOLTONE 1167",
+      "code": "1167",
+      "components": [
+        0,
+        14.901960784313726,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1173": {
+      "name": "FOCOLTONE 1173",
+      "code": "1173",
+      "components": [
+        0,
+        20,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2340": {
+      "name": "FOCOLTONE 2340",
+      "code": "2340",
+      "components": [
+        0,
+        25.098039215686278,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1149": {
+      "name": "FOCOLTONE 1149",
+      "code": "1149",
+      "components": [
+        0,
+        29.80392156862745,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3501": {
+      "name": "FOCOLTONE 3501",
+      "code": "3501",
+      "components": [
+        0,
+        34.90196078431373,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1079": {
+      "name": "FOCOLTONE 1079",
+      "code": "1079",
+      "components": [
+        0,
+        0,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2246": {
+      "name": "FOCOLTONE 2246",
+      "code": "2246",
+      "components": [
+        0,
+        0,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3413": {
+      "name": "FOCOLTONE 3413",
+      "code": "3413",
+      "components": [
+        0,
+        0,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 1027": {
+      "name": "FOCOLTONE 1027",
+      "code": "1027",
+      "components": [
+        0,
+        0,
+        14.901960784313726,
+        0
+      ]
+    },
+    "FOCOLTONE 1041": {
+      "name": "FOCOLTONE 1041",
+      "code": "1041",
+      "components": [
+        0,
+        0,
+        20,
+        0
+      ]
+    },
+    "FOCOLTONE 2215": {
+      "name": "FOCOLTONE 2215",
+      "code": "2215",
+      "components": [
+        0,
+        0,
+        25.098039215686278,
+        0
+      ]
+    },
+    "FOCOLTONE 1055": {
+      "name": "FOCOLTONE 1055",
+      "code": "1055",
+      "components": [
+        0,
+        0,
+        29.80392156862745,
+        0
+      ]
+    },
+    "FOCOLTONE 3410": {
+      "name": "FOCOLTONE 3410",
+      "code": "3410",
+      "components": [
+        0,
+        0,
+        34.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 1069": {
+      "name": "FOCOLTONE 1069",
+      "code": "1069",
+      "components": [
+        0,
+        0,
+        40,
+        0
+      ]
+    },
+    "FOCOLTONE 2229": {
+      "name": "FOCOLTONE 2229",
+      "code": "2229",
+      "components": [
+        0,
+        0,
+        45.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 1013": {
+      "name": "FOCOLTONE 1013",
+      "code": "1013",
+      "components": [
+        0,
+        0,
+        50.196078431372555,
+        0
+      ]
+    },
+    "FOCOLTONE 2243": {
+      "name": "FOCOLTONE 2243",
+      "code": "2243",
+      "components": [
+        0,
+        0,
+        54.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3354": {
+      "name": "FOCOLTONE 3354",
+      "code": "3354",
+      "components": [
+        0,
+        0,
+        60.00000000000001,
+        0
+      ]
+    },
+    "FOCOLTONE 2187": {
+      "name": "FOCOLTONE 2187",
+      "code": "2187",
+      "components": [
+        0,
+        0,
+        65.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 2201": {
+      "name": "FOCOLTONE 2201",
+      "code": "2201",
+      "components": [
+        0,
+        0,
+        70.19607843137256,
+        0
+      ]
+    },
+    "FOCOLTONE 3368": {
+      "name": "FOCOLTONE 3368",
+      "code": "3368",
+      "components": [
+        0,
+        0,
+        74.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3382": {
+      "name": "FOCOLTONE 3382",
+      "code": "3382",
+      "components": [
+        0,
+        0,
+        80,
+        0
+      ]
+    },
+    "FOCOLTONE 3396": {
+      "name": "FOCOLTONE 3396",
+      "code": "3396",
+      "components": [
+        0,
+        0,
+        85.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 1148": {
+      "name": "FOCOLTONE 1148",
+      "code": "1148",
+      "components": [
+        14.901960784313726,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1154": {
+      "name": "FOCOLTONE 1154",
+      "code": "1154",
+      "components": [
+        20,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2315": {
+      "name": "FOCOLTONE 2315",
+      "code": "2315",
+      "components": [
+        25.098039215686278,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1160": {
+      "name": "FOCOLTONE 1160",
+      "code": "1160",
+      "components": [
+        29.80392156862745,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3482": {
+      "name": "FOCOLTONE 3482",
+      "code": "3482",
+      "components": [
+        34.90196078431373,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1146": {
+      "name": "FOCOLTONE 1146",
+      "code": "1146",
+      "components": [
+        14.901960784313726,
+        0,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1152": {
+      "name": "FOCOLTONE 1152",
+      "code": "1152",
+      "components": [
+        20,
+        0,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1158": {
+      "name": "FOCOLTONE 1158",
+      "code": "1158",
+      "components": [
+        29.80392156862745,
+        0,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1164": {
+      "name": "FOCOLTONE 1164",
+      "code": "1164",
+      "components": [
+        40,
+        0,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1170": {
+      "name": "FOCOLTONE 1170",
+      "code": "1170",
+      "components": [
+        50.196078431372555,
+        0,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1166": {
+      "name": "FOCOLTONE 1166",
+      "code": "1166",
+      "components": [
+        40,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2321": {
+      "name": "FOCOLTONE 2321",
+      "code": "2321",
+      "components": [
+        45.09803921568628,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1172": {
+      "name": "FOCOLTONE 1172",
+      "code": "1172",
+      "components": [
+        50.196078431372555,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2327": {
+      "name": "FOCOLTONE 2327",
+      "code": "2327",
+      "components": [
+        54.90196078431373,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3488": {
+      "name": "FOCOLTONE 3488",
+      "code": "3488",
+      "components": [
+        60.00000000000001,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2333": {
+      "name": "FOCOLTONE 2333",
+      "code": "2333",
+      "components": [
+        65.09803921568628,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2339": {
+      "name": "FOCOLTONE 2339",
+      "code": "2339",
+      "components": [
+        70.19607843137256,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3494": {
+      "name": "FOCOLTONE 3494",
+      "code": "3494",
+      "components": [
+        74.90196078431373,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3500": {
+      "name": "FOCOLTONE 3500",
+      "code": "3500",
+      "components": [
+        80,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3506": {
+      "name": "FOCOLTONE 3506",
+      "code": "3506",
+      "components": [
+        85.09803921568628,
+        0,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1005": {
+      "name": "FOCOLTONE 1005",
+      "code": "1005",
+      "components": [
+        14.901960784313726,
+        0,
+        50.196078431372555,
+        0
+      ]
+    },
+    "FOCOLTONE 2179": {
+      "name": "FOCOLTONE 2179",
+      "code": "2179",
+      "components": [
+        25.098039215686278,
+        0,
+        65.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 3346": {
+      "name": "FOCOLTONE 3346",
+      "code": "3346",
+      "components": [
+        34.90196078431373,
+        0,
+        60.00000000000001,
+        0
+      ]
+    },
+    "FOCOLTONE 2193": {
+      "name": "FOCOLTONE 2193",
+      "code": "2193",
+      "components": [
+        45.09803921568628,
+        0,
+        70.19607843137256,
+        0
+      ]
+    },
+    "FOCOLTONE 3360": {
+      "name": "FOCOLTONE 3360",
+      "code": "3360",
+      "components": [
+        60.00000000000001,
+        0,
+        74.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 1163": {
+      "name": "FOCOLTONE 1163",
+      "code": "1163",
+      "components": [
+        40,
+        14.901960784313726,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1169": {
+      "name": "FOCOLTONE 1169",
+      "code": "1169",
+      "components": [
+        50.196078431372555,
+        20,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2336": {
+      "name": "FOCOLTONE 2336",
+      "code": "2336",
+      "components": [
+        70.19607843137256,
+        25.098039215686278,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3497": {
+      "name": "FOCOLTONE 3497",
+      "code": "3497",
+      "components": [
+        80,
+        34.90196078431373,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3503": {
+      "name": "FOCOLTONE 3503",
+      "code": "3503",
+      "components": [
+        85.09803921568628,
+        60.00000000000001,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1002": {
+      "name": "FOCOLTONE 1002",
+      "code": "1002",
+      "components": [
+        14.901960784313726,
+        0,
+        50.196078431372555,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2176": {
+      "name": "FOCOLTONE 2176",
+      "code": "2176",
+      "components": [
+        25.098039215686278,
+        0,
+        65.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3343": {
+      "name": "FOCOLTONE 3343",
+      "code": "3343",
+      "components": [
+        34.90196078431373,
+        0,
+        60.00000000000001,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2190": {
+      "name": "FOCOLTONE 2190",
+      "code": "2190",
+      "components": [
+        45.09803921568628,
+        0,
+        70.19607843137256,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3357": {
+      "name": "FOCOLTONE 3357",
+      "code": "3357",
+      "components": [
+        60.00000000000001,
+        0,
+        74.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3480": {
+      "name": "FOCOLTONE 3480",
+      "code": "3480",
+      "components": [
+        34.90196078431373,
+        0,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3486": {
+      "name": "FOCOLTONE 3486",
+      "code": "3486",
+      "components": [
+        60.00000000000001,
+        0,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3492": {
+      "name": "FOCOLTONE 3492",
+      "code": "3492",
+      "components": [
+        74.90196078431373,
+        0,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3498": {
+      "name": "FOCOLTONE 3498",
+      "code": "3498",
+      "components": [
+        80,
+        0,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3504": {
+      "name": "FOCOLTONE 3504",
+      "code": "3504",
+      "components": [
+        85.09803921568628,
+        0,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 1162": {
+      "name": "FOCOLTONE 1162",
+      "code": "1162",
+      "components": [
+        40,
+        14.901960784313726,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1168": {
+      "name": "FOCOLTONE 1168",
+      "code": "1168",
+      "components": [
+        50.196078431372555,
+        20,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2335": {
+      "name": "FOCOLTONE 2335",
+      "code": "2335",
+      "components": [
+        70.19607843137256,
+        25.098039215686278,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3496": {
+      "name": "FOCOLTONE 3496",
+      "code": "3496",
+      "components": [
+        80,
+        34.90196078431373,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3502": {
+      "name": "FOCOLTONE 3502",
+      "code": "3502",
+      "components": [
+        85.09803921568628,
+        60.00000000000001,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2313": {
+      "name": "FOCOLTONE 2313",
+      "code": "2313",
+      "components": [
+        25.098039215686278,
+        0,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2319": {
+      "name": "FOCOLTONE 2319",
+      "code": "2319",
+      "components": [
+        45.09803921568628,
+        0,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2325": {
+      "name": "FOCOLTONE 2325",
+      "code": "2325",
+      "components": [
+        54.90196078431373,
+        0,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2331": {
+      "name": "FOCOLTONE 2331",
+      "code": "2331",
+      "components": [
+        65.09803921568628,
+        0,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2337": {
+      "name": "FOCOLTONE 2337",
+      "code": "2337",
+      "components": [
+        70.19607843137256,
+        0,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1022": {
+      "name": "FOCOLTONE 1022",
+      "code": "1022",
+      "components": [
+        0,
+        0,
+        14.901960784313726,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1036": {
+      "name": "FOCOLTONE 1036",
+      "code": "1036",
+      "components": [
+        0,
+        0,
+        20,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1050": {
+      "name": "FOCOLTONE 1050",
+      "code": "1050",
+      "components": [
+        0,
+        0,
+        29.80392156862745,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1064": {
+      "name": "FOCOLTONE 1064",
+      "code": "1064",
+      "components": [
+        0,
+        0,
+        40,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1008": {
+      "name": "FOCOLTONE 1008",
+      "code": "1008",
+      "components": [
+        0,
+        0,
+        50.196078431372555,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2210": {
+      "name": "FOCOLTONE 2210",
+      "code": "2210",
+      "components": [
+        0,
+        0,
+        25.098039215686278,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2224": {
+      "name": "FOCOLTONE 2224",
+      "code": "2224",
+      "components": [
+        0,
+        0,
+        45.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2238": {
+      "name": "FOCOLTONE 2238",
+      "code": "2238",
+      "components": [
+        0,
+        0,
+        54.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2182": {
+      "name": "FOCOLTONE 2182",
+      "code": "2182",
+      "components": [
+        0,
+        0,
+        65.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2196": {
+      "name": "FOCOLTONE 2196",
+      "code": "2196",
+      "components": [
+        0,
+        0,
+        70.19607843137256,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3405": {
+      "name": "FOCOLTONE 3405",
+      "code": "3405",
+      "components": [
+        0,
+        0,
+        34.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3349": {
+      "name": "FOCOLTONE 3349",
+      "code": "3349",
+      "components": [
+        0,
+        0,
+        60.00000000000001,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3363": {
+      "name": "FOCOLTONE 3363",
+      "code": "3363",
+      "components": [
+        0,
+        0,
+        74.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3377": {
+      "name": "FOCOLTONE 3377",
+      "code": "3377",
+      "components": [
+        0,
+        0,
+        80,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3391": {
+      "name": "FOCOLTONE 3391",
+      "code": "3391",
+      "components": [
+        0,
+        0,
+        85.09803921568628,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 1081": {
+      "name": "FOCOLTONE 1081",
+      "code": "1081",
+      "components": [
+        100,
+        0,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2248": {
+      "name": "FOCOLTONE 2248",
+      "code": "2248",
+      "components": [
+        100,
+        0,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3415": {
+      "name": "FOCOLTONE 3415",
+      "code": "3415",
+      "components": [
+        100,
+        0,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2255": {
+      "name": "FOCOLTONE 2255",
+      "code": "2255",
+      "components": [
+        100,
+        0,
+        65.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 2261": {
+      "name": "FOCOLTONE 2261",
+      "code": "2261",
+      "components": [
+        100,
+        0,
+        70.19607843137256,
+        0
+      ]
+    },
+    "FOCOLTONE 3428": {
+      "name": "FOCOLTONE 3428",
+      "code": "3428",
+      "components": [
+        100,
+        0,
+        74.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3434": {
+      "name": "FOCOLTONE 3434",
+      "code": "3434",
+      "components": [
+        100,
+        0,
+        80,
+        0
+      ]
+    },
+    "FOCOLTONE 3440": {
+      "name": "FOCOLTONE 3440",
+      "code": "3440",
+      "components": [
+        100,
+        0,
+        85.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 3420": {
+      "name": "FOCOLTONE 3420",
+      "code": "3420",
+      "components": [
+        100,
+        0,
+        60.00000000000001,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3426": {
+      "name": "FOCOLTONE 3426",
+      "code": "3426",
+      "components": [
+        100,
+        0,
+        74.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3432": {
+      "name": "FOCOLTONE 3432",
+      "code": "3432",
+      "components": [
+        100,
+        0,
+        80,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3438": {
+      "name": "FOCOLTONE 3438",
+      "code": "3438",
+      "components": [
+        100,
+        0,
+        85.09803921568628,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3436": {
+      "name": "FOCOLTONE 3436",
+      "code": "3436",
+      "components": [
+        100,
+        34.90196078431373,
+        85.09803921568628,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2271": {
+      "name": "FOCOLTONE 2271",
+      "code": "2271",
+      "components": [
+        100,
+        0,
+        45.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2277": {
+      "name": "FOCOLTONE 2277",
+      "code": "2277",
+      "components": [
+        100,
+        0,
+        54.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2253": {
+      "name": "FOCOLTONE 2253",
+      "code": "2253",
+      "components": [
+        100,
+        0,
+        65.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2259": {
+      "name": "FOCOLTONE 2259",
+      "code": "2259",
+      "components": [
+        100,
+        0,
+        70.19607843137256,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3437": {
+      "name": "FOCOLTONE 3437",
+      "code": "3437",
+      "components": [
+        100,
+        34.90196078431373,
+        85.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 3374": {
+      "name": "FOCOLTONE 3374",
+      "code": "3374",
+      "components": [
+        74.90196078431373,
+        0,
+        80,
+        0
+      ]
+    },
+    "FOCOLTONE 3388": {
+      "name": "FOCOLTONE 3388",
+      "code": "3388",
+      "components": [
+        80,
+        0,
+        85.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 2235": {
+      "name": "FOCOLTONE 2235",
+      "code": "2235",
+      "components": [
+        70.19607843137256,
+        0,
+        54.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3384": {
+      "name": "FOCOLTONE 3384",
+      "code": "3384",
+      "components": [
+        80,
+        34.90196078431373,
+        85.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 3371": {
+      "name": "FOCOLTONE 3371",
+      "code": "3371",
+      "components": [
+        74.90196078431373,
+        0,
+        80,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3385": {
+      "name": "FOCOLTONE 3385",
+      "code": "3385",
+      "components": [
+        80,
+        0,
+        85.09803921568628,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3383": {
+      "name": "FOCOLTONE 3383",
+      "code": "3383",
+      "components": [
+        80,
+        34.90196078431373,
+        85.09803921568628,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2231": {
+      "name": "FOCOLTONE 2231",
+      "code": "2231",
+      "components": [
+        70.19607843137256,
+        25.098039215686278,
+        54.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 2232": {
+      "name": "FOCOLTONE 2232",
+      "code": "2232",
+      "components": [
+        70.19607843137256,
+        0,
+        54.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2230": {
+      "name": "FOCOLTONE 2230",
+      "code": "2230",
+      "components": [
+        70.19607843137256,
+        25.098039215686278,
+        54.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2251": {
+      "name": "FOCOLTONE 2251",
+      "code": "2251",
+      "components": [
+        100,
+        45.09803921568628,
+        65.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2257": {
+      "name": "FOCOLTONE 2257",
+      "code": "2257",
+      "components": [
+        100,
+        54.90196078431373,
+        70.19607843137256,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1019": {
+      "name": "FOCOLTONE 1019",
+      "code": "1019",
+      "components": [
+        20,
+        0,
+        14.901960784313726,
+        0
+      ]
+    },
+    "FOCOLTONE 1033": {
+      "name": "FOCOLTONE 1033",
+      "code": "1033",
+      "components": [
+        29.80392156862745,
+        0,
+        20,
+        0
+      ]
+    },
+    "FOCOLTONE 1047": {
+      "name": "FOCOLTONE 1047",
+      "code": "1047",
+      "components": [
+        40,
+        0,
+        29.80392156862745,
+        0
+      ]
+    },
+    "FOCOLTONE 1061": {
+      "name": "FOCOLTONE 1061",
+      "code": "1061",
+      "components": [
+        50.196078431372555,
+        0,
+        40,
+        0
+      ]
+    },
+    "FOCOLTONE 2221": {
+      "name": "FOCOLTONE 2221",
+      "code": "2221",
+      "components": [
+        65.09803921568628,
+        0,
+        45.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 1016": {
+      "name": "FOCOLTONE 1016",
+      "code": "1016",
+      "components": [
+        20,
+        0,
+        14.901960784313726,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1030": {
+      "name": "FOCOLTONE 1030",
+      "code": "1030",
+      "components": [
+        29.80392156862745,
+        0,
+        20,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1044": {
+      "name": "FOCOLTONE 1044",
+      "code": "1044",
+      "components": [
+        40,
+        0,
+        29.80392156862745,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1058": {
+      "name": "FOCOLTONE 1058",
+      "code": "1058",
+      "components": [
+        50.196078431372555,
+        0,
+        40,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2218": {
+      "name": "FOCOLTONE 2218",
+      "code": "2218",
+      "components": [
+        65.09803921568628,
+        0,
+        45.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1043": {
+      "name": "FOCOLTONE 1043",
+      "code": "1043",
+      "components": [
+        40,
+        14.901960784313726,
+        29.80392156862745,
+        0
+      ]
+    },
+    "FOCOLTONE 1057": {
+      "name": "FOCOLTONE 1057",
+      "code": "1057",
+      "components": [
+        50.196078431372555,
+        20,
+        40,
+        0
+      ]
+    },
+    "FOCOLTONE 1042": {
+      "name": "FOCOLTONE 1042",
+      "code": "1042",
+      "components": [
+        40,
+        14.901960784313726,
+        29.80392156862745,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1056": {
+      "name": "FOCOLTONE 1056",
+      "code": "1056",
+      "components": [
+        50.196078431372555,
+        20,
+        40,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2207": {
+      "name": "FOCOLTONE 2207",
+      "code": "2207",
+      "components": [
+        54.90196078431373,
+        0,
+        25.098039215686278,
+        0
+      ]
+    },
+    "FOCOLTONE 3402": {
+      "name": "FOCOLTONE 3402",
+      "code": "3402",
+      "components": [
+        85.09803921568628,
+        0,
+        34.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 2204": {
+      "name": "FOCOLTONE 2204",
+      "code": "2204",
+      "components": [
+        54.90196078431373,
+        0,
+        25.098039215686278,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3399": {
+      "name": "FOCOLTONE 3399",
+      "code": "3399",
+      "components": [
+        85.09803921568628,
+        0,
+        34.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 1085": {
+      "name": "FOCOLTONE 1085",
+      "code": "1085",
+      "components": [
+        100,
+        29.80392156862745,
+        50.196078431372555,
+        0
+      ]
+    },
+    "FOCOLTONE 2258": {
+      "name": "FOCOLTONE 2258",
+      "code": "2258",
+      "components": [
+        100,
+        54.90196078431373,
+        70.19607843137256,
+        0
+      ]
+    },
+    "FOCOLTONE 1112": {
+      "name": "FOCOLTONE 1112",
+      "code": "1112",
+      "components": [
+        100,
+        0,
+        40,
+        0
+      ]
+    },
+    "FOCOLTONE 2273": {
+      "name": "FOCOLTONE 2273",
+      "code": "2273",
+      "components": [
+        100,
+        0,
+        45.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 1088": {
+      "name": "FOCOLTONE 1088",
+      "code": "1088",
+      "components": [
+        100,
+        0,
+        50.196078431372555,
+        0
+      ]
+    },
+    "FOCOLTONE 2279": {
+      "name": "FOCOLTONE 2279",
+      "code": "2279",
+      "components": [
+        100,
+        0,
+        54.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3422": {
+      "name": "FOCOLTONE 3422",
+      "code": "3422",
+      "components": [
+        100,
+        0,
+        60.00000000000001,
+        0
+      ]
+    },
+    "FOCOLTONE 1110": {
+      "name": "FOCOLTONE 1110",
+      "code": "1110",
+      "components": [
+        100,
+        0,
+        40,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1086": {
+      "name": "FOCOLTONE 1086",
+      "code": "1086",
+      "components": [
+        100,
+        0,
+        50.196078431372555,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2276": {
+      "name": "FOCOLTONE 2276",
+      "code": "2276",
+      "components": [
+        100,
+        25.098039215686278,
+        54.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 2252": {
+      "name": "FOCOLTONE 2252",
+      "code": "2252",
+      "components": [
+        100,
+        45.09803921568628,
+        65.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 2275": {
+      "name": "FOCOLTONE 2275",
+      "code": "2275",
+      "components": [
+        100,
+        25.098039215686278,
+        54.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1103": {
+      "name": "FOCOLTONE 1103",
+      "code": "1103",
+      "components": [
+        100,
+        14.901960784313726,
+        29.80392156862745,
+        0
+      ]
+    },
+    "FOCOLTONE 1109": {
+      "name": "FOCOLTONE 1109",
+      "code": "1109",
+      "components": [
+        100,
+        20,
+        40,
+        0
+      ]
+    },
+    "FOCOLTONE 1102": {
+      "name": "FOCOLTONE 1102",
+      "code": "1102",
+      "components": [
+        100,
+        14.901960784313726,
+        29.80392156862745,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1108": {
+      "name": "FOCOLTONE 1108",
+      "code": "1108",
+      "components": [
+        100,
+        20,
+        40,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1084": {
+      "name": "FOCOLTONE 1084",
+      "code": "1084",
+      "components": [
+        100,
+        29.80392156862745,
+        50.196078431372555,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1092": {
+      "name": "FOCOLTONE 1092",
+      "code": "1092",
+      "components": [
+        100,
+        0,
+        14.901960784313726,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1098": {
+      "name": "FOCOLTONE 1098",
+      "code": "1098",
+      "components": [
+        100,
+        0,
+        20,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1104": {
+      "name": "FOCOLTONE 1104",
+      "code": "1104",
+      "components": [
+        100,
+        0,
+        29.80392156862745,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2265": {
+      "name": "FOCOLTONE 2265",
+      "code": "2265",
+      "components": [
+        100,
+        0,
+        25.098039215686278,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3444": {
+      "name": "FOCOLTONE 3444",
+      "code": "3444",
+      "components": [
+        100,
+        0,
+        34.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 1094": {
+      "name": "FOCOLTONE 1094",
+      "code": "1094",
+      "components": [
+        100,
+        0,
+        14.901960784313726,
+        0
+      ]
+    },
+    "FOCOLTONE 1100": {
+      "name": "FOCOLTONE 1100",
+      "code": "1100",
+      "components": [
+        100,
+        0,
+        20,
+        0
+      ]
+    },
+    "FOCOLTONE 2267": {
+      "name": "FOCOLTONE 2267",
+      "code": "2267",
+      "components": [
+        100,
+        0,
+        25.098039215686278,
+        0
+      ]
+    },
+    "FOCOLTONE 1106": {
+      "name": "FOCOLTONE 1106",
+      "code": "1106",
+      "components": [
+        100,
+        0,
+        29.80392156862745,
+        0
+      ]
+    },
+    "FOCOLTONE 3446": {
+      "name": "FOCOLTONE 3446",
+      "code": "3446",
+      "components": [
+        100,
+        0,
+        34.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 1011": {
+      "name": "FOCOLTONE 1011",
+      "code": "1011",
+      "components": [
+        14.901960784313726,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1025": {
+      "name": "FOCOLTONE 1025",
+      "code": "1025",
+      "components": [
+        20,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2185": {
+      "name": "FOCOLTONE 2185",
+      "code": "2185",
+      "components": [
+        25.098039215686278,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1039": {
+      "name": "FOCOLTONE 1039",
+      "code": "1039",
+      "components": [
+        29.80392156862745,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3352": {
+      "name": "FOCOLTONE 3352",
+      "code": "3352",
+      "components": [
+        34.90196078431373,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1053": {
+      "name": "FOCOLTONE 1053",
+      "code": "1053",
+      "components": [
+        40,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2199": {
+      "name": "FOCOLTONE 2199",
+      "code": "2199",
+      "components": [
+        45.09803921568628,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1067": {
+      "name": "FOCOLTONE 1067",
+      "code": "1067",
+      "components": [
+        50.196078431372555,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2213": {
+      "name": "FOCOLTONE 2213",
+      "code": "2213",
+      "components": [
+        54.90196078431373,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3366": {
+      "name": "FOCOLTONE 3366",
+      "code": "3366",
+      "components": [
+        60.00000000000001,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2227": {
+      "name": "FOCOLTONE 2227",
+      "code": "2227",
+      "components": [
+        65.09803921568628,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2241": {
+      "name": "FOCOLTONE 2241",
+      "code": "2241",
+      "components": [
+        70.19607843137256,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3380": {
+      "name": "FOCOLTONE 3380",
+      "code": "3380",
+      "components": [
+        74.90196078431373,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3394": {
+      "name": "FOCOLTONE 3394",
+      "code": "3394",
+      "components": [
+        80,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3408": {
+      "name": "FOCOLTONE 3408",
+      "code": "3408",
+      "components": [
+        85.09803921568628,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3351": {
+      "name": "FOCOLTONE 3351",
+      "code": "3351",
+      "components": [
+        34.90196078431373,
+        0,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3365": {
+      "name": "FOCOLTONE 3365",
+      "code": "3365",
+      "components": [
+        60.00000000000001,
+        0,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3379": {
+      "name": "FOCOLTONE 3379",
+      "code": "3379",
+      "components": [
+        74.90196078431373,
+        0,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3393": {
+      "name": "FOCOLTONE 3393",
+      "code": "3393",
+      "components": [
+        80,
+        0,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3407": {
+      "name": "FOCOLTONE 3407",
+      "code": "3407",
+      "components": [
+        85.09803921568628,
+        0,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2184": {
+      "name": "FOCOLTONE 2184",
+      "code": "2184",
+      "components": [
+        25.098039215686278,
+        0,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2198": {
+      "name": "FOCOLTONE 2198",
+      "code": "2198",
+      "components": [
+        45.09803921568628,
+        0,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2212": {
+      "name": "FOCOLTONE 2212",
+      "code": "2212",
+      "components": [
+        54.90196078431373,
+        0,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2226": {
+      "name": "FOCOLTONE 2226",
+      "code": "2226",
+      "components": [
+        65.09803921568628,
+        0,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2240": {
+      "name": "FOCOLTONE 2240",
+      "code": "2240",
+      "components": [
+        70.19607843137256,
+        0,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1010": {
+      "name": "FOCOLTONE 1010",
+      "code": "1010",
+      "components": [
+        14.901960784313726,
+        0,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1024": {
+      "name": "FOCOLTONE 1024",
+      "code": "1024",
+      "components": [
+        20,
+        0,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1038": {
+      "name": "FOCOLTONE 1038",
+      "code": "1038",
+      "components": [
+        29.80392156862745,
+        0,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1052": {
+      "name": "FOCOLTONE 1052",
+      "code": "1052",
+      "components": [
+        40,
+        0,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1066": {
+      "name": "FOCOLTONE 1066",
+      "code": "1066",
+      "components": [
+        50.196078431372555,
+        0,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1049": {
+      "name": "FOCOLTONE 1049",
+      "code": "1049",
+      "components": [
+        40,
+        14.901960784313726,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1063": {
+      "name": "FOCOLTONE 1063",
+      "code": "1063",
+      "components": [
+        50.196078431372555,
+        20,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2237": {
+      "name": "FOCOLTONE 2237",
+      "code": "2237",
+      "components": [
+        70.19607843137256,
+        25.098039215686278,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3390": {
+      "name": "FOCOLTONE 3390",
+      "code": "3390",
+      "components": [
+        80,
+        34.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3404": {
+      "name": "FOCOLTONE 3404",
+      "code": "3404",
+      "components": [
+        85.09803921568628,
+        60.00000000000001,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1046": {
+      "name": "FOCOLTONE 1046",
+      "code": "1046",
+      "components": [
+        40,
+        14.901960784313726,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1060": {
+      "name": "FOCOLTONE 1060",
+      "code": "1060",
+      "components": [
+        50.196078431372555,
+        20,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2234": {
+      "name": "FOCOLTONE 2234",
+      "code": "2234",
+      "components": [
+        70.19607843137256,
+        25.098039215686278,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3387": {
+      "name": "FOCOLTONE 3387",
+      "code": "3387",
+      "components": [
+        80,
+        34.90196078431373,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3398": {
+      "name": "FOCOLTONE 3398",
+      "code": "3398",
+      "components": [
+        85.09803921568628,
+        60.00000000000001,
+        34.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 1077": {
+      "name": "FOCOLTONE 1077",
+      "code": "1077",
+      "components": [
+        100,
+        0,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2244": {
+      "name": "FOCOLTONE 2244",
+      "code": "2244",
+      "components": [
+        100,
+        0,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3411": {
+      "name": "FOCOLTONE 3411",
+      "code": "3411",
+      "components": [
+        100,
+        0,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 1107": {
+      "name": "FOCOLTONE 1107",
+      "code": "1107",
+      "components": [
+        100,
+        14.901960784313726,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1113": {
+      "name": "FOCOLTONE 1113",
+      "code": "1113",
+      "components": [
+        100,
+        20,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2280": {
+      "name": "FOCOLTONE 2280",
+      "code": "2280",
+      "components": [
+        100,
+        25.098039215686278,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1089": {
+      "name": "FOCOLTONE 1089",
+      "code": "1089",
+      "components": [
+        100,
+        29.80392156862745,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3441": {
+      "name": "FOCOLTONE 3441",
+      "code": "3441",
+      "components": [
+        100,
+        34.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1091": {
+      "name": "FOCOLTONE 1091",
+      "code": "1091",
+      "components": [
+        100,
+        40,
+        14.901960784313726,
+        0
+      ]
+    },
+    "FOCOLTONE 1097": {
+      "name": "FOCOLTONE 1097",
+      "code": "1097",
+      "components": [
+        100,
+        50.196078431372555,
+        20,
+        0
+      ]
+    },
+    "FOCOLTONE 1090": {
+      "name": "FOCOLTONE 1090",
+      "code": "1090",
+      "components": [
+        100,
+        40,
+        14.901960784313726,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1096": {
+      "name": "FOCOLTONE 1096",
+      "code": "1096",
+      "components": [
+        100,
+        50.196078431372555,
+        20,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 3443": {
+      "name": "FOCOLTONE 3443",
+      "code": "3443",
+      "components": [
+        100,
+        60.00000000000001,
+        34.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 1105": {
+      "name": "FOCOLTONE 1105",
+      "code": "1105",
+      "components": [
+        100,
+        14.901960784313726,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1111": {
+      "name": "FOCOLTONE 1111",
+      "code": "1111",
+      "components": [
+        100,
+        20,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1087": {
+      "name": "FOCOLTONE 1087",
+      "code": "1087",
+      "components": [
+        100,
+        29.80392156862745,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1093": {
+      "name": "FOCOLTONE 1093",
+      "code": "1093",
+      "components": [
+        100,
+        40,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1099": {
+      "name": "FOCOLTONE 1099",
+      "code": "1099",
+      "components": [
+        100,
+        50.196078431372555,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1095": {
+      "name": "FOCOLTONE 1095",
+      "code": "1095",
+      "components": [
+        100,
+        40,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2256": {
+      "name": "FOCOLTONE 2256",
+      "code": "2256",
+      "components": [
+        100,
+        45.09803921568628,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1101": {
+      "name": "FOCOLTONE 1101",
+      "code": "1101",
+      "components": [
+        100,
+        50.196078431372555,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2262": {
+      "name": "FOCOLTONE 2262",
+      "code": "2262",
+      "components": [
+        100,
+        54.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3447": {
+      "name": "FOCOLTONE 3447",
+      "code": "3447",
+      "components": [
+        100,
+        60.00000000000001,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2268": {
+      "name": "FOCOLTONE 2268",
+      "code": "2268",
+      "components": [
+        100,
+        65.09803921568628,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2274": {
+      "name": "FOCOLTONE 2274",
+      "code": "2274",
+      "components": [
+        100,
+        70.19607843137256,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3423": {
+      "name": "FOCOLTONE 3423",
+      "code": "3423",
+      "components": [
+        100,
+        74.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3429": {
+      "name": "FOCOLTONE 3429",
+      "code": "3429",
+      "components": [
+        100,
+        80,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3435": {
+      "name": "FOCOLTONE 3435",
+      "code": "3435",
+      "components": [
+        100,
+        85.09803921568628,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2278": {
+      "name": "FOCOLTONE 2278",
+      "code": "2278",
+      "components": [
+        100,
+        25.098039215686278,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2254": {
+      "name": "FOCOLTONE 2254",
+      "code": "2254",
+      "components": [
+        100,
+        45.09803921568628,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2260": {
+      "name": "FOCOLTONE 2260",
+      "code": "2260",
+      "components": [
+        100,
+        54.90196078431373,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2266": {
+      "name": "FOCOLTONE 2266",
+      "code": "2266",
+      "components": [
+        100,
+        65.09803921568628,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2272": {
+      "name": "FOCOLTONE 2272",
+      "code": "2272",
+      "components": [
+        100,
+        70.19607843137256,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3439": {
+      "name": "FOCOLTONE 3439",
+      "code": "3439",
+      "components": [
+        100,
+        34.90196078431373,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3445": {
+      "name": "FOCOLTONE 3445",
+      "code": "3445",
+      "components": [
+        100,
+        60.00000000000001,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3421": {
+      "name": "FOCOLTONE 3421",
+      "code": "3421",
+      "components": [
+        100,
+        74.90196078431373,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3427": {
+      "name": "FOCOLTONE 3427",
+      "code": "3427",
+      "components": [
+        100,
+        80,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3433": {
+      "name": "FOCOLTONE 3433",
+      "code": "3433",
+      "components": [
+        100,
+        85.09803921568628,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2264": {
+      "name": "FOCOLTONE 2264",
+      "code": "2264",
+      "components": [
+        100,
+        65.09803921568628,
+        25.098039215686278,
+        0
+      ]
+    },
+    "FOCOLTONE 2270": {
+      "name": "FOCOLTONE 2270",
+      "code": "2270",
+      "components": [
+        100,
+        70.19607843137256,
+        45.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 2263": {
+      "name": "FOCOLTONE 2263",
+      "code": "2263",
+      "components": [
+        100,
+        65.09803921568628,
+        25.098039215686278,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3442": {
+      "name": "FOCOLTONE 3442",
+      "code": "3442",
+      "components": [
+        100,
+        60.00000000000001,
+        34.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2269": {
+      "name": "FOCOLTONE 2269",
+      "code": "2269",
+      "components": [
+        100,
+        70.19607843137256,
+        45.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3419": {
+      "name": "FOCOLTONE 3419",
+      "code": "3419",
+      "components": [
+        100,
+        74.90196078431373,
+        60.00000000000001,
+        0
+      ]
+    },
+    "FOCOLTONE 3425": {
+      "name": "FOCOLTONE 3425",
+      "code": "3425",
+      "components": [
+        100,
+        80,
+        74.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3431": {
+      "name": "FOCOLTONE 3431",
+      "code": "3431",
+      "components": [
+        100,
+        85.09803921568628,
+        80,
+        0
+      ]
+    },
+    "FOCOLTONE 3418": {
+      "name": "FOCOLTONE 3418",
+      "code": "3418",
+      "components": [
+        100,
+        74.90196078431373,
+        60.00000000000001,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3424": {
+      "name": "FOCOLTONE 3424",
+      "code": "3424",
+      "components": [
+        100,
+        80,
+        74.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3401": {
+      "name": "FOCOLTONE 3401",
+      "code": "3401",
+      "components": [
+        85.09803921568628,
+        60.00000000000001,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3397": {
+      "name": "FOCOLTONE 3397",
+      "code": "3397",
+      "components": [
+        85.09803921568628,
+        60.00000000000001,
+        34.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3430": {
+      "name": "FOCOLTONE 3430",
+      "code": "3430",
+      "components": [
+        100,
+        85.09803921568628,
+        80,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 1078": {
+      "name": "FOCOLTONE 1078",
+      "code": "1078",
+      "components": [
+        0,
+        100,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2245": {
+      "name": "FOCOLTONE 2245",
+      "code": "2245",
+      "components": [
+        0,
+        100,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3412": {
+      "name": "FOCOLTONE 3412",
+      "code": "3412",
+      "components": [
+        0,
+        100,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 1054": {
+      "name": "FOCOLTONE 1054",
+      "code": "1054",
+      "components": [
+        0,
+        14.901960784313726,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1068": {
+      "name": "FOCOLTONE 1068",
+      "code": "1068",
+      "components": [
+        0,
+        20,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2242": {
+      "name": "FOCOLTONE 2242",
+      "code": "2242",
+      "components": [
+        0,
+        25.098039215686278,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1012": {
+      "name": "FOCOLTONE 1012",
+      "code": "1012",
+      "components": [
+        0,
+        29.80392156862745,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3395": {
+      "name": "FOCOLTONE 3395",
+      "code": "3395",
+      "components": [
+        0,
+        34.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1026": {
+      "name": "FOCOLTONE 1026",
+      "code": "1026",
+      "components": [
+        0,
+        40,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2186": {
+      "name": "FOCOLTONE 2186",
+      "code": "2186",
+      "components": [
+        0,
+        45.09803921568628,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1040": {
+      "name": "FOCOLTONE 1040",
+      "code": "1040",
+      "components": [
+        0,
+        50.196078431372555,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2200": {
+      "name": "FOCOLTONE 2200",
+      "code": "2200",
+      "components": [
+        0,
+        54.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3409": {
+      "name": "FOCOLTONE 3409",
+      "code": "3409",
+      "components": [
+        0,
+        60.00000000000001,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2214": {
+      "name": "FOCOLTONE 2214",
+      "code": "2214",
+      "components": [
+        0,
+        65.09803921568628,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2228": {
+      "name": "FOCOLTONE 2228",
+      "code": "2228",
+      "components": [
+        0,
+        70.19607843137256,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3353": {
+      "name": "FOCOLTONE 3353",
+      "code": "3353",
+      "components": [
+        0,
+        74.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3367": {
+      "name": "FOCOLTONE 3367",
+      "code": "3367",
+      "components": [
+        0,
+        80,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3381": {
+      "name": "FOCOLTONE 3381",
+      "code": "3381",
+      "components": [
+        0,
+        85.09803921568628,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1124": {
+      "name": "FOCOLTONE 1124",
+      "code": "1124",
+      "components": [
+        0,
+        100,
+        14.901960784313726,
+        0
+      ]
+    },
+    "FOCOLTONE 1130": {
+      "name": "FOCOLTONE 1130",
+      "code": "1130",
+      "components": [
+        0,
+        100,
+        20,
+        0
+      ]
+    },
+    "FOCOLTONE 2297": {
+      "name": "FOCOLTONE 2297",
+      "code": "2297",
+      "components": [
+        0,
+        100,
+        25.098039215686278,
+        0
+      ]
+    },
+    "FOCOLTONE 1136": {
+      "name": "FOCOLTONE 1136",
+      "code": "1136",
+      "components": [
+        0,
+        100,
+        29.80392156862745,
+        0
+      ]
+    },
+    "FOCOLTONE 3476": {
+      "name": "FOCOLTONE 3476",
+      "code": "3476",
+      "components": [
+        0,
+        100,
+        34.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 1115": {
+      "name": "FOCOLTONE 1115",
+      "code": "1115",
+      "components": [
+        14.901960784313726,
+        100,
+        50.196078431372555,
+        0
+      ]
+    },
+    "FOCOLTONE 2282": {
+      "name": "FOCOLTONE 2282",
+      "code": "2282",
+      "components": [
+        25.098039215686278,
+        100,
+        65.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 3449": {
+      "name": "FOCOLTONE 3449",
+      "code": "3449",
+      "components": [
+        34.90196078431373,
+        100,
+        60.00000000000001,
+        0
+      ]
+    },
+    "FOCOLTONE 1114": {
+      "name": "FOCOLTONE 1114",
+      "code": "1114",
+      "components": [
+        14.901960784313726,
+        100,
+        50.196078431372555,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2288": {
+      "name": "FOCOLTONE 2288",
+      "code": "2288",
+      "components": [
+        45.09803921568628,
+        100,
+        70.19607843137256,
+        0
+      ]
+    },
+    "FOCOLTONE 2295": {
+      "name": "FOCOLTONE 2295",
+      "code": "2295",
+      "components": [
+        0,
+        100,
+        25.098039215686278,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2301": {
+      "name": "FOCOLTONE 2301",
+      "code": "2301",
+      "components": [
+        0,
+        100,
+        45.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2307": {
+      "name": "FOCOLTONE 2307",
+      "code": "2307",
+      "components": [
+        0,
+        100,
+        54.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2283": {
+      "name": "FOCOLTONE 2283",
+      "code": "2283",
+      "components": [
+        0,
+        100,
+        65.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2289": {
+      "name": "FOCOLTONE 2289",
+      "code": "2289",
+      "components": [
+        0,
+        100,
+        70.19607843137256,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1122": {
+      "name": "FOCOLTONE 1122",
+      "code": "1122",
+      "components": [
+        0,
+        100,
+        14.901960784313726,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1128": {
+      "name": "FOCOLTONE 1128",
+      "code": "1128",
+      "components": [
+        0,
+        100,
+        20,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1134": {
+      "name": "FOCOLTONE 1134",
+      "code": "1134",
+      "components": [
+        0,
+        100,
+        29.80392156862745,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1140": {
+      "name": "FOCOLTONE 1140",
+      "code": "1140",
+      "components": [
+        0,
+        100,
+        40,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1116": {
+      "name": "FOCOLTONE 1116",
+      "code": "1116",
+      "components": [
+        0,
+        100,
+        50.196078431372555,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1119": {
+      "name": "FOCOLTONE 1119",
+      "code": "1119",
+      "components": [
+        14.901960784313726,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1125": {
+      "name": "FOCOLTONE 1125",
+      "code": "1125",
+      "components": [
+        20,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2286": {
+      "name": "FOCOLTONE 2286",
+      "code": "2286",
+      "components": [
+        25.098039215686278,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1131": {
+      "name": "FOCOLTONE 1131",
+      "code": "1131",
+      "components": [
+        29.80392156862745,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3453": {
+      "name": "FOCOLTONE 3453",
+      "code": "3453",
+      "components": [
+        34.90196078431373,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1137": {
+      "name": "FOCOLTONE 1137",
+      "code": "1137",
+      "components": [
+        40,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2292": {
+      "name": "FOCOLTONE 2292",
+      "code": "2292",
+      "components": [
+        45.09803921568628,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1143": {
+      "name": "FOCOLTONE 1143",
+      "code": "1143",
+      "components": [
+        50.196078431372555,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2298": {
+      "name": "FOCOLTONE 2298",
+      "code": "2298",
+      "components": [
+        54.90196078431373,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3459": {
+      "name": "FOCOLTONE 3459",
+      "code": "3459",
+      "components": [
+        60.00000000000001,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1121": {
+      "name": "FOCOLTONE 1121",
+      "code": "1121",
+      "components": [
+        20,
+        100,
+        14.901960784313726,
+        0
+      ]
+    },
+    "FOCOLTONE 1127": {
+      "name": "FOCOLTONE 1127",
+      "code": "1127",
+      "components": [
+        29.80392156862745,
+        100,
+        20,
+        0
+      ]
+    },
+    "FOCOLTONE 1133": {
+      "name": "FOCOLTONE 1133",
+      "code": "1133",
+      "components": [
+        40,
+        100,
+        29.80392156862745,
+        0
+      ]
+    },
+    "FOCOLTONE 1139": {
+      "name": "FOCOLTONE 1139",
+      "code": "1139",
+      "components": [
+        50.196078431372555,
+        100,
+        40,
+        0
+      ]
+    },
+    "FOCOLTONE 2294": {
+      "name": "FOCOLTONE 2294",
+      "code": "2294",
+      "components": [
+        54.90196078431373,
+        100,
+        25.098039215686278,
+        0
+      ]
+    },
+    "FOCOLTONE 1117": {
+      "name": "FOCOLTONE 1117",
+      "code": "1117",
+      "components": [
+        14.901960784313726,
+        100,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1123": {
+      "name": "FOCOLTONE 1123",
+      "code": "1123",
+      "components": [
+        20,
+        100,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1129": {
+      "name": "FOCOLTONE 1129",
+      "code": "1129",
+      "components": [
+        29.80392156862745,
+        100,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1135": {
+      "name": "FOCOLTONE 1135",
+      "code": "1135",
+      "components": [
+        40,
+        100,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1141": {
+      "name": "FOCOLTONE 1141",
+      "code": "1141",
+      "components": [
+        50.196078431372555,
+        100,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1051": {
+      "name": "FOCOLTONE 1051",
+      "code": "1051",
+      "components": [
+        0,
+        14.901960784313726,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1065": {
+      "name": "FOCOLTONE 1065",
+      "code": "1065",
+      "components": [
+        0,
+        20,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1009": {
+      "name": "FOCOLTONE 1009",
+      "code": "1009",
+      "components": [
+        0,
+        29.80392156862745,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1023": {
+      "name": "FOCOLTONE 1023",
+      "code": "1023",
+      "components": [
+        0,
+        40,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1037": {
+      "name": "FOCOLTONE 1037",
+      "code": "1037",
+      "components": [
+        0,
+        50.196078431372555,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2239": {
+      "name": "FOCOLTONE 2239",
+      "code": "2239",
+      "components": [
+        0,
+        25.098039215686278,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2183": {
+      "name": "FOCOLTONE 2183",
+      "code": "2183",
+      "components": [
+        0,
+        45.09803921568628,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2197": {
+      "name": "FOCOLTONE 2197",
+      "code": "2197",
+      "components": [
+        0,
+        54.90196078431373,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2211": {
+      "name": "FOCOLTONE 2211",
+      "code": "2211",
+      "components": [
+        0,
+        65.09803921568628,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2225": {
+      "name": "FOCOLTONE 2225",
+      "code": "2225",
+      "components": [
+        0,
+        70.19607843137256,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3392": {
+      "name": "FOCOLTONE 3392",
+      "code": "3392",
+      "components": [
+        0,
+        34.90196078431373,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3406": {
+      "name": "FOCOLTONE 3406",
+      "code": "3406",
+      "components": [
+        0,
+        60.00000000000001,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3350": {
+      "name": "FOCOLTONE 3350",
+      "code": "3350",
+      "components": [
+        0,
+        74.90196078431373,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3364": {
+      "name": "FOCOLTONE 3364",
+      "code": "3364",
+      "components": [
+        0,
+        80,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3378": {
+      "name": "FOCOLTONE 3378",
+      "code": "3378",
+      "components": [
+        0,
+        85.09803921568628,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 1120": {
+      "name": "FOCOLTONE 1120",
+      "code": "1120",
+      "components": [
+        20,
+        100,
+        14.901960784313726,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1126": {
+      "name": "FOCOLTONE 1126",
+      "code": "1126",
+      "components": [
+        29.80392156862745,
+        100,
+        20,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1132": {
+      "name": "FOCOLTONE 1132",
+      "code": "1132",
+      "components": [
+        40,
+        100,
+        29.80392156862745,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1138": {
+      "name": "FOCOLTONE 1138",
+      "code": "1138",
+      "components": [
+        50.196078431372555,
+        100,
+        40,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2293": {
+      "name": "FOCOLTONE 2293",
+      "code": "2293",
+      "components": [
+        54.90196078431373,
+        100,
+        25.098039215686278,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2284": {
+      "name": "FOCOLTONE 2284",
+      "code": "2284",
+      "components": [
+        25.098039215686278,
+        100,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2290": {
+      "name": "FOCOLTONE 2290",
+      "code": "2290",
+      "components": [
+        45.09803921568628,
+        100,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2296": {
+      "name": "FOCOLTONE 2296",
+      "code": "2296",
+      "components": [
+        54.90196078431373,
+        100,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2302": {
+      "name": "FOCOLTONE 2302",
+      "code": "2302",
+      "components": [
+        65.09803921568628,
+        100,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2308": {
+      "name": "FOCOLTONE 2308",
+      "code": "2308",
+      "components": [
+        70.19607843137256,
+        100,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3451": {
+      "name": "FOCOLTONE 3451",
+      "code": "3451",
+      "components": [
+        34.90196078431373,
+        100,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3457": {
+      "name": "FOCOLTONE 3457",
+      "code": "3457",
+      "components": [
+        60.00000000000001,
+        100,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3463": {
+      "name": "FOCOLTONE 3463",
+      "code": "3463",
+      "components": [
+        74.90196078431373,
+        100,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3469": {
+      "name": "FOCOLTONE 3469",
+      "code": "3469",
+      "components": [
+        80,
+        100,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3475": {
+      "name": "FOCOLTONE 3475",
+      "code": "3475",
+      "components": [
+        85.09803921568628,
+        100,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2304": {
+      "name": "FOCOLTONE 2304",
+      "code": "2304",
+      "components": [
+        65.09803921568628,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2310": {
+      "name": "FOCOLTONE 2310",
+      "code": "2310",
+      "components": [
+        70.19607843137256,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3465": {
+      "name": "FOCOLTONE 3465",
+      "code": "3465",
+      "components": [
+        74.90196078431373,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3471": {
+      "name": "FOCOLTONE 3471",
+      "code": "3471",
+      "components": [
+        80,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3477": {
+      "name": "FOCOLTONE 3477",
+      "code": "3477",
+      "components": [
+        85.09803921568628,
+        100,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3345": {
+      "name": "FOCOLTONE 3345",
+      "code": "3345",
+      "components": [
+        34.90196078431373,
+        74.90196078431373,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3359": {
+      "name": "FOCOLTONE 3359",
+      "code": "3359",
+      "components": [
+        60.00000000000001,
+        80,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3373": {
+      "name": "FOCOLTONE 3373",
+      "code": "3373",
+      "components": [
+        74.90196078431373,
+        85.09803921568628,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3473": {
+      "name": "FOCOLTONE 3473",
+      "code": "3473",
+      "components": [
+        85.09803921568628,
+        100,
+        34.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3472": {
+      "name": "FOCOLTONE 3472",
+      "code": "3472",
+      "components": [
+        85.09803921568628,
+        100,
+        34.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 1080": {
+      "name": "FOCOLTONE 1080",
+      "code": "1080",
+      "components": [
+        100,
+        100,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2247": {
+      "name": "FOCOLTONE 2247",
+      "code": "2247",
+      "components": [
+        100,
+        100,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3414": {
+      "name": "FOCOLTONE 3414",
+      "code": "3414",
+      "components": [
+        100,
+        100,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2209": {
+      "name": "FOCOLTONE 2209",
+      "code": "2209",
+      "components": [
+        54.90196078431373,
+        65.09803921568628,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2223": {
+      "name": "FOCOLTONE 2223",
+      "code": "2223",
+      "components": [
+        65.09803921568628,
+        70.19607843137256,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3376": {
+      "name": "FOCOLTONE 3376",
+      "code": "3376",
+      "components": [
+        74.90196078431373,
+        85.09803921568628,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3362": {
+      "name": "FOCOLTONE 3362",
+      "code": "3362",
+      "components": [
+        60.00000000000001,
+        80,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 3348": {
+      "name": "FOCOLTONE 3348",
+      "code": "3348",
+      "components": [
+        34.90196078431373,
+        74.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2192": {
+      "name": "FOCOLTONE 2192",
+      "code": "2192",
+      "components": [
+        45.09803921568628,
+        54.90196078431373,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2206": {
+      "name": "FOCOLTONE 2206",
+      "code": "2206",
+      "components": [
+        54.90196078431373,
+        65.09803921568628,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2220": {
+      "name": "FOCOLTONE 2220",
+      "code": "2220",
+      "components": [
+        65.09803921568628,
+        70.19607843137256,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2217": {
+      "name": "FOCOLTONE 2217",
+      "code": "2217",
+      "components": [
+        65.09803921568628,
+        70.19607843137256,
+        45.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 2202": {
+      "name": "FOCOLTONE 2202",
+      "code": "2202",
+      "components": [
+        54.90196078431373,
+        65.09803921568628,
+        25.098039215686278,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2216": {
+      "name": "FOCOLTONE 2216",
+      "code": "2216",
+      "components": [
+        65.09803921568628,
+        70.19607843137256,
+        45.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1007": {
+      "name": "FOCOLTONE 1007",
+      "code": "1007",
+      "components": [
+        14.901960784313726,
+        29.80392156862745,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1021": {
+      "name": "FOCOLTONE 1021",
+      "code": "1021",
+      "components": [
+        20,
+        40,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2181": {
+      "name": "FOCOLTONE 2181",
+      "code": "2181",
+      "components": [
+        25.098039215686278,
+        45.09803921568628,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1035": {
+      "name": "FOCOLTONE 1035",
+      "code": "1035",
+      "components": [
+        29.80392156862745,
+        50.196078431372555,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 2195": {
+      "name": "FOCOLTONE 2195",
+      "code": "2195",
+      "components": [
+        45.09803921568628,
+        54.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 1004": {
+      "name": "FOCOLTONE 1004",
+      "code": "1004",
+      "components": [
+        14.901960784313726,
+        29.80392156862745,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1018": {
+      "name": "FOCOLTONE 1018",
+      "code": "1018",
+      "components": [
+        20,
+        40,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2178": {
+      "name": "FOCOLTONE 2178",
+      "code": "2178",
+      "components": [
+        25.098039215686278,
+        45.09803921568628,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1032": {
+      "name": "FOCOLTONE 1032",
+      "code": "1032",
+      "components": [
+        29.80392156862745,
+        50.196078431372555,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2203": {
+      "name": "FOCOLTONE 2203",
+      "code": "2203",
+      "components": [
+        54.90196078431373,
+        65.09803921568628,
+        25.098039215686278,
+        0
+      ]
+    },
+    "FOCOLTONE 1015": {
+      "name": "FOCOLTONE 1015",
+      "code": "1015",
+      "components": [
+        20,
+        40,
+        14.901960784313726,
+        0
+      ]
+    },
+    "FOCOLTONE 1014": {
+      "name": "FOCOLTONE 1014",
+      "code": "1014",
+      "components": [
+        20,
+        40,
+        14.901960784313726,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1029": {
+      "name": "FOCOLTONE 1029",
+      "code": "1029",
+      "components": [
+        29.80392156862745,
+        50.196078431372555,
+        20,
+        0
+      ]
+    },
+    "FOCOLTONE 1028": {
+      "name": "FOCOLTONE 1028",
+      "code": "1028",
+      "components": [
+        29.80392156862745,
+        50.196078431372555,
+        20,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 3370": {
+      "name": "FOCOLTONE 3370",
+      "code": "3370",
+      "components": [
+        74.90196078431373,
+        85.09803921568628,
+        80,
+        0
+      ]
+    },
+    "FOCOLTONE 2300": {
+      "name": "FOCOLTONE 2300",
+      "code": "2300",
+      "components": [
+        65.09803921568628,
+        100,
+        45.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 2306": {
+      "name": "FOCOLTONE 2306",
+      "code": "2306",
+      "components": [
+        70.19607843137256,
+        100,
+        54.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 2299": {
+      "name": "FOCOLTONE 2299",
+      "code": "2299",
+      "components": [
+        65.09803921568628,
+        100,
+        45.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2305": {
+      "name": "FOCOLTONE 2305",
+      "code": "2305",
+      "components": [
+        70.19607843137256,
+        100,
+        54.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3455": {
+      "name": "FOCOLTONE 3455",
+      "code": "3455",
+      "components": [
+        60.00000000000001,
+        100,
+        74.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3461": {
+      "name": "FOCOLTONE 3461",
+      "code": "3461",
+      "components": [
+        74.90196078431373,
+        100,
+        80,
+        0
+      ]
+    },
+    "FOCOLTONE 3467": {
+      "name": "FOCOLTONE 3467",
+      "code": "3467",
+      "components": [
+        80,
+        100,
+        85.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 3466": {
+      "name": "FOCOLTONE 3466",
+      "code": "3466",
+      "components": [
+        80,
+        100,
+        85.09803921568628,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3400": {
+      "name": "FOCOLTONE 3400",
+      "code": "3400",
+      "components": [
+        0,
+        60.00000000000001,
+        34.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3356": {
+      "name": "FOCOLTONE 3356",
+      "code": "3356",
+      "components": [
+        60.00000000000001,
+        80,
+        74.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 3341": {
+      "name": "FOCOLTONE 3341",
+      "code": "3341",
+      "components": [
+        34.90196078431373,
+        74.90196078431373,
+        60.00000000000001,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3355": {
+      "name": "FOCOLTONE 3355",
+      "code": "3355",
+      "components": [
+        60.00000000000001,
+        80,
+        74.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3369": {
+      "name": "FOCOLTONE 3369",
+      "code": "3369",
+      "components": [
+        74.90196078431373,
+        85.09803921568628,
+        80,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2281": {
+      "name": "FOCOLTONE 2281",
+      "code": "2281",
+      "components": [
+        25.098039215686278,
+        100,
+        65.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2287": {
+      "name": "FOCOLTONE 2287",
+      "code": "2287",
+      "components": [
+        45.09803921568628,
+        100,
+        70.19607843137256,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 3448": {
+      "name": "FOCOLTONE 3448",
+      "code": "3448",
+      "components": [
+        34.90196078431373,
+        100,
+        60.00000000000001,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3454": {
+      "name": "FOCOLTONE 3454",
+      "code": "3454",
+      "components": [
+        60.00000000000001,
+        100,
+        74.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3460": {
+      "name": "FOCOLTONE 3460",
+      "code": "3460",
+      "components": [
+        74.90196078431373,
+        100,
+        80,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3474": {
+      "name": "FOCOLTONE 3474",
+      "code": "3474",
+      "components": [
+        0,
+        100,
+        34.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3450": {
+      "name": "FOCOLTONE 3450",
+      "code": "3450",
+      "components": [
+        0,
+        100,
+        60.00000000000001,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3456": {
+      "name": "FOCOLTONE 3456",
+      "code": "3456",
+      "components": [
+        0,
+        100,
+        74.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3462": {
+      "name": "FOCOLTONE 3462",
+      "code": "3462",
+      "components": [
+        0,
+        100,
+        80,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3468": {
+      "name": "FOCOLTONE 3468",
+      "code": "3468",
+      "components": [
+        0,
+        100,
+        85.09803921568628,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3344": {
+      "name": "FOCOLTONE 3344",
+      "code": "3344",
+      "components": [
+        0,
+        74.90196078431373,
+        60.00000000000001,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3358": {
+      "name": "FOCOLTONE 3358",
+      "code": "3358",
+      "components": [
+        0,
+        80,
+        74.90196078431373,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3372": {
+      "name": "FOCOLTONE 3372",
+      "code": "3372",
+      "components": [
+        0,
+        85.09803921568628,
+        80,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3499": {
+      "name": "FOCOLTONE 3499",
+      "code": "3499",
+      "components": [
+        0,
+        34.90196078431373,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3505": {
+      "name": "FOCOLTONE 3505",
+      "code": "3505",
+      "components": [
+        0,
+        60.00000000000001,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3481": {
+      "name": "FOCOLTONE 3481",
+      "code": "3481",
+      "components": [
+        0,
+        74.90196078431373,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3487": {
+      "name": "FOCOLTONE 3487",
+      "code": "3487",
+      "components": [
+        0,
+        80,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3493": {
+      "name": "FOCOLTONE 3493",
+      "code": "3493",
+      "components": [
+        0,
+        85.09803921568628,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3479": {
+      "name": "FOCOLTONE 3479",
+      "code": "3479",
+      "components": [
+        34.90196078431373,
+        74.90196078431373,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3485": {
+      "name": "FOCOLTONE 3485",
+      "code": "3485",
+      "components": [
+        60.00000000000001,
+        80,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3491": {
+      "name": "FOCOLTONE 3491",
+      "code": "3491",
+      "components": [
+        74.90196078431373,
+        85.09803921568628,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3478": {
+      "name": "FOCOLTONE 3478",
+      "code": "3478",
+      "components": [
+        34.90196078431373,
+        74.90196078431373,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2324": {
+      "name": "FOCOLTONE 2324",
+      "code": "2324",
+      "components": [
+        54.90196078431373,
+        65.09803921568628,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2330": {
+      "name": "FOCOLTONE 2330",
+      "code": "2330",
+      "components": [
+        65.09803921568628,
+        70.19607843137256,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 3484": {
+      "name": "FOCOLTONE 3484",
+      "code": "3484",
+      "components": [
+        60.00000000000001,
+        80,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 3490": {
+      "name": "FOCOLTONE 3490",
+      "code": "3490",
+      "components": [
+        74.90196078431373,
+        85.09803921568628,
+        100,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2233": {
+      "name": "FOCOLTONE 2233",
+      "code": "2233",
+      "components": [
+        0,
+        25.098039215686278,
+        54.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1000": {
+      "name": "FOCOLTONE 1000",
+      "code": "1000",
+      "components": [
+        14.901960784313726,
+        29.80392156862745,
+        50.196078431372555,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 3386": {
+      "name": "FOCOLTONE 3386",
+      "code": "3386",
+      "components": [
+        0,
+        34.90196078431373,
+        85.09803921568628,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 2323": {
+      "name": "FOCOLTONE 2323",
+      "code": "2323",
+      "components": [
+        54.90196078431373,
+        65.09803921568628,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2329": {
+      "name": "FOCOLTONE 2329",
+      "code": "2329",
+      "components": [
+        65.09803921568628,
+        70.19607843137256,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1045": {
+      "name": "FOCOLTONE 1045",
+      "code": "1045",
+      "components": [
+        0,
+        14.901960784313726,
+        29.80392156862745,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1059": {
+      "name": "FOCOLTONE 1059",
+      "code": "1059",
+      "components": [
+        0,
+        20,
+        40,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1003": {
+      "name": "FOCOLTONE 1003",
+      "code": "1003",
+      "components": [
+        0,
+        29.80392156862745,
+        50.196078431372555,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2177": {
+      "name": "FOCOLTONE 2177",
+      "code": "2177",
+      "components": [
+        0,
+        45.09803921568628,
+        65.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2191": {
+      "name": "FOCOLTONE 2191",
+      "code": "2191",
+      "components": [
+        0,
+        54.90196078431373,
+        70.19607843137256,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1001": {
+      "name": "FOCOLTONE 1001",
+      "code": "1001",
+      "components": [
+        14.901960784313726,
+        29.80392156862745,
+        50.196078431372555,
+        0
+      ]
+    },
+    "FOCOLTONE 2175": {
+      "name": "FOCOLTONE 2175",
+      "code": "2175",
+      "components": [
+        25.098039215686278,
+        45.09803921568628,
+        65.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 2189": {
+      "name": "FOCOLTONE 2189",
+      "code": "2189",
+      "components": [
+        45.09803921568628,
+        54.90196078431373,
+        70.19607843137256,
+        0
+      ]
+    },
+    "FOCOLTONE 2174": {
+      "name": "FOCOLTONE 2174",
+      "code": "2174",
+      "components": [
+        25.098039215686278,
+        45.09803921568628,
+        65.09803921568628,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2188": {
+      "name": "FOCOLTONE 2188",
+      "code": "2188",
+      "components": [
+        45.09803921568628,
+        54.90196078431373,
+        70.19607843137256,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1165": {
+      "name": "FOCOLTONE 1165",
+      "code": "1165",
+      "components": [
+        0,
+        14.901960784313726,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1171": {
+      "name": "FOCOLTONE 1171",
+      "code": "1171",
+      "components": [
+        0,
+        20,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1147": {
+      "name": "FOCOLTONE 1147",
+      "code": "1147",
+      "components": [
+        0,
+        29.80392156862745,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1153": {
+      "name": "FOCOLTONE 1153",
+      "code": "1153",
+      "components": [
+        0,
+        40,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1159": {
+      "name": "FOCOLTONE 1159",
+      "code": "1159",
+      "components": [
+        0,
+        50.196078431372555,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1145": {
+      "name": "FOCOLTONE 1145",
+      "code": "1145",
+      "components": [
+        14.901960784313726,
+        29.80392156862745,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1151": {
+      "name": "FOCOLTONE 1151",
+      "code": "1151",
+      "components": [
+        20,
+        40,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2312": {
+      "name": "FOCOLTONE 2312",
+      "code": "2312",
+      "components": [
+        25.098039215686278,
+        45.09803921568628,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 1157": {
+      "name": "FOCOLTONE 1157",
+      "code": "1157",
+      "components": [
+        29.80392156862745,
+        50.196078431372555,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2318": {
+      "name": "FOCOLTONE 2318",
+      "code": "2318",
+      "components": [
+        45.09803921568628,
+        54.90196078431373,
+        100,
+        0
+      ]
+    },
+    "FOCOLTONE 2338": {
+      "name": "FOCOLTONE 2338",
+      "code": "2338",
+      "components": [
+        0,
+        25.098039215686278,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2314": {
+      "name": "FOCOLTONE 2314",
+      "code": "2314",
+      "components": [
+        0,
+        45.09803921568628,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2320": {
+      "name": "FOCOLTONE 2320",
+      "code": "2320",
+      "components": [
+        0,
+        54.90196078431373,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2326": {
+      "name": "FOCOLTONE 2326",
+      "code": "2326",
+      "components": [
+        0,
+        65.09803921568628,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2332": {
+      "name": "FOCOLTONE 2332",
+      "code": "2332",
+      "components": [
+        0,
+        70.19607843137256,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 1144": {
+      "name": "FOCOLTONE 1144",
+      "code": "1144",
+      "components": [
+        14.901960784313726,
+        29.80392156862745,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1150": {
+      "name": "FOCOLTONE 1150",
+      "code": "1150",
+      "components": [
+        20,
+        40,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 1156": {
+      "name": "FOCOLTONE 1156",
+      "code": "1156",
+      "components": [
+        29.80392156862745,
+        50.196078431372555,
+        100,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 2311": {
+      "name": "FOCOLTONE 2311",
+      "code": "2311",
+      "components": [
+        25.098039215686278,
+        45.09803921568628,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 2317": {
+      "name": "FOCOLTONE 2317",
+      "code": "2317",
+      "components": [
+        45.09803921568628,
+        54.90196078431373,
+        100,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 4061": {
+      "name": "FOCOLTONE 4061",
+      "code": "4061",
+      "components": [
+        0,
+        0,
+        0,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 4062": {
+      "name": "FOCOLTONE 4062",
+      "code": "4062",
+      "components": [
+        0,
+        0,
+        0,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 4063": {
+      "name": "FOCOLTONE 4063",
+      "code": "4063",
+      "components": [
+        0,
+        0,
+        0,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 4064": {
+      "name": "FOCOLTONE 4064",
+      "code": "4064",
+      "components": [
+        0,
+        0,
+        0,
+        20
+      ]
+    },
+    "FOCOLTONE 5055": {
+      "name": "FOCOLTONE 5055",
+      "code": "5055",
+      "components": [
+        0,
+        0,
+        0,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 5056": {
+      "name": "FOCOLTONE 5056",
+      "code": "5056",
+      "components": [
+        0,
+        0,
+        0,
+        40
+      ]
+    },
+    "FOCOLTONE 5057": {
+      "name": "FOCOLTONE 5057",
+      "code": "5057",
+      "components": [
+        0,
+        0,
+        0,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 6055": {
+      "name": "FOCOLTONE 6055",
+      "code": "6055",
+      "components": [
+        0,
+        0,
+        0,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 6056": {
+      "name": "FOCOLTONE 6056",
+      "code": "6056",
+      "components": [
+        0,
+        0,
+        0,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 6057": {
+      "name": "FOCOLTONE 6057",
+      "code": "6057",
+      "components": [
+        0,
+        0,
+        0,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 6058": {
+      "name": "FOCOLTONE 6058",
+      "code": "6058",
+      "components": [
+        0,
+        0,
+        0,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 6059": {
+      "name": "FOCOLTONE 6059",
+      "code": "6059",
+      "components": [
+        0,
+        0,
+        0,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4000": {
+      "name": "FOCOLTONE 4000",
+      "code": "4000",
+      "components": [
+        5.098039215686275,
+        5.098039215686275,
+        5.098039215686275,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 4014": {
+      "name": "FOCOLTONE 4014",
+      "code": "4014",
+      "components": [
+        10.19607843137255,
+        10.19607843137255,
+        10.19607843137255,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 4028": {
+      "name": "FOCOLTONE 4028",
+      "code": "4028",
+      "components": [
+        14.901960784313726,
+        14.901960784313726,
+        14.901960784313726,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 4039": {
+      "name": "FOCOLTONE 4039",
+      "code": "4039",
+      "components": [
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    "FOCOLTONE 4050": {
+      "name": "FOCOLTONE 4050",
+      "code": "4050",
+      "components": [
+        25.098039215686278,
+        25.098039215686278,
+        25.098039215686278,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 5000": {
+      "name": "FOCOLTONE 5000",
+      "code": "5000",
+      "components": [
+        29.80392156862745,
+        29.80392156862745,
+        29.80392156862745,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 5011": {
+      "name": "FOCOLTONE 5011",
+      "code": "5011",
+      "components": [
+        34.90196078431373,
+        34.90196078431373,
+        34.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 5022": {
+      "name": "FOCOLTONE 5022",
+      "code": "5022",
+      "components": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    "FOCOLTONE 5033": {
+      "name": "FOCOLTONE 5033",
+      "code": "5033",
+      "components": [
+        45.09803921568628,
+        45.09803921568628,
+        45.09803921568628,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 5044": {
+      "name": "FOCOLTONE 5044",
+      "code": "5044",
+      "components": [
+        50.196078431372555,
+        50.196078431372555,
+        50.196078431372555,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 6000": {
+      "name": "FOCOLTONE 6000",
+      "code": "6000",
+      "components": [
+        54.90196078431373,
+        54.90196078431373,
+        54.90196078431373,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 6011": {
+      "name": "FOCOLTONE 6011",
+      "code": "6011",
+      "components": [
+        60.00000000000001,
+        60.00000000000001,
+        60.00000000000001,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 6022": {
+      "name": "FOCOLTONE 6022",
+      "code": "6022",
+      "components": [
+        65.09803921568628,
+        65.09803921568628,
+        65.09803921568628,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 6033": {
+      "name": "FOCOLTONE 6033",
+      "code": "6033",
+      "components": [
+        70.19607843137256,
+        70.19607843137256,
+        70.19607843137256,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 6044": {
+      "name": "FOCOLTONE 6044",
+      "code": "6044",
+      "components": [
+        74.90196078431373,
+        74.90196078431373,
+        74.90196078431373,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4001": {
+      "name": "FOCOLTONE 4001",
+      "code": "4001",
+      "components": [
+        5.098039215686275,
+        5.098039215686275,
+        5.098039215686275,
+        0
+      ]
+    },
+    "FOCOLTONE 4015": {
+      "name": "FOCOLTONE 4015",
+      "code": "4015",
+      "components": [
+        10.19607843137255,
+        10.19607843137255,
+        10.19607843137255,
+        0
+      ]
+    },
+    "FOCOLTONE 4029": {
+      "name": "FOCOLTONE 4029",
+      "code": "4029",
+      "components": [
+        14.901960784313726,
+        14.901960784313726,
+        14.901960784313726,
+        0
+      ]
+    },
+    "FOCOLTONE 4040": {
+      "name": "FOCOLTONE 4040",
+      "code": "4040",
+      "components": [
+        20,
+        20,
+        20,
+        0
+      ]
+    },
+    "FOCOLTONE 4051": {
+      "name": "FOCOLTONE 4051",
+      "code": "4051",
+      "components": [
+        25.098039215686278,
+        25.098039215686278,
+        25.098039215686278,
+        0
+      ]
+    },
+    "FOCOLTONE 5001": {
+      "name": "FOCOLTONE 5001",
+      "code": "5001",
+      "components": [
+        29.80392156862745,
+        29.80392156862745,
+        29.80392156862745,
+        0
+      ]
+    },
+    "FOCOLTONE 5012": {
+      "name": "FOCOLTONE 5012",
+      "code": "5012",
+      "components": [
+        34.90196078431373,
+        34.90196078431373,
+        34.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 5023": {
+      "name": "FOCOLTONE 5023",
+      "code": "5023",
+      "components": [
+        40,
+        40,
+        40,
+        0
+      ]
+    },
+    "FOCOLTONE 5034": {
+      "name": "FOCOLTONE 5034",
+      "code": "5034",
+      "components": [
+        45.09803921568628,
+        45.09803921568628,
+        45.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 5045": {
+      "name": "FOCOLTONE 5045",
+      "code": "5045",
+      "components": [
+        50.196078431372555,
+        50.196078431372555,
+        50.196078431372555,
+        0
+      ]
+    },
+    "FOCOLTONE 6001": {
+      "name": "FOCOLTONE 6001",
+      "code": "6001",
+      "components": [
+        54.90196078431373,
+        54.90196078431373,
+        54.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 6012": {
+      "name": "FOCOLTONE 6012",
+      "code": "6012",
+      "components": [
+        60.00000000000001,
+        60.00000000000001,
+        60.00000000000001,
+        0
+      ]
+    },
+    "FOCOLTONE 6023": {
+      "name": "FOCOLTONE 6023",
+      "code": "6023",
+      "components": [
+        65.09803921568628,
+        65.09803921568628,
+        65.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 6034": {
+      "name": "FOCOLTONE 6034",
+      "code": "6034",
+      "components": [
+        70.19607843137256,
+        70.19607843137256,
+        70.19607843137256,
+        0
+      ]
+    },
+    "FOCOLTONE 6045": {
+      "name": "FOCOLTONE 6045",
+      "code": "6045",
+      "components": [
+        74.90196078431373,
+        74.90196078431373,
+        74.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 7005": {
+      "name": "FOCOLTONE 7005",
+      "code": "7005",
+      "components": [
+        0,
+        100,
+        100,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 7011": {
+      "name": "FOCOLTONE 7011",
+      "code": "7011",
+      "components": [
+        0,
+        100,
+        100,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 7017": {
+      "name": "FOCOLTONE 7017",
+      "code": "7017",
+      "components": [
+        0,
+        100,
+        100,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 7023": {
+      "name": "FOCOLTONE 7023",
+      "code": "7023",
+      "components": [
+        0,
+        100,
+        100,
+        20
+      ]
+    },
+    "FOCOLTONE 7029": {
+      "name": "FOCOLTONE 7029",
+      "code": "7029",
+      "components": [
+        0,
+        100,
+        100,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 7035": {
+      "name": "FOCOLTONE 7035",
+      "code": "7035",
+      "components": [
+        0,
+        100,
+        100,
+        40
+      ]
+    },
+    "FOCOLTONE 7041": {
+      "name": "FOCOLTONE 7041",
+      "code": "7041",
+      "components": [
+        0,
+        100,
+        100,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 7047": {
+      "name": "FOCOLTONE 7047",
+      "code": "7047",
+      "components": [
+        0,
+        100,
+        100,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 7053": {
+      "name": "FOCOLTONE 7053",
+      "code": "7053",
+      "components": [
+        0,
+        100,
+        100,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 7059": {
+      "name": "FOCOLTONE 7059",
+      "code": "7059",
+      "components": [
+        0,
+        100,
+        100,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 7065": {
+      "name": "FOCOLTONE 7065",
+      "code": "7065",
+      "components": [
+        0,
+        100,
+        100,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 7071": {
+      "name": "FOCOLTONE 7071",
+      "code": "7071",
+      "components": [
+        0,
+        100,
+        100,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4006": {
+      "name": "FOCOLTONE 4006",
+      "code": "4006",
+      "components": [
+        0,
+        5.098039215686275,
+        5.098039215686275,
+        0
+      ]
+    },
+    "FOCOLTONE 4020": {
+      "name": "FOCOLTONE 4020",
+      "code": "4020",
+      "components": [
+        0,
+        10.19607843137255,
+        10.19607843137255,
+        0
+      ]
+    },
+    "FOCOLTONE 4034": {
+      "name": "FOCOLTONE 4034",
+      "code": "4034",
+      "components": [
+        0,
+        14.901960784313726,
+        14.901960784313726,
+        0
+      ]
+    },
+    "FOCOLTONE 4045": {
+      "name": "FOCOLTONE 4045",
+      "code": "4045",
+      "components": [
+        0,
+        20,
+        20,
+        0
+      ]
+    },
+    "FOCOLTONE 4056": {
+      "name": "FOCOLTONE 4056",
+      "code": "4056",
+      "components": [
+        0,
+        25.098039215686278,
+        25.098039215686278,
+        0
+      ]
+    },
+    "FOCOLTONE 5006": {
+      "name": "FOCOLTONE 5006",
+      "code": "5006",
+      "components": [
+        0,
+        29.80392156862745,
+        29.80392156862745,
+        0
+      ]
+    },
+    "FOCOLTONE 5017": {
+      "name": "FOCOLTONE 5017",
+      "code": "5017",
+      "components": [
+        0,
+        34.90196078431373,
+        34.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 5028": {
+      "name": "FOCOLTONE 5028",
+      "code": "5028",
+      "components": [
+        0,
+        40,
+        40,
+        0
+      ]
+    },
+    "FOCOLTONE 5039": {
+      "name": "FOCOLTONE 5039",
+      "code": "5039",
+      "components": [
+        0,
+        45.09803921568628,
+        45.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 5050": {
+      "name": "FOCOLTONE 5050",
+      "code": "5050",
+      "components": [
+        0,
+        50.196078431372555,
+        50.196078431372555,
+        0
+      ]
+    },
+    "FOCOLTONE 6006": {
+      "name": "FOCOLTONE 6006",
+      "code": "6006",
+      "components": [
+        0,
+        54.90196078431373,
+        54.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 6017": {
+      "name": "FOCOLTONE 6017",
+      "code": "6017",
+      "components": [
+        0,
+        60.00000000000001,
+        60.00000000000001,
+        0
+      ]
+    },
+    "FOCOLTONE 6028": {
+      "name": "FOCOLTONE 6028",
+      "code": "6028",
+      "components": [
+        0,
+        65.09803921568628,
+        65.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 6039": {
+      "name": "FOCOLTONE 6039",
+      "code": "6039",
+      "components": [
+        0,
+        70.19607843137256,
+        70.19607843137256,
+        0
+      ]
+    },
+    "FOCOLTONE 6050": {
+      "name": "FOCOLTONE 6050",
+      "code": "6050",
+      "components": [
+        0,
+        74.90196078431373,
+        74.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 4013": {
+      "name": "FOCOLTONE 4013",
+      "code": "4013",
+      "components": [
+        0,
+        0,
+        5.098039215686275,
+        0
+      ]
+    },
+    "FOCOLTONE 4027": {
+      "name": "FOCOLTONE 4027",
+      "code": "4027",
+      "components": [
+        0,
+        0,
+        10.19607843137255,
+        0
+      ]
+    },
+    "FOCOLTONE 7002": {
+      "name": "FOCOLTONE 7002",
+      "code": "7002",
+      "components": [
+        0,
+        0,
+        100,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 7008": {
+      "name": "FOCOLTONE 7008",
+      "code": "7008",
+      "components": [
+        0,
+        0,
+        100,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 7014": {
+      "name": "FOCOLTONE 7014",
+      "code": "7014",
+      "components": [
+        0,
+        0,
+        100,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 7020": {
+      "name": "FOCOLTONE 7020",
+      "code": "7020",
+      "components": [
+        0,
+        0,
+        100,
+        20
+      ]
+    },
+    "FOCOLTONE 7026": {
+      "name": "FOCOLTONE 7026",
+      "code": "7026",
+      "components": [
+        0,
+        0,
+        100,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 7032": {
+      "name": "FOCOLTONE 7032",
+      "code": "7032",
+      "components": [
+        0,
+        0,
+        100,
+        40
+      ]
+    },
+    "FOCOLTONE 7038": {
+      "name": "FOCOLTONE 7038",
+      "code": "7038",
+      "components": [
+        0,
+        0,
+        100,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 7044": {
+      "name": "FOCOLTONE 7044",
+      "code": "7044",
+      "components": [
+        0,
+        0,
+        100,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 7050": {
+      "name": "FOCOLTONE 7050",
+      "code": "7050",
+      "components": [
+        0,
+        0,
+        100,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 7056": {
+      "name": "FOCOLTONE 7056",
+      "code": "7056",
+      "components": [
+        0,
+        0,
+        100,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 7062": {
+      "name": "FOCOLTONE 7062",
+      "code": "7062",
+      "components": [
+        0,
+        0,
+        100,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 7068": {
+      "name": "FOCOLTONE 7068",
+      "code": "7068",
+      "components": [
+        0,
+        0,
+        100,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4008": {
+      "name": "FOCOLTONE 4008",
+      "code": "4008",
+      "components": [
+        0,
+        0,
+        5.098039215686275,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 4022": {
+      "name": "FOCOLTONE 4022",
+      "code": "4022",
+      "components": [
+        0,
+        0,
+        10.19607843137255,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 4036": {
+      "name": "FOCOLTONE 4036",
+      "code": "4036",
+      "components": [
+        0,
+        0,
+        14.901960784313726,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 4047": {
+      "name": "FOCOLTONE 4047",
+      "code": "4047",
+      "components": [
+        0,
+        0,
+        20,
+        20
+      ]
+    },
+    "FOCOLTONE 4058": {
+      "name": "FOCOLTONE 4058",
+      "code": "4058",
+      "components": [
+        0,
+        0,
+        25.098039215686278,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 5008": {
+      "name": "FOCOLTONE 5008",
+      "code": "5008",
+      "components": [
+        0,
+        0,
+        29.80392156862745,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 5019": {
+      "name": "FOCOLTONE 5019",
+      "code": "5019",
+      "components": [
+        0,
+        0,
+        34.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 5030": {
+      "name": "FOCOLTONE 5030",
+      "code": "5030",
+      "components": [
+        0,
+        0,
+        40,
+        40
+      ]
+    },
+    "FOCOLTONE 5041": {
+      "name": "FOCOLTONE 5041",
+      "code": "5041",
+      "components": [
+        0,
+        0,
+        45.09803921568628,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 5052": {
+      "name": "FOCOLTONE 5052",
+      "code": "5052",
+      "components": [
+        0,
+        0,
+        50.196078431372555,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 6008": {
+      "name": "FOCOLTONE 6008",
+      "code": "6008",
+      "components": [
+        0,
+        0,
+        54.90196078431373,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 6019": {
+      "name": "FOCOLTONE 6019",
+      "code": "6019",
+      "components": [
+        0,
+        0,
+        60.00000000000001,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 6030": {
+      "name": "FOCOLTONE 6030",
+      "code": "6030",
+      "components": [
+        0,
+        0,
+        65.09803921568628,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 6041": {
+      "name": "FOCOLTONE 6041",
+      "code": "6041",
+      "components": [
+        0,
+        0,
+        70.19607843137256,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 6052": {
+      "name": "FOCOLTONE 6052",
+      "code": "6052",
+      "components": [
+        0,
+        0,
+        74.90196078431373,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4005": {
+      "name": "FOCOLTONE 4005",
+      "code": "4005",
+      "components": [
+        5.098039215686275,
+        0,
+        5.098039215686275,
+        0
+      ]
+    },
+    "FOCOLTONE 4019": {
+      "name": "FOCOLTONE 4019",
+      "code": "4019",
+      "components": [
+        10.19607843137255,
+        0,
+        10.19607843137255,
+        0
+      ]
+    },
+    "FOCOLTONE 4033": {
+      "name": "FOCOLTONE 4033",
+      "code": "4033",
+      "components": [
+        14.901960784313726,
+        0,
+        14.901960784313726,
+        0
+      ]
+    },
+    "FOCOLTONE 4044": {
+      "name": "FOCOLTONE 4044",
+      "code": "4044",
+      "components": [
+        20,
+        0,
+        20,
+        0
+      ]
+    },
+    "FOCOLTONE 4055": {
+      "name": "FOCOLTONE 4055",
+      "code": "4055",
+      "components": [
+        25.098039215686278,
+        0,
+        25.098039215686278,
+        0
+      ]
+    },
+    "FOCOLTONE 5005": {
+      "name": "FOCOLTONE 5005",
+      "code": "5005",
+      "components": [
+        29.80392156862745,
+        0,
+        29.80392156862745,
+        0
+      ]
+    },
+    "FOCOLTONE 5016": {
+      "name": "FOCOLTONE 5016",
+      "code": "5016",
+      "components": [
+        34.90196078431373,
+        0,
+        34.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 5027": {
+      "name": "FOCOLTONE 5027",
+      "code": "5027",
+      "components": [
+        40,
+        0,
+        40,
+        0
+      ]
+    },
+    "FOCOLTONE 5038": {
+      "name": "FOCOLTONE 5038",
+      "code": "5038",
+      "components": [
+        45.09803921568628,
+        0,
+        45.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 5049": {
+      "name": "FOCOLTONE 5049",
+      "code": "5049",
+      "components": [
+        50.196078431372555,
+        0,
+        50.196078431372555,
+        0
+      ]
+    },
+    "FOCOLTONE 6005": {
+      "name": "FOCOLTONE 6005",
+      "code": "6005",
+      "components": [
+        54.90196078431373,
+        0,
+        54.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 6016": {
+      "name": "FOCOLTONE 6016",
+      "code": "6016",
+      "components": [
+        60.00000000000001,
+        0,
+        60.00000000000001,
+        0
+      ]
+    },
+    "FOCOLTONE 6027": {
+      "name": "FOCOLTONE 6027",
+      "code": "6027",
+      "components": [
+        65.09803921568628,
+        0,
+        65.09803921568628,
+        0
+      ]
+    },
+    "FOCOLTONE 6038": {
+      "name": "FOCOLTONE 6038",
+      "code": "6038",
+      "components": [
+        70.19607843137256,
+        0,
+        70.19607843137256,
+        0
+      ]
+    },
+    "FOCOLTONE 6049": {
+      "name": "FOCOLTONE 6049",
+      "code": "6049",
+      "components": [
+        74.90196078431373,
+        0,
+        74.90196078431373,
+        0
+      ]
+    },
+    "FOCOLTONE 7004": {
+      "name": "FOCOLTONE 7004",
+      "code": "7004",
+      "components": [
+        100,
+        0,
+        100,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 7010": {
+      "name": "FOCOLTONE 7010",
+      "code": "7010",
+      "components": [
+        100,
+        0,
+        100,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 7016": {
+      "name": "FOCOLTONE 7016",
+      "code": "7016",
+      "components": [
+        100,
+        0,
+        100,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 7022": {
+      "name": "FOCOLTONE 7022",
+      "code": "7022",
+      "components": [
+        100,
+        0,
+        100,
+        20
+      ]
+    },
+    "FOCOLTONE 7028": {
+      "name": "FOCOLTONE 7028",
+      "code": "7028",
+      "components": [
+        100,
+        0,
+        100,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 7034": {
+      "name": "FOCOLTONE 7034",
+      "code": "7034",
+      "components": [
+        100,
+        0,
+        100,
+        40
+      ]
+    },
+    "FOCOLTONE 7040": {
+      "name": "FOCOLTONE 7040",
+      "code": "7040",
+      "components": [
+        100,
+        0,
+        100,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 7046": {
+      "name": "FOCOLTONE 7046",
+      "code": "7046",
+      "components": [
+        100,
+        0,
+        100,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 7052": {
+      "name": "FOCOLTONE 7052",
+      "code": "7052",
+      "components": [
+        100,
+        0,
+        100,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 7058": {
+      "name": "FOCOLTONE 7058",
+      "code": "7058",
+      "components": [
+        100,
+        0,
+        100,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 7064": {
+      "name": "FOCOLTONE 7064",
+      "code": "7064",
+      "components": [
+        100,
+        0,
+        100,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 7070": {
+      "name": "FOCOLTONE 7070",
+      "code": "7070",
+      "components": [
+        100,
+        0,
+        100,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4002": {
+      "name": "FOCOLTONE 4002",
+      "code": "4002",
+      "components": [
+        5.098039215686275,
+        0,
+        5.098039215686275,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 4016": {
+      "name": "FOCOLTONE 4016",
+      "code": "4016",
+      "components": [
+        10.19607843137255,
+        0,
+        10.19607843137255,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 4030": {
+      "name": "FOCOLTONE 4030",
+      "code": "4030",
+      "components": [
+        14.901960784313726,
+        0,
+        14.901960784313726,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 4041": {
+      "name": "FOCOLTONE 4041",
+      "code": "4041",
+      "components": [
+        20,
+        0,
+        20,
+        20
+      ]
+    },
+    "FOCOLTONE 4052": {
+      "name": "FOCOLTONE 4052",
+      "code": "4052",
+      "components": [
+        25.098039215686278,
+        0,
+        25.098039215686278,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 5002": {
+      "name": "FOCOLTONE 5002",
+      "code": "5002",
+      "components": [
+        29.80392156862745,
+        0,
+        29.80392156862745,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 5013": {
+      "name": "FOCOLTONE 5013",
+      "code": "5013",
+      "components": [
+        34.90196078431373,
+        0,
+        34.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 5024": {
+      "name": "FOCOLTONE 5024",
+      "code": "5024",
+      "components": [
+        40,
+        0,
+        40,
+        40
+      ]
+    },
+    "FOCOLTONE 5035": {
+      "name": "FOCOLTONE 5035",
+      "code": "5035",
+      "components": [
+        45.09803921568628,
+        0,
+        45.09803921568628,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 5046": {
+      "name": "FOCOLTONE 5046",
+      "code": "5046",
+      "components": [
+        50.196078431372555,
+        0,
+        50.196078431372555,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 6002": {
+      "name": "FOCOLTONE 6002",
+      "code": "6002",
+      "components": [
+        54.90196078431373,
+        0,
+        54.90196078431373,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 6013": {
+      "name": "FOCOLTONE 6013",
+      "code": "6013",
+      "components": [
+        60.00000000000001,
+        0,
+        60.00000000000001,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 6024": {
+      "name": "FOCOLTONE 6024",
+      "code": "6024",
+      "components": [
+        65.09803921568628,
+        0,
+        65.09803921568628,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 6035": {
+      "name": "FOCOLTONE 6035",
+      "code": "6035",
+      "components": [
+        70.19607843137256,
+        0,
+        70.19607843137256,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 6046": {
+      "name": "FOCOLTONE 6046",
+      "code": "6046",
+      "components": [
+        74.90196078431373,
+        0,
+        74.90196078431373,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4011": {
+      "name": "FOCOLTONE 4011",
+      "code": "4011",
+      "components": [
+        5.098039215686275,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 4025": {
+      "name": "FOCOLTONE 4025",
+      "code": "4025",
+      "components": [
+        10.19607843137255,
+        0,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 7000": {
+      "name": "FOCOLTONE 7000",
+      "code": "7000",
+      "components": [
+        100,
+        0,
+        0,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 7006": {
+      "name": "FOCOLTONE 7006",
+      "code": "7006",
+      "components": [
+        100,
+        0,
+        0,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 7012": {
+      "name": "FOCOLTONE 7012",
+      "code": "7012",
+      "components": [
+        100,
+        0,
+        0,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 7018": {
+      "name": "FOCOLTONE 7018",
+      "code": "7018",
+      "components": [
+        100,
+        0,
+        0,
+        20
+      ]
+    },
+    "FOCOLTONE 7024": {
+      "name": "FOCOLTONE 7024",
+      "code": "7024",
+      "components": [
+        100,
+        0,
+        0,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 7030": {
+      "name": "FOCOLTONE 7030",
+      "code": "7030",
+      "components": [
+        100,
+        0,
+        0,
+        40
+      ]
+    },
+    "FOCOLTONE 7036": {
+      "name": "FOCOLTONE 7036",
+      "code": "7036",
+      "components": [
+        100,
+        0,
+        0,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 7042": {
+      "name": "FOCOLTONE 7042",
+      "code": "7042",
+      "components": [
+        100,
+        0,
+        0,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 7048": {
+      "name": "FOCOLTONE 7048",
+      "code": "7048",
+      "components": [
+        100,
+        0,
+        0,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 7054": {
+      "name": "FOCOLTONE 7054",
+      "code": "7054",
+      "components": [
+        100,
+        0,
+        0,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 7060": {
+      "name": "FOCOLTONE 7060",
+      "code": "7060",
+      "components": [
+        100,
+        0,
+        0,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 7066": {
+      "name": "FOCOLTONE 7066",
+      "code": "7066",
+      "components": [
+        100,
+        0,
+        0,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4010": {
+      "name": "FOCOLTONE 4010",
+      "code": "4010",
+      "components": [
+        5.098039215686275,
+        0,
+        0,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 4024": {
+      "name": "FOCOLTONE 4024",
+      "code": "4024",
+      "components": [
+        10.19607843137255,
+        0,
+        0,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 4038": {
+      "name": "FOCOLTONE 4038",
+      "code": "4038",
+      "components": [
+        14.901960784313726,
+        0,
+        0,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 4049": {
+      "name": "FOCOLTONE 4049",
+      "code": "4049",
+      "components": [
+        20,
+        0,
+        0,
+        20
+      ]
+    },
+    "FOCOLTONE 4060": {
+      "name": "FOCOLTONE 4060",
+      "code": "4060",
+      "components": [
+        25.098039215686278,
+        0,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 5010": {
+      "name": "FOCOLTONE 5010",
+      "code": "5010",
+      "components": [
+        29.80392156862745,
+        0,
+        0,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 5021": {
+      "name": "FOCOLTONE 5021",
+      "code": "5021",
+      "components": [
+        34.90196078431373,
+        0,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 5032": {
+      "name": "FOCOLTONE 5032",
+      "code": "5032",
+      "components": [
+        40,
+        0,
+        0,
+        40
+      ]
+    },
+    "FOCOLTONE 5043": {
+      "name": "FOCOLTONE 5043",
+      "code": "5043",
+      "components": [
+        45.09803921568628,
+        0,
+        0,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 5054": {
+      "name": "FOCOLTONE 5054",
+      "code": "5054",
+      "components": [
+        50.196078431372555,
+        0,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 6010": {
+      "name": "FOCOLTONE 6010",
+      "code": "6010",
+      "components": [
+        54.90196078431373,
+        0,
+        0,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 6021": {
+      "name": "FOCOLTONE 6021",
+      "code": "6021",
+      "components": [
+        60.00000000000001,
+        0,
+        0,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 6032": {
+      "name": "FOCOLTONE 6032",
+      "code": "6032",
+      "components": [
+        65.09803921568628,
+        0,
+        0,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 6043": {
+      "name": "FOCOLTONE 6043",
+      "code": "6043",
+      "components": [
+        70.19607843137256,
+        0,
+        0,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 6054": {
+      "name": "FOCOLTONE 6054",
+      "code": "6054",
+      "components": [
+        74.90196078431373,
+        0,
+        0,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4012": {
+      "name": "FOCOLTONE 4012",
+      "code": "4012",
+      "components": [
+        0,
+        5.098039215686275,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 4026": {
+      "name": "FOCOLTONE 4026",
+      "code": "4026",
+      "components": [
+        0,
+        10.19607843137255,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 7001": {
+      "name": "FOCOLTONE 7001",
+      "code": "7001",
+      "components": [
+        0,
+        100,
+        0,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 7007": {
+      "name": "FOCOLTONE 7007",
+      "code": "7007",
+      "components": [
+        0,
+        100,
+        0,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 7013": {
+      "name": "FOCOLTONE 7013",
+      "code": "7013",
+      "components": [
+        0,
+        100,
+        0,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 7019": {
+      "name": "FOCOLTONE 7019",
+      "code": "7019",
+      "components": [
+        0,
+        100,
+        0,
+        20
+      ]
+    },
+    "FOCOLTONE 7025": {
+      "name": "FOCOLTONE 7025",
+      "code": "7025",
+      "components": [
+        0,
+        100,
+        0,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 7031": {
+      "name": "FOCOLTONE 7031",
+      "code": "7031",
+      "components": [
+        0,
+        100,
+        0,
+        40
+      ]
+    },
+    "FOCOLTONE 7037": {
+      "name": "FOCOLTONE 7037",
+      "code": "7037",
+      "components": [
+        0,
+        100,
+        0,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 7043": {
+      "name": "FOCOLTONE 7043",
+      "code": "7043",
+      "components": [
+        0,
+        100,
+        0,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 7049": {
+      "name": "FOCOLTONE 7049",
+      "code": "7049",
+      "components": [
+        0,
+        100,
+        0,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 7055": {
+      "name": "FOCOLTONE 7055",
+      "code": "7055",
+      "components": [
+        0,
+        100,
+        0,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 7061": {
+      "name": "FOCOLTONE 7061",
+      "code": "7061",
+      "components": [
+        0,
+        100,
+        0,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 7067": {
+      "name": "FOCOLTONE 7067",
+      "code": "7067",
+      "components": [
+        0,
+        100,
+        0,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4009": {
+      "name": "FOCOLTONE 4009",
+      "code": "4009",
+      "components": [
+        0,
+        5.098039215686275,
+        0,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 4023": {
+      "name": "FOCOLTONE 4023",
+      "code": "4023",
+      "components": [
+        0,
+        10.19607843137255,
+        0,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 4037": {
+      "name": "FOCOLTONE 4037",
+      "code": "4037",
+      "components": [
+        0,
+        14.901960784313726,
+        0,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 4048": {
+      "name": "FOCOLTONE 4048",
+      "code": "4048",
+      "components": [
+        0,
+        20,
+        0,
+        20
+      ]
+    },
+    "FOCOLTONE 4059": {
+      "name": "FOCOLTONE 4059",
+      "code": "4059",
+      "components": [
+        0,
+        25.098039215686278,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 5009": {
+      "name": "FOCOLTONE 5009",
+      "code": "5009",
+      "components": [
+        0,
+        29.80392156862745,
+        0,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 5020": {
+      "name": "FOCOLTONE 5020",
+      "code": "5020",
+      "components": [
+        0,
+        34.90196078431373,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 5031": {
+      "name": "FOCOLTONE 5031",
+      "code": "5031",
+      "components": [
+        0,
+        40,
+        0,
+        40
+      ]
+    },
+    "FOCOLTONE 5042": {
+      "name": "FOCOLTONE 5042",
+      "code": "5042",
+      "components": [
+        0,
+        45.09803921568628,
+        0,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 5053": {
+      "name": "FOCOLTONE 5053",
+      "code": "5053",
+      "components": [
+        0,
+        50.196078431372555,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 6009": {
+      "name": "FOCOLTONE 6009",
+      "code": "6009",
+      "components": [
+        0,
+        54.90196078431373,
+        0,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 6020": {
+      "name": "FOCOLTONE 6020",
+      "code": "6020",
+      "components": [
+        0,
+        60.00000000000001,
+        0,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 6031": {
+      "name": "FOCOLTONE 6031",
+      "code": "6031",
+      "components": [
+        0,
+        65.09803921568628,
+        0,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 6042": {
+      "name": "FOCOLTONE 6042",
+      "code": "6042",
+      "components": [
+        0,
+        70.19607843137256,
+        0,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 6053": {
+      "name": "FOCOLTONE 6053",
+      "code": "6053",
+      "components": [
+        0,
+        74.90196078431373,
+        0,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4007": {
+      "name": "FOCOLTONE 4007",
+      "code": "4007",
+      "components": [
+        5.098039215686275,
+        5.098039215686275,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 4021": {
+      "name": "FOCOLTONE 4021",
+      "code": "4021",
+      "components": [
+        10.19607843137255,
+        10.19607843137255,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 4035": {
+      "name": "FOCOLTONE 4035",
+      "code": "4035",
+      "components": [
+        14.901960784313726,
+        14.901960784313726,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 4046": {
+      "name": "FOCOLTONE 4046",
+      "code": "4046",
+      "components": [
+        20,
+        20,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 4057": {
+      "name": "FOCOLTONE 4057",
+      "code": "4057",
+      "components": [
+        25.098039215686278,
+        25.098039215686278,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 5007": {
+      "name": "FOCOLTONE 5007",
+      "code": "5007",
+      "components": [
+        29.80392156862745,
+        29.80392156862745,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 5018": {
+      "name": "FOCOLTONE 5018",
+      "code": "5018",
+      "components": [
+        34.90196078431373,
+        34.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 5029": {
+      "name": "FOCOLTONE 5029",
+      "code": "5029",
+      "components": [
+        40,
+        40,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 5040": {
+      "name": "FOCOLTONE 5040",
+      "code": "5040",
+      "components": [
+        45.09803921568628,
+        45.09803921568628,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 5051": {
+      "name": "FOCOLTONE 5051",
+      "code": "5051",
+      "components": [
+        50.196078431372555,
+        50.196078431372555,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 6007": {
+      "name": "FOCOLTONE 6007",
+      "code": "6007",
+      "components": [
+        54.90196078431373,
+        54.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 6018": {
+      "name": "FOCOLTONE 6018",
+      "code": "6018",
+      "components": [
+        60.00000000000001,
+        60.00000000000001,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 6029": {
+      "name": "FOCOLTONE 6029",
+      "code": "6029",
+      "components": [
+        65.09803921568628,
+        65.09803921568628,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 6040": {
+      "name": "FOCOLTONE 6040",
+      "code": "6040",
+      "components": [
+        70.19607843137256,
+        70.19607843137256,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 6051": {
+      "name": "FOCOLTONE 6051",
+      "code": "6051",
+      "components": [
+        74.90196078431373,
+        74.90196078431373,
+        0,
+        0
+      ]
+    },
+    "FOCOLTONE 4004": {
+      "name": "FOCOLTONE 4004",
+      "code": "4004",
+      "components": [
+        5.098039215686275,
+        5.098039215686275,
+        0,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 4018": {
+      "name": "FOCOLTONE 4018",
+      "code": "4018",
+      "components": [
+        10.19607843137255,
+        10.19607843137255,
+        0,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 4032": {
+      "name": "FOCOLTONE 4032",
+      "code": "4032",
+      "components": [
+        14.901960784313726,
+        14.901960784313726,
+        0,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 4043": {
+      "name": "FOCOLTONE 4043",
+      "code": "4043",
+      "components": [
+        20,
+        20,
+        0,
+        20
+      ]
+    },
+    "FOCOLTONE 4054": {
+      "name": "FOCOLTONE 4054",
+      "code": "4054",
+      "components": [
+        25.098039215686278,
+        25.098039215686278,
+        0,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 5004": {
+      "name": "FOCOLTONE 5004",
+      "code": "5004",
+      "components": [
+        29.80392156862745,
+        29.80392156862745,
+        0,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 5015": {
+      "name": "FOCOLTONE 5015",
+      "code": "5015",
+      "components": [
+        34.90196078431373,
+        34.90196078431373,
+        0,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 5026": {
+      "name": "FOCOLTONE 5026",
+      "code": "5026",
+      "components": [
+        40,
+        40,
+        0,
+        40
+      ]
+    },
+    "FOCOLTONE 5037": {
+      "name": "FOCOLTONE 5037",
+      "code": "5037",
+      "components": [
+        45.09803921568628,
+        45.09803921568628,
+        0,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 5048": {
+      "name": "FOCOLTONE 5048",
+      "code": "5048",
+      "components": [
+        50.196078431372555,
+        50.196078431372555,
+        0,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 6004": {
+      "name": "FOCOLTONE 6004",
+      "code": "6004",
+      "components": [
+        54.90196078431373,
+        54.90196078431373,
+        0,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 6015": {
+      "name": "FOCOLTONE 6015",
+      "code": "6015",
+      "components": [
+        60.00000000000001,
+        60.00000000000001,
+        0,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 6026": {
+      "name": "FOCOLTONE 6026",
+      "code": "6026",
+      "components": [
+        65.09803921568628,
+        65.09803921568628,
+        0,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 6037": {
+      "name": "FOCOLTONE 6037",
+      "code": "6037",
+      "components": [
+        70.19607843137256,
+        70.19607843137256,
+        0,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 6048": {
+      "name": "FOCOLTONE 6048",
+      "code": "6048",
+      "components": [
+        74.90196078431373,
+        74.90196078431373,
+        0,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 7003": {
+      "name": "FOCOLTONE 7003",
+      "code": "7003",
+      "components": [
+        100,
+        100,
+        0,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 7009": {
+      "name": "FOCOLTONE 7009",
+      "code": "7009",
+      "components": [
+        100,
+        100,
+        0,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 7015": {
+      "name": "FOCOLTONE 7015",
+      "code": "7015",
+      "components": [
+        100,
+        100,
+        0,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 7021": {
+      "name": "FOCOLTONE 7021",
+      "code": "7021",
+      "components": [
+        100,
+        100,
+        0,
+        20
+      ]
+    },
+    "FOCOLTONE 7027": {
+      "name": "FOCOLTONE 7027",
+      "code": "7027",
+      "components": [
+        100,
+        100,
+        0,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 7033": {
+      "name": "FOCOLTONE 7033",
+      "code": "7033",
+      "components": [
+        100,
+        100,
+        0,
+        40
+      ]
+    },
+    "FOCOLTONE 7039": {
+      "name": "FOCOLTONE 7039",
+      "code": "7039",
+      "components": [
+        100,
+        100,
+        0,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 7045": {
+      "name": "FOCOLTONE 7045",
+      "code": "7045",
+      "components": [
+        100,
+        100,
+        0,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 7051": {
+      "name": "FOCOLTONE 7051",
+      "code": "7051",
+      "components": [
+        100,
+        100,
+        0,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 7057": {
+      "name": "FOCOLTONE 7057",
+      "code": "7057",
+      "components": [
+        100,
+        100,
+        0,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 7063": {
+      "name": "FOCOLTONE 7063",
+      "code": "7063",
+      "components": [
+        100,
+        100,
+        0,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 7069": {
+      "name": "FOCOLTONE 7069",
+      "code": "7069",
+      "components": [
+        100,
+        100,
+        0,
+        74.90196078431373
+      ]
+    },
+    "FOCOLTONE 4003": {
+      "name": "FOCOLTONE 4003",
+      "code": "4003",
+      "components": [
+        0,
+        5.098039215686275,
+        5.098039215686275,
+        5.098039215686275
+      ]
+    },
+    "FOCOLTONE 4017": {
+      "name": "FOCOLTONE 4017",
+      "code": "4017",
+      "components": [
+        0,
+        10.19607843137255,
+        10.19607843137255,
+        10.19607843137255
+      ]
+    },
+    "FOCOLTONE 4031": {
+      "name": "FOCOLTONE 4031",
+      "code": "4031",
+      "components": [
+        0,
+        14.901960784313726,
+        14.901960784313726,
+        14.901960784313726
+      ]
+    },
+    "FOCOLTONE 4042": {
+      "name": "FOCOLTONE 4042",
+      "code": "4042",
+      "components": [
+        0,
+        20,
+        20,
+        20
+      ]
+    },
+    "FOCOLTONE 4053": {
+      "name": "FOCOLTONE 4053",
+      "code": "4053",
+      "components": [
+        0,
+        25.098039215686278,
+        25.098039215686278,
+        25.098039215686278
+      ]
+    },
+    "FOCOLTONE 5003": {
+      "name": "FOCOLTONE 5003",
+      "code": "5003",
+      "components": [
+        0,
+        29.80392156862745,
+        29.80392156862745,
+        29.80392156862745
+      ]
+    },
+    "FOCOLTONE 5014": {
+      "name": "FOCOLTONE 5014",
+      "code": "5014",
+      "components": [
+        0,
+        34.90196078431373,
+        34.90196078431373,
+        34.90196078431373
+      ]
+    },
+    "FOCOLTONE 5025": {
+      "name": "FOCOLTONE 5025",
+      "code": "5025",
+      "components": [
+        0,
+        40,
+        40,
+        40
+      ]
+    },
+    "FOCOLTONE 5036": {
+      "name": "FOCOLTONE 5036",
+      "code": "5036",
+      "components": [
+        0,
+        45.09803921568628,
+        45.09803921568628,
+        45.09803921568628
+      ]
+    },
+    "FOCOLTONE 5047": {
+      "name": "FOCOLTONE 5047",
+      "code": "5047",
+      "components": [
+        0,
+        50.196078431372555,
+        50.196078431372555,
+        50.196078431372555
+      ]
+    },
+    "FOCOLTONE 6003": {
+      "name": "FOCOLTONE 6003",
+      "code": "6003",
+      "components": [
+        0,
+        54.90196078431373,
+        54.90196078431373,
+        54.90196078431373
+      ]
+    },
+    "FOCOLTONE 6014": {
+      "name": "FOCOLTONE 6014",
+      "code": "6014",
+      "components": [
+        0,
+        60.00000000000001,
+        60.00000000000001,
+        60.00000000000001
+      ]
+    },
+    "FOCOLTONE 6025": {
+      "name": "FOCOLTONE 6025",
+      "code": "6025",
+      "components": [
+        0,
+        65.09803921568628,
+        65.09803921568628,
+        65.09803921568628
+      ]
+    },
+    "FOCOLTONE 6036": {
+      "name": "FOCOLTONE 6036",
+      "code": "6036",
+      "components": [
+        0,
+        70.19607843137256,
+        70.19607843137256,
+        70.19607843137256
+      ]
+    },
+    "FOCOLTONE 6047": {
+      "name": "FOCOLTONE 6047",
+      "code": "6047",
+      "components": [
+        0,
+        74.90196078431373,
+        74.90196078431373,
+        74.90196078431373
+      ]
+    }
+  }
+}

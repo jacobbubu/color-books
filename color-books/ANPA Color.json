@@ -1,0 +1,2712 @@
+{
+  "version": 1,
+  "title": "ANPA Color",
+  "prefix": "ANPA ",
+  "suffix": " AdPro",
+  "colorCount": 300,
+  "colorSpace": "LAB",
+  "channels": 3,
+  "spotIdentifier": "Spot",
+  "records": {
+    "ANPA 71-1D AdPro": {
+      "name": "ANPA 71-1D AdPro",
+      "code": "71-1D",
+      "components": [
+        97.25490196078432,
+        -5,
+        -5
+      ]
+    },
+    "ANPA 71-2D AdPro": {
+      "name": "ANPA 71-2D AdPro",
+      "code": "71-2D",
+      "components": [
+        94.50980392156863,
+        -8,
+        -8
+      ]
+    },
+    "ANPA 71-4D AdPro": {
+      "name": "ANPA 71-4D AdPro",
+      "code": "71-4D",
+      "components": [
+        89.01960784313727,
+        -14,
+        -15
+      ]
+    },
+    "ANPA 71-6D AdPro": {
+      "name": "ANPA 71-6D AdPro",
+      "code": "71-6D",
+      "components": [
+        79.6078431372549,
+        -24,
+        -25
+      ]
+    },
+    "ANPA 71-8D AdPro": {
+      "name": "ANPA 71-8D AdPro",
+      "code": "71-8D",
+      "components": [
+        73.33333333333334,
+        -31,
+        -32
+      ]
+    },
+    "ANPA 71-0D AdPro": {
+      "name": "ANPA 71-0D AdPro",
+      "code": "71-0D",
+      "components": [
+        68.23529411764706,
+        -39,
+        -39
+      ]
+    },
+    "ANPA 72-1D AdPro": {
+      "name": "ANPA 72-1D AdPro",
+      "code": "72-1D",
+      "components": [
+        96.86274509803923,
+        7,
+        -1
+      ]
+    },
+    "ANPA 72-2D AdPro": {
+      "name": "ANPA 72-2D AdPro",
+      "code": "72-2D",
+      "components": [
+        94.90196078431373,
+        9,
+        -2
+      ]
+    },
+    "ANPA 72-4D AdPro": {
+      "name": "ANPA 72-4D AdPro",
+      "code": "72-4D",
+      "components": [
+        89.80392156862746,
+        17,
+        -4
+      ]
+    },
+    "ANPA 72-6D AdPro": {
+      "name": "ANPA 72-6D AdPro",
+      "code": "72-6D",
+      "components": [
+        79.2156862745098,
+        32,
+        -7
+      ]
+    },
+    "ANPA 72-8D AdPro": {
+      "name": "ANPA 72-8D AdPro",
+      "code": "72-8D",
+      "components": [
+        69.01960784313727,
+        48,
+        -7
+      ]
+    },
+    "ANPA 72-0D AdPro": {
+      "name": "ANPA 72-0D AdPro",
+      "code": "72-0D",
+      "components": [
+        58.82352941176471,
+        64,
+        -5
+      ]
+    },
+    "ANPA 73-1D AdPro": {
+      "name": "ANPA 73-1D AdPro",
+      "code": "73-1D",
+      "components": [
+        100,
+        0,
+        10
+      ]
+    },
+    "ANPA 73-2D AdPro": {
+      "name": "ANPA 73-2D AdPro",
+      "code": "73-2D",
+      "components": [
+        100,
+        0,
+        17
+      ]
+    },
+    "ANPA 73-4D AdPro": {
+      "name": "ANPA 73-4D AdPro",
+      "code": "73-4D",
+      "components": [
+        99.2156862745098,
+        -1,
+        32
+      ]
+    },
+    "ANPA 73-6D AdPro": {
+      "name": "ANPA 73-6D AdPro",
+      "code": "73-6D",
+      "components": [
+        98.03921568627452,
+        -2,
+        54
+      ]
+    },
+    "ANPA 73-8D AdPro": {
+      "name": "ANPA 73-8D AdPro",
+      "code": "73-8D",
+      "components": [
+        97.25490196078432,
+        -2,
+        69
+      ]
+    },
+    "ANPA 73-0D AdPro": {
+      "name": "ANPA 73-0D AdPro",
+      "code": "73-0D",
+      "components": [
+        96.86274509803923,
+        -2,
+        86
+      ]
+    },
+    "ANPA 74-1D AdPro": {
+      "name": "ANPA 74-1D AdPro",
+      "code": "74-1D",
+      "components": [
+        94.50980392156863,
+        8,
+        0
+      ]
+    },
+    "ANPA 74-2D AdPro": {
+      "name": "ANPA 74-2D AdPro",
+      "code": "74-2D",
+      "components": [
+        91.37254901960785,
+        12,
+        0
+      ]
+    },
+    "ANPA 74-4D AdPro": {
+      "name": "ANPA 74-4D AdPro",
+      "code": "74-4D",
+      "components": [
+        84.70588235294119,
+        23,
+        0
+      ]
+    },
+    "ANPA 74-6D AdPro": {
+      "name": "ANPA 74-6D AdPro",
+      "code": "74-6D",
+      "components": [
+        74.90196078431373,
+        39,
+        1
+      ]
+    },
+    "ANPA 74-8D AdPro": {
+      "name": "ANPA 74-8D AdPro",
+      "code": "74-8D",
+      "components": [
+        67.84313725490196,
+        52,
+        3
+      ]
+    },
+    "ANPA 74-0D AdPro": {
+      "name": "ANPA 74-0D AdPro",
+      "code": "74-0D",
+      "components": [
+        58.43137254901961,
+        69,
+        8
+      ]
+    },
+    "ANPA 75-1D AdPro": {
+      "name": "ANPA 75-1D AdPro",
+      "code": "75-1D",
+      "components": [
+        94.90196078431373,
+        8,
+        2
+      ]
+    },
+    "ANPA 75-2D AdPro": {
+      "name": "ANPA 75-2D AdPro",
+      "code": "75-2D",
+      "components": [
+        93.33333333333334,
+        11,
+        2
+      ]
+    },
+    "ANPA 75-4D AdPro": {
+      "name": "ANPA 75-4D AdPro",
+      "code": "75-4D",
+      "components": [
+        88.62745098039217,
+        20,
+        4
+      ]
+    },
+    "ANPA 75-6D AdPro": {
+      "name": "ANPA 75-6D AdPro",
+      "code": "75-6D",
+      "components": [
+        78.82352941176471,
+        39,
+        10
+      ]
+    },
+    "ANPA 75-8D AdPro": {
+      "name": "ANPA 75-8D AdPro",
+      "code": "75-8D",
+      "components": [
+        69.80392156862746,
+        56,
+        20
+      ]
+    },
+    "ANPA 75-0D AdPro": {
+      "name": "ANPA 75-0D AdPro",
+      "code": "75-0D",
+      "components": [
+        61.1764705882353,
+        71,
+        36
+      ]
+    },
+    "ANPA 76-1D AdPro": {
+      "name": "ANPA 76-1D AdPro",
+      "code": "76-1D",
+      "components": [
+        96.47058823529413,
+        5,
+        -4
+      ]
+    },
+    "ANPA 76-2D AdPro": {
+      "name": "ANPA 76-2D AdPro",
+      "code": "76-2D",
+      "components": [
+        92.94117647058825,
+        8,
+        -7
+      ]
+    },
+    "ANPA 76-4D AdPro": {
+      "name": "ANPA 76-4D AdPro",
+      "code": "76-4D",
+      "components": [
+        85.49019607843138,
+        16,
+        -15
+      ]
+    },
+    "ANPA 76-6D AdPro": {
+      "name": "ANPA 76-6D AdPro",
+      "code": "76-6D",
+      "components": [
+        73.33333333333334,
+        29,
+        -27
+      ]
+    },
+    "ANPA 76-8D AdPro": {
+      "name": "ANPA 76-8D AdPro",
+      "code": "76-8D",
+      "components": [
+        64.31372549019608,
+        40,
+        -36
+      ]
+    },
+    "ANPA 76-0D AdPro": {
+      "name": "ANPA 76-0D AdPro",
+      "code": "76-0D",
+      "components": [
+        54.50980392156863,
+        54,
+        -46
+      ]
+    },
+    "ANPA 77-1D AdPro": {
+      "name": "ANPA 77-1D AdPro",
+      "code": "77-1D",
+      "components": [
+        95.68627450980392,
+        2,
+        -5
+      ]
+    },
+    "ANPA 77-2D AdPro": {
+      "name": "ANPA 77-2D AdPro",
+      "code": "77-2D",
+      "components": [
+        92.54901960784315,
+        4,
+        -9
+      ]
+    },
+    "ANPA 77-4D AdPro": {
+      "name": "ANPA 77-4D AdPro",
+      "code": "77-4D",
+      "components": [
+        84.70588235294119,
+        7,
+        -17
+      ]
+    },
+    "ANPA 77-6D AdPro": {
+      "name": "ANPA 77-6D AdPro",
+      "code": "77-6D",
+      "components": [
+        72.15686274509804,
+        14,
+        -32
+      ]
+    },
+    "ANPA 77-8D AdPro": {
+      "name": "ANPA 77-8D AdPro",
+      "code": "77-8D",
+      "components": [
+        62.74509803921569,
+        21,
+        -42
+      ]
+    },
+    "ANPA 77-0D AdPro": {
+      "name": "ANPA 77-0D AdPro",
+      "code": "77-0D",
+      "components": [
+        51.76470588235294,
+        31,
+        -56
+      ]
+    },
+    "ANPA 70-1D AdPro": {
+      "name": "ANPA 70-1D AdPro",
+      "code": "70-1D",
+      "components": [
+        100,
+        0,
+        0
+      ]
+    },
+    "ANPA 70-2D AdPro": {
+      "name": "ANPA 70-2D AdPro",
+      "code": "70-2D",
+      "components": [
+        100,
+        0,
+        0
+      ]
+    },
+    "ANPA 70-4D AdPro": {
+      "name": "ANPA 70-4D AdPro",
+      "code": "70-4D",
+      "components": [
+        100,
+        0,
+        0
+      ]
+    },
+    "ANPA 70-6D AdPro": {
+      "name": "ANPA 70-6D AdPro",
+      "code": "70-6D",
+      "components": [
+        100,
+        0,
+        0
+      ]
+    },
+    "ANPA 70-8D AdPro": {
+      "name": "ANPA 70-8D AdPro",
+      "code": "70-8D",
+      "components": [
+        100,
+        0,
+        0
+      ]
+    },
+    "ANPA 70-0D AdPro": {
+      "name": "ANPA 70-0D AdPro",
+      "code": "70-0D",
+      "components": [
+        100,
+        0,
+        0
+      ]
+    },
+    "ANPA 701-1D AdPro": {
+      "name": "ANPA 701-1D AdPro",
+      "code": "701-1D",
+      "components": [
+        96.07843137254902,
+        0,
+        -6
+      ]
+    },
+    "ANPA 701-2D AdPro": {
+      "name": "ANPA 701-2D AdPro",
+      "code": "701-2D",
+      "components": [
+        92.94117647058825,
+        0,
+        -10
+      ]
+    },
+    "ANPA 701-4D AdPro": {
+      "name": "ANPA 701-4D AdPro",
+      "code": "701-4D",
+      "components": [
+        84.31372549019608,
+        0,
+        -19
+      ]
+    },
+    "ANPA 701-6D AdPro": {
+      "name": "ANPA 701-6D AdPro",
+      "code": "701-6D",
+      "components": [
+        70.98039215686275,
+        1,
+        -34
+      ]
+    },
+    "ANPA 701-8D AdPro": {
+      "name": "ANPA 701-8D AdPro",
+      "code": "701-8D",
+      "components": [
+        60.7843137254902,
+        3,
+        -44
+      ]
+    },
+    "ANPA 701-0D AdPro": {
+      "name": "ANPA 701-0D AdPro",
+      "code": "701-0D",
+      "components": [
+        46.66666666666667,
+        8,
+        -60
+      ]
+    },
+    "ANPA 702-1D AdPro": {
+      "name": "ANPA 702-1D AdPro",
+      "code": "702-1D",
+      "components": [
+        95.29411764705883,
+        -7,
+        3
+      ]
+    },
+    "ANPA 702-2D AdPro": {
+      "name": "ANPA 702-2D AdPro",
+      "code": "702-2D",
+      "components": [
+        92.94117647058825,
+        -10,
+        4
+      ]
+    },
+    "ANPA 702-4D AdPro": {
+      "name": "ANPA 702-4D AdPro",
+      "code": "702-4D",
+      "components": [
+        85.88235294117648,
+        -20,
+        9
+      ]
+    },
+    "ANPA 702-6D AdPro": {
+      "name": "ANPA 702-6D AdPro",
+      "code": "702-6D",
+      "components": [
+        75.68627450980392,
+        -35,
+        17
+      ]
+    },
+    "ANPA 702-8D AdPro": {
+      "name": "ANPA 702-8D AdPro",
+      "code": "702-8D",
+      "components": [
+        68.62745098039215,
+        -46,
+        23
+      ]
+    },
+    "ANPA 702-0D AdPro": {
+      "name": "ANPA 702-0D AdPro",
+      "code": "702-0D",
+      "components": [
+        61.568627450980394,
+        -57,
+        28
+      ]
+    },
+    "ANPA 703-1D AdPro": {
+      "name": "ANPA 703-1D AdPro",
+      "code": "703-1D",
+      "components": [
+        99.6078431372549,
+        2,
+        6
+      ]
+    },
+    "ANPA 703-2D AdPro": {
+      "name": "ANPA 703-2D AdPro",
+      "code": "703-2D",
+      "components": [
+        96.47058823529413,
+        13,
+        11
+      ]
+    },
+    "ANPA 703-4D AdPro": {
+      "name": "ANPA 703-4D AdPro",
+      "code": "703-4D",
+      "components": [
+        91.37254901960785,
+        23,
+        21
+      ]
+    },
+    "ANPA 703-6D AdPro": {
+      "name": "ANPA 703-6D AdPro",
+      "code": "703-6D",
+      "components": [
+        84.31372549019608,
+        38,
+        39
+      ]
+    },
+    "ANPA 703-8D AdPro": {
+      "name": "ANPA 703-8D AdPro",
+      "code": "703-8D",
+      "components": [
+        79.6078431372549,
+        48,
+        57
+      ]
+    },
+    "ANPA 703-0D AdPro": {
+      "name": "ANPA 703-0D AdPro",
+      "code": "703-0D",
+      "components": [
+        74.11764705882354,
+        58,
+        87
+      ]
+    },
+    "ANPA 704-1D AdPro": {
+      "name": "ANPA 704-1D AdPro",
+      "code": "704-1D",
+      "components": [
+        94.50980392156863,
+        9,
+        2
+      ]
+    },
+    "ANPA 704-2D AdPro": {
+      "name": "ANPA 704-2D AdPro",
+      "code": "704-2D",
+      "components": [
+        91.37254901960785,
+        13,
+        3
+      ]
+    },
+    "ANPA 704-4D AdPro": {
+      "name": "ANPA 704-4D AdPro",
+      "code": "704-4D",
+      "components": [
+        83.52941176470588,
+        25,
+        6
+      ]
+    },
+    "ANPA 704-6D AdPro": {
+      "name": "ANPA 704-6D AdPro",
+      "code": "704-6D",
+      "components": [
+        72.54901960784314,
+        44,
+        14
+      ]
+    },
+    "ANPA 704-8D AdPro": {
+      "name": "ANPA 704-8D AdPro",
+      "code": "704-8D",
+      "components": [
+        65.49019607843138,
+        57,
+        22
+      ]
+    },
+    "ANPA 704-0D AdPro": {
+      "name": "ANPA 704-0D AdPro",
+      "code": "704-0D",
+      "components": [
+        57.64705882352941,
+        70,
+        36
+      ]
+    },
+    "ANPA 720-1D AdPro": {
+      "name": "ANPA 720-1D AdPro",
+      "code": "720-1D",
+      "components": [
+        96.47058823529413,
+        8,
+        -1
+      ]
+    },
+    "ANPA 720-2D AdPro": {
+      "name": "ANPA 720-2D AdPro",
+      "code": "720-2D",
+      "components": [
+        93.33333333333334,
+        13,
+        -1
+      ]
+    },
+    "ANPA 720-4D AdPro": {
+      "name": "ANPA 720-4D AdPro",
+      "code": "720-4D",
+      "components": [
+        85.49019607843138,
+        25,
+        -2
+      ]
+    },
+    "ANPA 720-6D AdPro": {
+      "name": "ANPA 720-6D AdPro",
+      "code": "720-6D",
+      "components": [
+        73.72549019607844,
+        43,
+        -1
+      ]
+    },
+    "ANPA 720-8D AdPro": {
+      "name": "ANPA 720-8D AdPro",
+      "code": "720-8D",
+      "components": [
+        65.88235294117648,
+        56,
+        1
+      ]
+    },
+    "ANPA 720-0D AdPro": {
+      "name": "ANPA 720-0D AdPro",
+      "code": "720-0D",
+      "components": [
+        57.254901960784316,
+        70,
+        5
+      ]
+    },
+    "ANPA 721-1D AdPro": {
+      "name": "ANPA 721-1D AdPro",
+      "code": "721-1D",
+      "components": [
+        95.68627450980392,
+        10,
+        0
+      ]
+    },
+    "ANPA 721-2D AdPro": {
+      "name": "ANPA 721-2D AdPro",
+      "code": "721-2D",
+      "components": [
+        92.54901960784315,
+        16,
+        2
+      ]
+    },
+    "ANPA 721-4D AdPro": {
+      "name": "ANPA 721-4D AdPro",
+      "code": "721-4D",
+      "components": [
+        83.92156862745098,
+        29,
+        4
+      ]
+    },
+    "ANPA 721-6D AdPro": {
+      "name": "ANPA 721-6D AdPro",
+      "code": "721-6D",
+      "components": [
+        72.54901960784314,
+        49,
+        10
+      ]
+    },
+    "ANPA 721-8D AdPro": {
+      "name": "ANPA 721-8D AdPro",
+      "code": "721-8D",
+      "components": [
+        65.09803921568628,
+        62,
+        17
+      ]
+    },
+    "ANPA 721-0D AdPro": {
+      "name": "ANPA 721-0D AdPro",
+      "code": "721-0D",
+      "components": [
+        58.43137254901961,
+        73,
+        26
+      ]
+    },
+    "ANPA 722-1D AdPro": {
+      "name": "ANPA 722-1D AdPro",
+      "code": "722-1D",
+      "components": [
+        96.86274509803923,
+        8,
+        0
+      ]
+    },
+    "ANPA 722-2D AdPro": {
+      "name": "ANPA 722-2D AdPro",
+      "code": "722-2D",
+      "components": [
+        93.72549019607844,
+        12,
+        1
+      ]
+    },
+    "ANPA 722-4D AdPro": {
+      "name": "ANPA 722-4D AdPro",
+      "code": "722-4D",
+      "components": [
+        86.66666666666667,
+        22,
+        1
+      ]
+    },
+    "ANPA 722-6D AdPro": {
+      "name": "ANPA 722-6D AdPro",
+      "code": "722-6D",
+      "components": [
+        76.07843137254902,
+        40,
+        4
+      ]
+    },
+    "ANPA 722-8D AdPro": {
+      "name": "ANPA 722-8D AdPro",
+      "code": "722-8D",
+      "components": [
+        67.45098039215686,
+        54,
+        8
+      ]
+    },
+    "ANPA 722-0D AdPro": {
+      "name": "ANPA 722-0D AdPro",
+      "code": "722-0D",
+      "components": [
+        58.43137254901961,
+        69,
+        15
+      ]
+    },
+    "ANPA 723-1D AdPro": {
+      "name": "ANPA 723-1D AdPro",
+      "code": "723-1D",
+      "components": [
+        96.47058823529413,
+        7,
+        3
+      ]
+    },
+    "ANPA 723-2D AdPro": {
+      "name": "ANPA 723-2D AdPro",
+      "code": "723-2D",
+      "components": [
+        93.72549019607844,
+        11,
+        5
+      ]
+    },
+    "ANPA 723-4D AdPro": {
+      "name": "ANPA 723-4D AdPro",
+      "code": "723-4D",
+      "components": [
+        85.09803921568628,
+        21,
+        9
+      ]
+    },
+    "ANPA 723-6D AdPro": {
+      "name": "ANPA 723-6D AdPro",
+      "code": "723-6D",
+      "components": [
+        71.76470588235294,
+        39,
+        18
+      ]
+    },
+    "ANPA 723-8D AdPro": {
+      "name": "ANPA 723-8D AdPro",
+      "code": "723-8D",
+      "components": [
+        63.92156862745099,
+        50,
+        25
+      ]
+    },
+    "ANPA 723-0D AdPro": {
+      "name": "ANPA 723-0D AdPro",
+      "code": "723-0D",
+      "components": [
+        55.68627450980392,
+        63,
+        39
+      ]
+    },
+    "ANPA 724-1D AdPro": {
+      "name": "ANPA 724-1D AdPro",
+      "code": "724-1D",
+      "components": [
+        97.25490196078432,
+        7,
+        0
+      ]
+    },
+    "ANPA 724-2D AdPro": {
+      "name": "ANPA 724-2D AdPro",
+      "code": "724-2D",
+      "components": [
+        92.94117647058825,
+        11,
+        0
+      ]
+    },
+    "ANPA 724-4D AdPro": {
+      "name": "ANPA 724-4D AdPro",
+      "code": "724-4D",
+      "components": [
+        84.31372549019608,
+        21,
+        1
+      ]
+    },
+    "ANPA 724-6D AdPro": {
+      "name": "ANPA 724-6D AdPro",
+      "code": "724-6D",
+      "components": [
+        70.19607843137256,
+        37,
+        3
+      ]
+    },
+    "ANPA 724-8D AdPro": {
+      "name": "ANPA 724-8D AdPro",
+      "code": "724-8D",
+      "components": [
+        61.1764705882353,
+        49,
+        5
+      ]
+    },
+    "ANPA 724-0D AdPro": {
+      "name": "ANPA 724-0D AdPro",
+      "code": "724-0D",
+      "components": [
+        50.196078431372555,
+        64,
+        13
+      ]
+    },
+    "ANPA 725-1D AdPro": {
+      "name": "ANPA 725-1D AdPro",
+      "code": "725-1D",
+      "components": [
+        96.07843137254902,
+        8,
+        0
+      ]
+    },
+    "ANPA 725-2D AdPro": {
+      "name": "ANPA 725-2D AdPro",
+      "code": "725-2D",
+      "components": [
+        92.15686274509804,
+        11,
+        0
+      ]
+    },
+    "ANPA 725-4D AdPro": {
+      "name": "ANPA 725-4D AdPro",
+      "code": "725-4D",
+      "components": [
+        82.3529411764706,
+        21,
+        0
+      ]
+    },
+    "ANPA 725-6D AdPro": {
+      "name": "ANPA 725-6D AdPro",
+      "code": "725-6D",
+      "components": [
+        69.80392156862746,
+        34,
+        1
+      ]
+    },
+    "ANPA 725-8D AdPro": {
+      "name": "ANPA 725-8D AdPro",
+      "code": "725-8D",
+      "components": [
+        61.1764705882353,
+        43,
+        3
+      ]
+    },
+    "ANPA 725-0D AdPro": {
+      "name": "ANPA 725-0D AdPro",
+      "code": "725-0D",
+      "components": [
+        48.62745098039216,
+        57,
+        8
+      ]
+    },
+    "ANPA 726-1D AdPro": {
+      "name": "ANPA 726-1D AdPro",
+      "code": "726-1D",
+      "components": [
+        95.68627450980392,
+        9,
+        -4
+      ]
+    },
+    "ANPA 726-2D AdPro": {
+      "name": "ANPA 726-2D AdPro",
+      "code": "726-2D",
+      "components": [
+        92.54901960784315,
+        13,
+        -5
+      ]
+    },
+    "ANPA 726-4D AdPro": {
+      "name": "ANPA 726-4D AdPro",
+      "code": "726-4D",
+      "components": [
+        84.31372549019608,
+        25,
+        -9
+      ]
+    },
+    "ANPA 726-6D AdPro": {
+      "name": "ANPA 726-6D AdPro",
+      "code": "726-6D",
+      "components": [
+        71.37254901960785,
+        43,
+        -13
+      ]
+    },
+    "ANPA 726-8D AdPro": {
+      "name": "ANPA 726-8D AdPro",
+      "code": "726-8D",
+      "components": [
+        63.529411764705884,
+        55,
+        -14
+      ]
+    },
+    "ANPA 726-0D AdPro": {
+      "name": "ANPA 726-0D AdPro",
+      "code": "726-0D",
+      "components": [
+        54.117647058823536,
+        68,
+        -14
+      ]
+    },
+    "ANPA 727-1D AdPro": {
+      "name": "ANPA 727-1D AdPro",
+      "code": "727-1D",
+      "components": [
+        99.2156862745098,
+        4,
+        -1
+      ]
+    },
+    "ANPA 727-2D AdPro": {
+      "name": "ANPA 727-2D AdPro",
+      "code": "727-2D",
+      "components": [
+        97.25490196078432,
+        7,
+        -5
+      ]
+    },
+    "ANPA 727-4D AdPro": {
+      "name": "ANPA 727-4D AdPro",
+      "code": "727-4D",
+      "components": [
+        91.76470588235294,
+        12,
+        -13
+      ]
+    },
+    "ANPA 727-6D AdPro": {
+      "name": "ANPA 727-6D AdPro",
+      "code": "727-6D",
+      "components": [
+        83.92156862745098,
+        22,
+        -23
+      ]
+    },
+    "ANPA 727-8D AdPro": {
+      "name": "ANPA 727-8D AdPro",
+      "code": "727-8D",
+      "components": [
+        78.82352941176471,
+        28,
+        -29
+      ]
+    },
+    "ANPA 727-0D AdPro": {
+      "name": "ANPA 727-0D AdPro",
+      "code": "727-0D",
+      "components": [
+        74.11764705882354,
+        34,
+        -34
+      ]
+    },
+    "ANPA 728-1D AdPro": {
+      "name": "ANPA 728-1D AdPro",
+      "code": "728-1D",
+      "components": [
+        96.47058823529413,
+        3,
+        -6
+      ]
+    },
+    "ANPA 728-2D AdPro": {
+      "name": "ANPA 728-2D AdPro",
+      "code": "728-2D",
+      "components": [
+        92.54901960784315,
+        5,
+        -8
+      ]
+    },
+    "ANPA 728-4D AdPro": {
+      "name": "ANPA 728-4D AdPro",
+      "code": "728-4D",
+      "components": [
+        83.13725490196079,
+        8,
+        -15
+      ]
+    },
+    "ANPA 728-6D AdPro": {
+      "name": "ANPA 728-6D AdPro",
+      "code": "728-6D",
+      "components": [
+        69.01960784313727,
+        16,
+        -27
+      ]
+    },
+    "ANPA 728-8D AdPro": {
+      "name": "ANPA 728-8D AdPro",
+      "code": "728-8D",
+      "components": [
+        58.43137254901961,
+        23,
+        -37
+      ]
+    },
+    "ANPA 728-0D AdPro": {
+      "name": "ANPA 728-0D AdPro",
+      "code": "728-0D",
+      "components": [
+        45.490196078431374,
+        33,
+        -48
+      ]
+    },
+    "ANPA 729-1D AdPro": {
+      "name": "ANPA 729-1D AdPro",
+      "code": "729-1D",
+      "components": [
+        97.25490196078432,
+        3,
+        -5
+      ]
+    },
+    "ANPA 729-2D AdPro": {
+      "name": "ANPA 729-2D AdPro",
+      "code": "729-2D",
+      "components": [
+        94.11764705882354,
+        5,
+        -10
+      ]
+    },
+    "ANPA 729-4D AdPro": {
+      "name": "ANPA 729-4D AdPro",
+      "code": "729-4D",
+      "components": [
+        86.66666666666667,
+        8,
+        -18
+      ]
+    },
+    "ANPA 729-6D AdPro": {
+      "name": "ANPA 729-6D AdPro",
+      "code": "729-6D",
+      "components": [
+        74.90196078431373,
+        14,
+        -32
+      ]
+    },
+    "ANPA 729-8D AdPro": {
+      "name": "ANPA 729-8D AdPro",
+      "code": "729-8D",
+      "components": [
+        66.66666666666667,
+        19,
+        -42
+      ]
+    },
+    "ANPA 729-0D AdPro": {
+      "name": "ANPA 729-0D AdPro",
+      "code": "729-0D",
+      "components": [
+        57.64705882352941,
+        25,
+        -51
+      ]
+    },
+    "ANPA 730-1D AdPro": {
+      "name": "ANPA 730-1D AdPro",
+      "code": "730-1D",
+      "components": [
+        97.25490196078432,
+        2,
+        -5
+      ]
+    },
+    "ANPA 730-2D AdPro": {
+      "name": "ANPA 730-2D AdPro",
+      "code": "730-2D",
+      "components": [
+        93.72549019607844,
+        3,
+        -10
+      ]
+    },
+    "ANPA 730-4D AdPro": {
+      "name": "ANPA 730-4D AdPro",
+      "code": "730-4D",
+      "components": [
+        86.27450980392157,
+        5,
+        -19
+      ]
+    },
+    "ANPA 730-6D AdPro": {
+      "name": "ANPA 730-6D AdPro",
+      "code": "730-6D",
+      "components": [
+        73.72549019607844,
+        9,
+        -33
+      ]
+    },
+    "ANPA 730-8D AdPro": {
+      "name": "ANPA 730-8D AdPro",
+      "code": "730-8D",
+      "components": [
+        64.31372549019608,
+        13,
+        -44
+      ]
+    },
+    "ANPA 730-0D AdPro": {
+      "name": "ANPA 730-0D AdPro",
+      "code": "730-0D",
+      "components": [
+        53.72549019607843,
+        17,
+        -55
+      ]
+    },
+    "ANPA 731-1D AdPro": {
+      "name": "ANPA 731-1D AdPro",
+      "code": "731-1D",
+      "components": [
+        96.47058823529413,
+        0,
+        -6
+      ]
+    },
+    "ANPA 731-2D AdPro": {
+      "name": "ANPA 731-2D AdPro",
+      "code": "731-2D",
+      "components": [
+        93.33333333333334,
+        0,
+        -11
+      ]
+    },
+    "ANPA 731-4D AdPro": {
+      "name": "ANPA 731-4D AdPro",
+      "code": "731-4D",
+      "components": [
+        84.31372549019608,
+        1,
+        -20
+      ]
+    },
+    "ANPA 731-6D AdPro": {
+      "name": "ANPA 731-6D AdPro",
+      "code": "731-6D",
+      "components": [
+        70.58823529411765,
+        3,
+        -34
+      ]
+    },
+    "ANPA 731-8D AdPro": {
+      "name": "ANPA 731-8D AdPro",
+      "code": "731-8D",
+      "components": [
+        60.7843137254902,
+        6,
+        -46
+      ]
+    },
+    "ANPA 731-0D AdPro": {
+      "name": "ANPA 731-0D AdPro",
+      "code": "731-0D",
+      "components": [
+        48.62745098039216,
+        10,
+        -58
+      ]
+    },
+    "ANPA 732-1D AdPro": {
+      "name": "ANPA 732-1D AdPro",
+      "code": "732-1D",
+      "components": [
+        97.25490196078432,
+        -2,
+        -4
+      ]
+    },
+    "ANPA 732-2D AdPro": {
+      "name": "ANPA 732-2D AdPro",
+      "code": "732-2D",
+      "components": [
+        93.72549019607844,
+        -3,
+        -5
+      ]
+    },
+    "ANPA 732-4D AdPro": {
+      "name": "ANPA 732-4D AdPro",
+      "code": "732-4D",
+      "components": [
+        85.49019607843138,
+        -6,
+        -9
+      ]
+    },
+    "ANPA 732-6D AdPro": {
+      "name": "ANPA 732-6D AdPro",
+      "code": "732-6D",
+      "components": [
+        72.94117647058825,
+        -10,
+        -17
+      ]
+    },
+    "ANPA 732-8D AdPro": {
+      "name": "ANPA 732-8D AdPro",
+      "code": "732-8D",
+      "components": [
+        63.92156862745099,
+        -14,
+        -22
+      ]
+    },
+    "ANPA 732-0D AdPro": {
+      "name": "ANPA 732-0D AdPro",
+      "code": "732-0D",
+      "components": [
+        52.94117647058824,
+        -19,
+        -29
+      ]
+    },
+    "ANPA 733-1D AdPro": {
+      "name": "ANPA 733-1D AdPro",
+      "code": "733-1D",
+      "components": [
+        98.82352941176471,
+        -4,
+        -2
+      ]
+    },
+    "ANPA 733-2D AdPro": {
+      "name": "ANPA 733-2D AdPro",
+      "code": "733-2D",
+      "components": [
+        96.07843137254902,
+        -6,
+        -6
+      ]
+    },
+    "ANPA 733-4D AdPro": {
+      "name": "ANPA 733-4D AdPro",
+      "code": "733-4D",
+      "components": [
+        90.19607843137256,
+        -11,
+        -15
+      ]
+    },
+    "ANPA 733-6D AdPro": {
+      "name": "ANPA 733-6D AdPro",
+      "code": "733-6D",
+      "components": [
+        80.3921568627451,
+        -19,
+        -26
+      ]
+    },
+    "ANPA 733-8D AdPro": {
+      "name": "ANPA 733-8D AdPro",
+      "code": "733-8D",
+      "components": [
+        74.50980392156863,
+        -26,
+        -33
+      ]
+    },
+    "ANPA 733-0D AdPro": {
+      "name": "ANPA 733-0D AdPro",
+      "code": "733-0D",
+      "components": [
+        66.66666666666667,
+        -34,
+        -40
+      ]
+    },
+    "ANPA 734-1D AdPro": {
+      "name": "ANPA 734-1D AdPro",
+      "code": "734-1D",
+      "components": [
+        100,
+        -3,
+        0
+      ]
+    },
+    "ANPA 734-2D AdPro": {
+      "name": "ANPA 734-2D AdPro",
+      "code": "734-2D",
+      "components": [
+        97.64705882352942,
+        -4,
+        -4
+      ]
+    },
+    "ANPA 734-4D AdPro": {
+      "name": "ANPA 734-4D AdPro",
+      "code": "734-4D",
+      "components": [
+        92.94117647058825,
+        -8,
+        -12
+      ]
+    },
+    "ANPA 734-6D AdPro": {
+      "name": "ANPA 734-6D AdPro",
+      "code": "734-6D",
+      "components": [
+        85.09803921568628,
+        -14,
+        -23
+      ]
+    },
+    "ANPA 734-8D AdPro": {
+      "name": "ANPA 734-8D AdPro",
+      "code": "734-8D",
+      "components": [
+        80.3921568627451,
+        -19,
+        -29
+      ]
+    },
+    "ANPA 734-0D AdPro": {
+      "name": "ANPA 734-0D AdPro",
+      "code": "734-0D",
+      "components": [
+        75.29411764705883,
+        -24,
+        -34
+      ]
+    },
+    "ANPA 735-1D AdPro": {
+      "name": "ANPA 735-1D AdPro",
+      "code": "735-1D",
+      "components": [
+        100,
+        -2,
+        0
+      ]
+    },
+    "ANPA 735-2D AdPro": {
+      "name": "ANPA 735-2D AdPro",
+      "code": "735-2D",
+      "components": [
+        99.2156862745098,
+        -7,
+        -1
+      ]
+    },
+    "ANPA 735-4D AdPro": {
+      "name": "ANPA 735-4D AdPro",
+      "code": "735-4D",
+      "components": [
+        94.50980392156863,
+        -13,
+        -9
+      ]
+    },
+    "ANPA 735-6D AdPro": {
+      "name": "ANPA 735-6D AdPro",
+      "code": "735-6D",
+      "components": [
+        88.62745098039217,
+        -21,
+        -19
+      ]
+    },
+    "ANPA 735-8D AdPro": {
+      "name": "ANPA 735-8D AdPro",
+      "code": "735-8D",
+      "components": [
+        84.70588235294119,
+        -27,
+        -24
+      ]
+    },
+    "ANPA 735-0D AdPro": {
+      "name": "ANPA 735-0D AdPro",
+      "code": "735-0D",
+      "components": [
+        80,
+        -32,
+        -28
+      ]
+    },
+    "ANPA 736-1D AdPro": {
+      "name": "ANPA 736-1D AdPro",
+      "code": "736-1D",
+      "components": [
+        99.2156862745098,
+        -6,
+        -1
+      ]
+    },
+    "ANPA 736-2D AdPro": {
+      "name": "ANPA 736-2D AdPro",
+      "code": "736-2D",
+      "components": [
+        96.86274509803923,
+        -8,
+        -4
+      ]
+    },
+    "ANPA 736-4D AdPro": {
+      "name": "ANPA 736-4D AdPro",
+      "code": "736-4D",
+      "components": [
+        91.37254901960785,
+        -16,
+        -8
+      ]
+    },
+    "ANPA 736-6D AdPro": {
+      "name": "ANPA 736-6D AdPro",
+      "code": "736-6D",
+      "components": [
+        82.3529411764706,
+        -27,
+        -14
+      ]
+    },
+    "ANPA 736-8D AdPro": {
+      "name": "ANPA 736-8D AdPro",
+      "code": "736-8D",
+      "components": [
+        76.86274509803923,
+        -35,
+        -18
+      ]
+    },
+    "ANPA 736-0D AdPro": {
+      "name": "ANPA 736-0D AdPro",
+      "code": "736-0D",
+      "components": [
+        70.58823529411765,
+        -43,
+        -21
+      ]
+    },
+    "ANPA 737-1D AdPro": {
+      "name": "ANPA 737-1D AdPro",
+      "code": "737-1D",
+      "components": [
+        98.82352941176471,
+        -4,
+        -1
+      ]
+    },
+    "ANPA 737-2D AdPro": {
+      "name": "ANPA 737-2D AdPro",
+      "code": "737-2D",
+      "components": [
+        98.03921568627452,
+        -6,
+        -2
+      ]
+    },
+    "ANPA 737-4D AdPro": {
+      "name": "ANPA 737-4D AdPro",
+      "code": "737-4D",
+      "components": [
+        95.29411764705883,
+        -10,
+        -3
+      ]
+    },
+    "ANPA 737-6D AdPro": {
+      "name": "ANPA 737-6D AdPro",
+      "code": "737-6D",
+      "components": [
+        90.19607843137256,
+        -19,
+        -6
+      ]
+    },
+    "ANPA 737-8D AdPro": {
+      "name": "ANPA 737-8D AdPro",
+      "code": "737-8D",
+      "components": [
+        84.31372549019608,
+        -28,
+        -9
+      ]
+    },
+    "ANPA 737-0D AdPro": {
+      "name": "ANPA 737-0D AdPro",
+      "code": "737-0D",
+      "components": [
+        73.72549019607844,
+        -40,
+        -13
+      ]
+    },
+    "ANPA 738-1D AdPro": {
+      "name": "ANPA 738-1D AdPro",
+      "code": "738-1D",
+      "components": [
+        100,
+        -2,
+        0
+      ]
+    },
+    "ANPA 738-2D AdPro": {
+      "name": "ANPA 738-2D AdPro",
+      "code": "738-2D",
+      "components": [
+        99.2156862745098,
+        -8,
+        1
+      ]
+    },
+    "ANPA 738-4D AdPro": {
+      "name": "ANPA 738-4D AdPro",
+      "code": "738-4D",
+      "components": [
+        95.29411764705883,
+        -15,
+        2
+      ]
+    },
+    "ANPA 738-6D AdPro": {
+      "name": "ANPA 738-6D AdPro",
+      "code": "738-6D",
+      "components": [
+        88.62745098039217,
+        -26,
+        4
+      ]
+    },
+    "ANPA 738-8D AdPro": {
+      "name": "ANPA 738-8D AdPro",
+      "code": "738-8D",
+      "components": [
+        84.70588235294119,
+        -34,
+        5
+      ]
+    },
+    "ANPA 738-0D AdPro": {
+      "name": "ANPA 738-0D AdPro",
+      "code": "738-0D",
+      "components": [
+        78.82352941176471,
+        -41,
+        6
+      ]
+    },
+    "ANPA 739-1D AdPro": {
+      "name": "ANPA 739-1D AdPro",
+      "code": "739-1D",
+      "components": [
+        98.82352941176471,
+        -6,
+        3
+      ]
+    },
+    "ANPA 739-2D AdPro": {
+      "name": "ANPA 739-2D AdPro",
+      "code": "739-2D",
+      "components": [
+        96.07843137254902,
+        -10,
+        4
+      ]
+    },
+    "ANPA 739-4D AdPro": {
+      "name": "ANPA 739-4D AdPro",
+      "code": "739-4D",
+      "components": [
+        89.41176470588236,
+        -18,
+        8
+      ]
+    },
+    "ANPA 739-6D AdPro": {
+      "name": "ANPA 739-6D AdPro",
+      "code": "739-6D",
+      "components": [
+        79.6078431372549,
+        -32,
+        14
+      ]
+    },
+    "ANPA 739-8D AdPro": {
+      "name": "ANPA 739-8D AdPro",
+      "code": "739-8D",
+      "components": [
+        72.94117647058825,
+        -42,
+        18
+      ]
+    },
+    "ANPA 739-0D AdPro": {
+      "name": "ANPA 739-0D AdPro",
+      "code": "739-0D",
+      "components": [
+        63.92156862745099,
+        -54,
+        23
+      ]
+    },
+    "ANPA 740-1D AdPro": {
+      "name": "ANPA 740-1D AdPro",
+      "code": "740-1D",
+      "components": [
+        100,
+        -6,
+        5
+      ]
+    },
+    "ANPA 740-2D AdPro": {
+      "name": "ANPA 740-2D AdPro",
+      "code": "740-2D",
+      "components": [
+        97.25490196078432,
+        -9,
+        7
+      ]
+    },
+    "ANPA 740-4D AdPro": {
+      "name": "ANPA 740-4D AdPro",
+      "code": "740-4D",
+      "components": [
+        91.76470588235294,
+        -16,
+        13
+      ]
+    },
+    "ANPA 740-6D AdPro": {
+      "name": "ANPA 740-6D AdPro",
+      "code": "740-6D",
+      "components": [
+        83.52941176470588,
+        -28,
+        22
+      ]
+    },
+    "ANPA 740-8D AdPro": {
+      "name": "ANPA 740-8D AdPro",
+      "code": "740-8D",
+      "components": [
+        78.43137254901961,
+        -37,
+        30
+      ]
+    },
+    "ANPA 740-0D AdPro": {
+      "name": "ANPA 740-0D AdPro",
+      "code": "740-0D",
+      "components": [
+        72.54901960784314,
+        -45,
+        37
+      ]
+    },
+    "ANPA 741-1D AdPro": {
+      "name": "ANPA 741-1D AdPro",
+      "code": "741-1D",
+      "components": [
+        97.25490196078432,
+        -5,
+        5
+      ]
+    },
+    "ANPA 741-2D AdPro": {
+      "name": "ANPA 741-2D AdPro",
+      "code": "741-2D",
+      "components": [
+        96.07843137254902,
+        -7,
+        7
+      ]
+    },
+    "ANPA 741-4D AdPro": {
+      "name": "ANPA 741-4D AdPro",
+      "code": "741-4D",
+      "components": [
+        92.94117647058825,
+        -12,
+        13
+      ]
+    },
+    "ANPA 741-6D AdPro": {
+      "name": "ANPA 741-6D AdPro",
+      "code": "741-6D",
+      "components": [
+        86.66666666666667,
+        -21,
+        24
+      ]
+    },
+    "ANPA 741-8D AdPro": {
+      "name": "ANPA 741-8D AdPro",
+      "code": "741-8D",
+      "components": [
+        79.2156862745098,
+        -31,
+        34
+      ]
+    },
+    "ANPA 741-0D AdPro": {
+      "name": "ANPA 741-0D AdPro",
+      "code": "741-0D",
+      "components": [
+        67.05882352941177,
+        -46,
+        47
+      ]
+    },
+    "ANPA 742-1D AdPro": {
+      "name": "ANPA 742-1D AdPro",
+      "code": "742-1D",
+      "components": [
+        100,
+        -3,
+        6
+      ]
+    },
+    "ANPA 742-2D AdPro": {
+      "name": "ANPA 742-2D AdPro",
+      "code": "742-2D",
+      "components": [
+        98.43137254901961,
+        -7,
+        9
+      ]
+    },
+    "ANPA 742-4D AdPro": {
+      "name": "ANPA 742-4D AdPro",
+      "code": "742-4D",
+      "components": [
+        94.11764705882354,
+        -14,
+        16
+      ]
+    },
+    "ANPA 742-6D AdPro": {
+      "name": "ANPA 742-6D AdPro",
+      "code": "742-6D",
+      "components": [
+        87.45098039215686,
+        -24,
+        28
+      ]
+    },
+    "ANPA 742-8D AdPro": {
+      "name": "ANPA 742-8D AdPro",
+      "code": "742-8D",
+      "components": [
+        83.13725490196079,
+        -32,
+        37
+      ]
+    },
+    "ANPA 742-0D AdPro": {
+      "name": "ANPA 742-0D AdPro",
+      "code": "742-0D",
+      "components": [
+        76.86274509803923,
+        -40,
+        47
+      ]
+    },
+    "ANPA 743-1D AdPro": {
+      "name": "ANPA 743-1D AdPro",
+      "code": "743-1D",
+      "components": [
+        100,
+        0,
+        5
+      ]
+    },
+    "ANPA 743-2D AdPro": {
+      "name": "ANPA 743-2D AdPro",
+      "code": "743-2D",
+      "components": [
+        99.6078431372549,
+        -6,
+        12
+      ]
+    },
+    "ANPA 743-4D AdPro": {
+      "name": "ANPA 743-4D AdPro",
+      "code": "743-4D",
+      "components": [
+        96.07843137254902,
+        -10,
+        22
+      ]
+    },
+    "ANPA 743-6D AdPro": {
+      "name": "ANPA 743-6D AdPro",
+      "code": "743-6D",
+      "components": [
+        91.76470588235294,
+        -17,
+        38
+      ]
+    },
+    "ANPA 743-8D AdPro": {
+      "name": "ANPA 743-8D AdPro",
+      "code": "743-8D",
+      "components": [
+        89.01960784313727,
+        -21,
+        50
+      ]
+    },
+    "ANPA 743-0D AdPro": {
+      "name": "ANPA 743-0D AdPro",
+      "code": "743-0D",
+      "components": [
+        85.49019607843138,
+        -25,
+        63
+      ]
+    },
+    "ANPA 744-1D AdPro": {
+      "name": "ANPA 744-1D AdPro",
+      "code": "744-1D",
+      "components": [
+        100,
+        0,
+        9
+      ]
+    },
+    "ANPA 744-2D AdPro": {
+      "name": "ANPA 744-2D AdPro",
+      "code": "744-2D",
+      "components": [
+        99.6078431372549,
+        1,
+        13
+      ]
+    },
+    "ANPA 744-4D AdPro": {
+      "name": "ANPA 744-4D AdPro",
+      "code": "744-4D",
+      "components": [
+        98.03921568627452,
+        1,
+        25
+      ]
+    },
+    "ANPA 744-6D AdPro": {
+      "name": "ANPA 744-6D AdPro",
+      "code": "744-6D",
+      "components": [
+        96.07843137254902,
+        2,
+        41
+      ]
+    },
+    "ANPA 744-8D AdPro": {
+      "name": "ANPA 744-8D AdPro",
+      "code": "744-8D",
+      "components": [
+        94.90196078431373,
+        3,
+        55
+      ]
+    },
+    "ANPA 744-0D AdPro": {
+      "name": "ANPA 744-0D AdPro",
+      "code": "744-0D",
+      "components": [
+        91.76470588235294,
+        6,
+        73
+      ]
+    },
+    "ANPA 745-1D AdPro": {
+      "name": "ANPA 745-1D AdPro",
+      "code": "745-1D",
+      "components": [
+        100,
+        0,
+        6
+      ]
+    },
+    "ANPA 745-2D AdPro": {
+      "name": "ANPA 745-2D AdPro",
+      "code": "745-2D",
+      "components": [
+        100,
+        0,
+        13
+      ]
+    },
+    "ANPA 745-4D AdPro": {
+      "name": "ANPA 745-4D AdPro",
+      "code": "745-4D",
+      "components": [
+        99.2156862745098,
+        4,
+        28
+      ]
+    },
+    "ANPA 745-6D AdPro": {
+      "name": "ANPA 745-6D AdPro",
+      "code": "745-6D",
+      "components": [
+        96.47058823529413,
+        7,
+        48
+      ]
+    },
+    "ANPA 745-8D AdPro": {
+      "name": "ANPA 745-8D AdPro",
+      "code": "745-8D",
+      "components": [
+        94.90196078431373,
+        8,
+        63
+      ]
+    },
+    "ANPA 745-0D AdPro": {
+      "name": "ANPA 745-0D AdPro",
+      "code": "745-0D",
+      "components": [
+        92.15686274509804,
+        10,
+        77
+      ]
+    },
+    "ANPA 746-1D AdPro": {
+      "name": "ANPA 746-1D AdPro",
+      "code": "746-1D",
+      "components": [
+        100,
+        0,
+        5
+      ]
+    },
+    "ANPA 746-2D AdPro": {
+      "name": "ANPA 746-2D AdPro",
+      "code": "746-2D",
+      "components": [
+        100,
+        0,
+        11
+      ]
+    },
+    "ANPA 746-4D AdPro": {
+      "name": "ANPA 746-4D AdPro",
+      "code": "746-4D",
+      "components": [
+        99.2156862745098,
+        4,
+        25
+      ]
+    },
+    "ANPA 746-6D AdPro": {
+      "name": "ANPA 746-6D AdPro",
+      "code": "746-6D",
+      "components": [
+        95.68627450980392,
+        9,
+        43
+      ]
+    },
+    "ANPA 746-8D AdPro": {
+      "name": "ANPA 746-8D AdPro",
+      "code": "746-8D",
+      "components": [
+        93.72549019607844,
+        11,
+        57
+      ]
+    },
+    "ANPA 746-0D AdPro": {
+      "name": "ANPA 746-0D AdPro",
+      "code": "746-0D",
+      "components": [
+        90.58823529411765,
+        14,
+        73
+      ]
+    },
+    "ANPA 747-1D AdPro": {
+      "name": "ANPA 747-1D AdPro",
+      "code": "747-1D",
+      "components": [
+        100,
+        0,
+        5
+      ]
+    },
+    "ANPA 747-2D AdPro": {
+      "name": "ANPA 747-2D AdPro",
+      "code": "747-2D",
+      "components": [
+        100,
+        0,
+        11
+      ]
+    },
+    "ANPA 747-4D AdPro": {
+      "name": "ANPA 747-4D AdPro",
+      "code": "747-4D",
+      "components": [
+        97.25490196078432,
+        3,
+        21
+      ]
+    },
+    "ANPA 747-6D AdPro": {
+      "name": "ANPA 747-6D AdPro",
+      "code": "747-6D",
+      "components": [
+        91.76470588235294,
+        5,
+        35
+      ]
+    },
+    "ANPA 747-8D AdPro": {
+      "name": "ANPA 747-8D AdPro",
+      "code": "747-8D",
+      "components": [
+        89.01960784313727,
+        7,
+        47
+      ]
+    },
+    "ANPA 747-0D AdPro": {
+      "name": "ANPA 747-0D AdPro",
+      "code": "747-0D",
+      "components": [
+        83.92156862745098,
+        9,
+        62
+      ]
+    },
+    "ANPA 748-1D AdPro": {
+      "name": "ANPA 748-1D AdPro",
+      "code": "748-1D",
+      "components": [
+        100,
+        0,
+        5
+      ]
+    },
+    "ANPA 748-2D AdPro": {
+      "name": "ANPA 748-2D AdPro",
+      "code": "748-2D",
+      "components": [
+        100,
+        0,
+        10
+      ]
+    },
+    "ANPA 748-4D AdPro": {
+      "name": "ANPA 748-4D AdPro",
+      "code": "748-4D",
+      "components": [
+        98.82352941176471,
+        5,
+        24
+      ]
+    },
+    "ANPA 748-6D AdPro": {
+      "name": "ANPA 748-6D AdPro",
+      "code": "748-6D",
+      "components": [
+        95.29411764705883,
+        9,
+        41
+      ]
+    },
+    "ANPA 748-8D AdPro": {
+      "name": "ANPA 748-8D AdPro",
+      "code": "748-8D",
+      "components": [
+        93.72549019607844,
+        12,
+        52
+      ]
+    },
+    "ANPA 748-0D AdPro": {
+      "name": "ANPA 748-0D AdPro",
+      "code": "748-0D",
+      "components": [
+        90.58823529411765,
+        14,
+        64
+      ]
+    },
+    "ANPA 749-1D AdPro": {
+      "name": "ANPA 749-1D AdPro",
+      "code": "749-1D",
+      "components": [
+        100,
+        0,
+        7
+      ]
+    },
+    "ANPA 749-2D AdPro": {
+      "name": "ANPA 749-2D AdPro",
+      "code": "749-2D",
+      "components": [
+        97.64705882352942,
+        6,
+        11
+      ]
+    },
+    "ANPA 749-4D AdPro": {
+      "name": "ANPA 749-4D AdPro",
+      "code": "749-4D",
+      "components": [
+        92.54901960784315,
+        12,
+        20
+      ]
+    },
+    "ANPA 749-6D AdPro": {
+      "name": "ANPA 749-6D AdPro",
+      "code": "749-6D",
+      "components": [
+        84.70588235294119,
+        22,
+        37
+      ]
+    },
+    "ANPA 749-8D AdPro": {
+      "name": "ANPA 749-8D AdPro",
+      "code": "749-8D",
+      "components": [
+        80.3921568627451,
+        28,
+        50
+      ]
+    },
+    "ANPA 749-0D AdPro": {
+      "name": "ANPA 749-0D AdPro",
+      "code": "749-0D",
+      "components": [
+        75.29411764705883,
+        33,
+        67
+      ]
+    },
+    "ANPA 750-1D AdPro": {
+      "name": "ANPA 750-1D AdPro",
+      "code": "750-1D",
+      "components": [
+        99.2156862745098,
+        3,
+        7
+      ]
+    },
+    "ANPA 750-2D AdPro": {
+      "name": "ANPA 750-2D AdPro",
+      "code": "750-2D",
+      "components": [
+        96.47058823529413,
+        6,
+        10
+      ]
+    },
+    "ANPA 750-4D AdPro": {
+      "name": "ANPA 750-4D AdPro",
+      "code": "750-4D",
+      "components": [
+        90.19607843137256,
+        11,
+        18
+      ]
+    },
+    "ANPA 750-6D AdPro": {
+      "name": "ANPA 750-6D AdPro",
+      "code": "750-6D",
+      "components": [
+        80.3921568627451,
+        20,
+        31
+      ]
+    },
+    "ANPA 750-8D AdPro": {
+      "name": "ANPA 750-8D AdPro",
+      "code": "750-8D",
+      "components": [
+        74.50980392156863,
+        26,
+        43
+      ]
+    },
+    "ANPA 750-0D AdPro": {
+      "name": "ANPA 750-0D AdPro",
+      "code": "750-0D",
+      "components": [
+        67.45098039215686,
+        32,
+        58
+      ]
+    },
+    "ANPA 751-1D AdPro": {
+      "name": "ANPA 751-1D AdPro",
+      "code": "751-1D",
+      "components": [
+        96.07843137254902,
+        2,
+        2
+      ]
+    },
+    "ANPA 751-2D AdPro": {
+      "name": "ANPA 751-2D AdPro",
+      "code": "751-2D",
+      "components": [
+        93.72549019607844,
+        3,
+        3
+      ]
+    },
+    "ANPA 751-4D AdPro": {
+      "name": "ANPA 751-4D AdPro",
+      "code": "751-4D",
+      "components": [
+        86.66666666666667,
+        6,
+        5
+      ]
+    },
+    "ANPA 751-6D AdPro": {
+      "name": "ANPA 751-6D AdPro",
+      "code": "751-6D",
+      "components": [
+        73.72549019607844,
+        11,
+        9
+      ]
+    },
+    "ANPA 751-8D AdPro": {
+      "name": "ANPA 751-8D AdPro",
+      "code": "751-8D",
+      "components": [
+        59.6078431372549,
+        15,
+        12
+      ]
+    },
+    "ANPA 751-0D AdPro": {
+      "name": "ANPA 751-0D AdPro",
+      "code": "751-0D",
+      "components": [
+        41.568627450980394,
+        20,
+        18
+      ]
+    },
+    "ANPA 752-1D AdPro": {
+      "name": "ANPA 752-1D AdPro",
+      "code": "752-1D",
+      "components": [
+        97.64705882352942,
+        2,
+        2
+      ]
+    },
+    "ANPA 752-2D AdPro": {
+      "name": "ANPA 752-2D AdPro",
+      "code": "752-2D",
+      "components": [
+        95.29411764705883,
+        3,
+        3
+      ]
+    },
+    "ANPA 752-4D AdPro": {
+      "name": "ANPA 752-4D AdPro",
+      "code": "752-4D",
+      "components": [
+        89.41176470588236,
+        6,
+        5
+      ]
+    },
+    "ANPA 752-6D AdPro": {
+      "name": "ANPA 752-6D AdPro",
+      "code": "752-6D",
+      "components": [
+        76.86274509803923,
+        12,
+        10
+      ]
+    },
+    "ANPA 752-8D AdPro": {
+      "name": "ANPA 752-8D AdPro",
+      "code": "752-8D",
+      "components": [
+        62.74509803921569,
+        17,
+        14
+      ]
+    },
+    "ANPA 752-0D AdPro": {
+      "name": "ANPA 752-0D AdPro",
+      "code": "752-0D",
+      "components": [
+        43.529411764705884,
+        26,
+        23
+      ]
+    },
+    "ANPA 753-1D AdPro": {
+      "name": "ANPA 753-1D AdPro",
+      "code": "753-1D",
+      "components": [
+        97.64705882352942,
+        4,
+        3
+      ]
+    },
+    "ANPA 753-2D AdPro": {
+      "name": "ANPA 753-2D AdPro",
+      "code": "753-2D",
+      "components": [
+        95.68627450980392,
+        5,
+        4
+      ]
+    },
+    "ANPA 753-4D AdPro": {
+      "name": "ANPA 753-4D AdPro",
+      "code": "753-4D",
+      "components": [
+        89.80392156862746,
+        10,
+        8
+      ]
+    },
+    "ANPA 753-6D AdPro": {
+      "name": "ANPA 753-6D AdPro",
+      "code": "753-6D",
+      "components": [
+        78.82352941176471,
+        18,
+        14
+      ]
+    },
+    "ANPA 753-8D AdPro": {
+      "name": "ANPA 753-8D AdPro",
+      "code": "753-8D",
+      "components": [
+        65.88235294117648,
+        26,
+        21
+      ]
+    },
+    "ANPA 753-0D AdPro": {
+      "name": "ANPA 753-0D AdPro",
+      "code": "753-0D",
+      "components": [
+        49.411764705882355,
+        35,
+        34
+      ]
+    },
+    "ANPA 754-1D AdPro": {
+      "name": "ANPA 754-1D AdPro",
+      "code": "754-1D",
+      "components": [
+        97.25490196078432,
+        6,
+        5
+      ]
+    },
+    "ANPA 754-2D AdPro": {
+      "name": "ANPA 754-2D AdPro",
+      "code": "754-2D",
+      "components": [
+        94.11764705882354,
+        10,
+        8
+      ]
+    },
+    "ANPA 754-4D AdPro": {
+      "name": "ANPA 754-4D AdPro",
+      "code": "754-4D",
+      "components": [
+        85.49019607843138,
+        19,
+        14
+      ]
+    },
+    "ANPA 754-6D AdPro": {
+      "name": "ANPA 754-6D AdPro",
+      "code": "754-6D",
+      "components": [
+        73.72549019607844,
+        33,
+        26
+      ]
+    },
+    "ANPA 754-8D AdPro": {
+      "name": "ANPA 754-8D AdPro",
+      "code": "754-8D",
+      "components": [
+        66.66666666666667,
+        42,
+        37
+      ]
+    },
+    "ANPA 754-0D AdPro": {
+      "name": "ANPA 754-0D AdPro",
+      "code": "754-0D",
+      "components": [
+        57.254901960784316,
+        52,
+        56
+      ]
+    },
+    "ANPA 755-1D AdPro": {
+      "name": "ANPA 755-1D AdPro",
+      "code": "755-1D",
+      "components": [
+        98.03921568627452,
+        9,
+        6
+      ]
+    },
+    "ANPA 755-2D AdPro": {
+      "name": "ANPA 755-2D AdPro",
+      "code": "755-2D",
+      "components": [
+        94.90196078431373,
+        14,
+        8
+      ]
+    },
+    "ANPA 755-4D AdPro": {
+      "name": "ANPA 755-4D AdPro",
+      "code": "755-4D",
+      "components": [
+        87.45098039215686,
+        27,
+        16
+      ]
+    },
+    "ANPA 755-6D AdPro": {
+      "name": "ANPA 755-6D AdPro",
+      "code": "755-6D",
+      "components": [
+        77.64705882352942,
+        45,
+        28
+      ]
+    },
+    "ANPA 755-8D AdPro": {
+      "name": "ANPA 755-8D AdPro",
+      "code": "755-8D",
+      "components": [
+        71.76470588235294,
+        56,
+        40
+      ]
+    },
+    "ANPA 755-0D AdPro": {
+      "name": "ANPA 755-0D AdPro",
+      "code": "755-0D",
+      "components": [
+        65.09803921568628,
+        66,
+        56
+      ]
+    },
+    "ANPA 756-1D AdPro": {
+      "name": "ANPA 756-1D AdPro",
+      "code": "756-1D",
+      "components": [
+        99.6078431372549,
+        1,
+        7
+      ]
+    },
+    "ANPA 756-2D AdPro": {
+      "name": "ANPA 756-2D AdPro",
+      "code": "756-2D",
+      "components": [
+        97.64705882352942,
+        11,
+        10
+      ]
+    },
+    "ANPA 756-4D AdPro": {
+      "name": "ANPA 756-4D AdPro",
+      "code": "756-4D",
+      "components": [
+        91.37254901960785,
+        20,
+        19
+      ]
+    },
+    "ANPA 756-6D AdPro": {
+      "name": "ANPA 756-6D AdPro",
+      "code": "756-6D",
+      "components": [
+        84.70588235294119,
+        33,
+        32
+      ]
+    },
+    "ANPA 756-8D AdPro": {
+      "name": "ANPA 756-8D AdPro",
+      "code": "756-8D",
+      "components": [
+        80,
+        42,
+        44
+      ]
+    },
+    "ANPA 756-0D AdPro": {
+      "name": "ANPA 756-0D AdPro",
+      "code": "756-0D",
+      "components": [
+        74.50980392156863,
+        50,
+        57
+      ]
+    },
+    "ANPA 757-1D AdPro": {
+      "name": "ANPA 757-1D AdPro",
+      "code": "757-1D",
+      "components": [
+        98.03921568627452,
+        6,
+        4
+      ]
+    },
+    "ANPA 757-2D AdPro": {
+      "name": "ANPA 757-2D AdPro",
+      "code": "757-2D",
+      "components": [
+        95.68627450980392,
+        10,
+        5
+      ]
+    },
+    "ANPA 757-4D AdPro": {
+      "name": "ANPA 757-4D AdPro",
+      "code": "757-4D",
+      "components": [
+        91.37254901960785,
+        18,
+        10
+      ]
+    },
+    "ANPA 757-6D AdPro": {
+      "name": "ANPA 757-6D AdPro",
+      "code": "757-6D",
+      "components": [
+        85.09803921568628,
+        31,
+        18
+      ]
+    },
+    "ANPA 757-8D AdPro": {
+      "name": "ANPA 757-8D AdPro",
+      "code": "757-8D",
+      "components": [
+        81.1764705882353,
+        39,
+        24
+      ]
+    },
+    "ANPA 757-0D AdPro": {
+      "name": "ANPA 757-0D AdPro",
+      "code": "757-0D",
+      "components": [
+        75.68627450980392,
+        47,
+        31
+      ]
+    }
+  }
+}

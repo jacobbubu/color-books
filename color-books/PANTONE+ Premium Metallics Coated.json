@@ -1,0 +1,2712 @@
+{
+  "version": 1,
+  "title": "PANTONE+® Premium Metallics Coated",
+  "prefix": "PANTONE ",
+  "suffix": " C",
+  "colorCount": 300,
+  "colorSpace": "LAB",
+  "channels": 3,
+  "spotIdentifier": "Spot",
+  "records": {
+    "PANTONE 10101 C": {
+      "name": "PANTONE 10101 C",
+      "code": "10101C",
+      "components": [
+        85.09803921568628,
+        0,
+        0
+      ]
+    },
+    "PANTONE 10102 C": {
+      "name": "PANTONE 10102 C",
+      "code": "10102C",
+      "components": [
+        79.2156862745098,
+        0,
+        0
+      ]
+    },
+    "PANTONE 10103 C": {
+      "name": "PANTONE 10103 C",
+      "code": "10103C",
+      "components": [
+        75.68627450980392,
+        -1,
+        -1
+      ]
+    },
+    "PANTONE 10104 C": {
+      "name": "PANTONE 10104 C",
+      "code": "10104C",
+      "components": [
+        71.37254901960785,
+        -1,
+        -1
+      ]
+    },
+    "PANTONE 10105 C": {
+      "name": "PANTONE 10105 C",
+      "code": "10105C",
+      "components": [
+        70.58823529411765,
+        -1,
+        -1
+      ]
+    },
+    "PANTONE Silver C": {
+      "name": "PANTONE Silver C",
+      "code": "SilvrC",
+      "components": [
+        69.01960784313727,
+        -1,
+        -1
+      ]
+    },
+    "PANTONE 10106 C": {
+      "name": "PANTONE 10106 C",
+      "code": "10106C",
+      "components": [
+        69.01960784313727,
+        -6,
+        28
+      ]
+    },
+    "PANTONE 10107 C": {
+      "name": "PANTONE 10107 C",
+      "code": "10107C",
+      "components": [
+        68.62745098039215,
+        -6,
+        37
+      ]
+    },
+    "PANTONE 10108 C": {
+      "name": "PANTONE 10108 C",
+      "code": "10108C",
+      "components": [
+        69.01960784313727,
+        -7,
+        47
+      ]
+    },
+    "PANTONE 10109 C": {
+      "name": "PANTONE 10109 C",
+      "code": "10109C",
+      "components": [
+        68.62745098039215,
+        -6,
+        55
+      ]
+    },
+    "PANTONE 10110 C": {
+      "name": "PANTONE 10110 C",
+      "code": "10110C",
+      "components": [
+        69.41176470588236,
+        -6,
+        64
+      ]
+    },
+    "PANTONE 10111 C": {
+      "name": "PANTONE 10111 C",
+      "code": "10111C",
+      "components": [
+        71.37254901960785,
+        -5,
+        73
+      ]
+    },
+    "PANTONE 10112 C": {
+      "name": "PANTONE 10112 C",
+      "code": "10112C",
+      "components": [
+        69.01960784313727,
+        -4,
+        18
+      ]
+    },
+    "PANTONE 10113 C": {
+      "name": "PANTONE 10113 C",
+      "code": "10113C",
+      "components": [
+        68.23529411764706,
+        -5,
+        30
+      ]
+    },
+    "PANTONE 10114 C": {
+      "name": "PANTONE 10114 C",
+      "code": "10114C",
+      "components": [
+        67.84313725490196,
+        -5,
+        39
+      ]
+    },
+    "PANTONE 10115 C": {
+      "name": "PANTONE 10115 C",
+      "code": "10115C",
+      "components": [
+        67.45098039215686,
+        -4,
+        48
+      ]
+    },
+    "PANTONE 10116 C": {
+      "name": "PANTONE 10116 C",
+      "code": "10116C",
+      "components": [
+        67.84313725490196,
+        -3,
+        56
+      ]
+    },
+    "PANTONE 10117 C": {
+      "name": "PANTONE 10117 C",
+      "code": "10117C",
+      "components": [
+        67.45098039215686,
+        0,
+        64
+      ]
+    },
+    "PANTONE 10118 C": {
+      "name": "PANTONE 10118 C",
+      "code": "10118C",
+      "components": [
+        67.45098039215686,
+        -2,
+        29
+      ]
+    },
+    "PANTONE 10119 C": {
+      "name": "PANTONE 10119 C",
+      "code": "10119C",
+      "components": [
+        66.66666666666667,
+        -1,
+        38
+      ]
+    },
+    "PANTONE 10120 C": {
+      "name": "PANTONE 10120 C",
+      "code": "10120C",
+      "components": [
+        66.27450980392157,
+        2,
+        46
+      ]
+    },
+    "PANTONE 10121 C": {
+      "name": "PANTONE 10121 C",
+      "code": "10121C",
+      "components": [
+        65.49019607843138,
+        5,
+        54
+      ]
+    },
+    "PANTONE 10122 C": {
+      "name": "PANTONE 10122 C",
+      "code": "10122C",
+      "components": [
+        65.09803921568628,
+        8,
+        61
+      ]
+    },
+    "PANTONE 10123 C": {
+      "name": "PANTONE 10123 C",
+      "code": "10123C",
+      "components": [
+        65.49019607843138,
+        13,
+        69
+      ]
+    },
+    "PANTONE 10124 C": {
+      "name": "PANTONE 10124 C",
+      "code": "10124C",
+      "components": [
+        66.66666666666667,
+        -2,
+        25
+      ]
+    },
+    "PANTONE 10125 C": {
+      "name": "PANTONE 10125 C",
+      "code": "10125C",
+      "components": [
+        65.09803921568628,
+        0,
+        32
+      ]
+    },
+    "PANTONE 10126 C": {
+      "name": "PANTONE 10126 C",
+      "code": "10126C",
+      "components": [
+        63.529411764705884,
+        2,
+        39
+      ]
+    },
+    "PANTONE 10127 C": {
+      "name": "PANTONE 10127 C",
+      "code": "10127C",
+      "components": [
+        61.9607843137255,
+        6,
+        45
+      ]
+    },
+    "PANTONE 10128 C": {
+      "name": "PANTONE 10128 C",
+      "code": "10128C",
+      "components": [
+        60.7843137254902,
+        10,
+        51
+      ]
+    },
+    "PANTONE 10129 C": {
+      "name": "PANTONE 10129 C",
+      "code": "10129C",
+      "components": [
+        60.00000000000001,
+        16,
+        57
+      ]
+    },
+    "PANTONE 10130 C": {
+      "name": "PANTONE 10130 C",
+      "code": "10130C",
+      "components": [
+        62.74509803921569,
+        10,
+        22
+      ]
+    },
+    "PANTONE 10131 C": {
+      "name": "PANTONE 10131 C",
+      "code": "10131C",
+      "components": [
+        59.21568627450981,
+        13,
+        29
+      ]
+    },
+    "PANTONE 10132 C": {
+      "name": "PANTONE 10132 C",
+      "code": "10132C",
+      "components": [
+        57.254901960784316,
+        17,
+        35
+      ]
+    },
+    "PANTONE 10133 C": {
+      "name": "PANTONE 10133 C",
+      "code": "10133C",
+      "components": [
+        54.117647058823536,
+        20,
+        40
+      ]
+    },
+    "PANTONE 10134 C": {
+      "name": "PANTONE 10134 C",
+      "code": "10134C",
+      "components": [
+        51.372549019607845,
+        22,
+        44
+      ]
+    },
+    "PANTONE 10135 C": {
+      "name": "PANTONE 10135 C",
+      "code": "10135C",
+      "components": [
+        49.411764705882355,
+        24,
+        48
+      ]
+    },
+    "PANTONE 10136 C": {
+      "name": "PANTONE 10136 C",
+      "code": "10136C",
+      "components": [
+        65.49019607843138,
+        5,
+        12
+      ]
+    },
+    "PANTONE 10137 C": {
+      "name": "PANTONE 10137 C",
+      "code": "10137C",
+      "components": [
+        61.9607843137255,
+        9,
+        20
+      ]
+    },
+    "PANTONE 10138 C": {
+      "name": "PANTONE 10138 C",
+      "code": "10138C",
+      "components": [
+        58.43137254901961,
+        13,
+        27
+      ]
+    },
+    "PANTONE 10139 C": {
+      "name": "PANTONE 10139 C",
+      "code": "10139C",
+      "components": [
+        55.294117647058826,
+        16,
+        32
+      ]
+    },
+    "PANTONE 10140 C": {
+      "name": "PANTONE 10140 C",
+      "code": "10140C",
+      "components": [
+        52.94117647058824,
+        19,
+        37
+      ]
+    },
+    "PANTONE 10141 C": {
+      "name": "PANTONE 10141 C",
+      "code": "10141C",
+      "components": [
+        49.411764705882355,
+        21,
+        40
+      ]
+    },
+    "PANTONE 10142 C": {
+      "name": "PANTONE 10142 C",
+      "code": "10142C",
+      "components": [
+        62.74509803921569,
+        13,
+        25
+      ]
+    },
+    "PANTONE 10143 C": {
+      "name": "PANTONE 10143 C",
+      "code": "10143C",
+      "components": [
+        60.392156862745104,
+        19,
+        33
+      ]
+    },
+    "PANTONE 10144 C": {
+      "name": "PANTONE 10144 C",
+      "code": "10144C",
+      "components": [
+        58.43137254901961,
+        24,
+        40
+      ]
+    },
+    "PANTONE 10145 C": {
+      "name": "PANTONE 10145 C",
+      "code": "10145C",
+      "components": [
+        56.86274509803922,
+        29,
+        47
+      ]
+    },
+    "PANTONE 10146 C": {
+      "name": "PANTONE 10146 C",
+      "code": "10146C",
+      "components": [
+        55.294117647058826,
+        35,
+        53
+      ]
+    },
+    "PANTONE 10147 C": {
+      "name": "PANTONE 10147 C",
+      "code": "10147C",
+      "components": [
+        54.50980392156863,
+        40,
+        59
+      ]
+    },
+    "PANTONE 10148 C": {
+      "name": "PANTONE 10148 C",
+      "code": "10148C",
+      "components": [
+        61.1764705882353,
+        19,
+        15
+      ]
+    },
+    "PANTONE 10149 C": {
+      "name": "PANTONE 10149 C",
+      "code": "10149C",
+      "components": [
+        58.43137254901961,
+        25,
+        21
+      ]
+    },
+    "PANTONE 10150 C": {
+      "name": "PANTONE 10150 C",
+      "code": "10150C",
+      "components": [
+        56.078431372549026,
+        31,
+        28
+      ]
+    },
+    "PANTONE 10151 C": {
+      "name": "PANTONE 10151 C",
+      "code": "10151C",
+      "components": [
+        53.72549019607843,
+        36,
+        34
+      ]
+    },
+    "PANTONE 10152 C": {
+      "name": "PANTONE 10152 C",
+      "code": "10152C",
+      "components": [
+        52.54901960784314,
+        42,
+        41
+      ]
+    },
+    "PANTONE 10153 C": {
+      "name": "PANTONE 10153 C",
+      "code": "10153C",
+      "components": [
+        51.76470588235294,
+        48,
+        49
+      ]
+    },
+    "PANTONE 10154 C": {
+      "name": "PANTONE 10154 C",
+      "code": "10154C",
+      "components": [
+        64.31372549019608,
+        9,
+        7
+      ]
+    },
+    "PANTONE 10155 C": {
+      "name": "PANTONE 10155 C",
+      "code": "10155C",
+      "components": [
+        60.00000000000001,
+        16,
+        12
+      ]
+    },
+    "PANTONE 10156 C": {
+      "name": "PANTONE 10156 C",
+      "code": "10156C",
+      "components": [
+        56.078431372549026,
+        23,
+        17
+      ]
+    },
+    "PANTONE 10157 C": {
+      "name": "PANTONE 10157 C",
+      "code": "10157C",
+      "components": [
+        52.54901960784314,
+        29,
+        21
+      ]
+    },
+    "PANTONE 10158 C": {
+      "name": "PANTONE 10158 C",
+      "code": "10158C",
+      "components": [
+        49.80392156862745,
+        35,
+        26
+      ]
+    },
+    "PANTONE 10159 C": {
+      "name": "PANTONE 10159 C",
+      "code": "10159C",
+      "components": [
+        47.450980392156865,
+        42,
+        30
+      ]
+    },
+    "PANTONE 10160 C": {
+      "name": "PANTONE 10160 C",
+      "code": "10160C",
+      "components": [
+        60.00000000000001,
+        26,
+        1
+      ]
+    },
+    "PANTONE 10161 C": {
+      "name": "PANTONE 10161 C",
+      "code": "10161C",
+      "components": [
+        56.47058823529412,
+        33,
+        4
+      ]
+    },
+    "PANTONE 10162 C": {
+      "name": "PANTONE 10162 C",
+      "code": "10162C",
+      "components": [
+        53.333333333333336,
+        39,
+        8
+      ]
+    },
+    "PANTONE 10163 C": {
+      "name": "PANTONE 10163 C",
+      "code": "10163C",
+      "components": [
+        50.98039215686275,
+        45,
+        14
+      ]
+    },
+    "PANTONE 10164 C": {
+      "name": "PANTONE 10164 C",
+      "code": "10164C",
+      "components": [
+        49.80392156862745,
+        49,
+        20
+      ]
+    },
+    "PANTONE 10165 C": {
+      "name": "PANTONE 10165 C",
+      "code": "10165C",
+      "components": [
+        48.62745098039216,
+        54,
+        28
+      ]
+    },
+    "PANTONE 10166 C": {
+      "name": "PANTONE 10166 C",
+      "code": "10166C",
+      "components": [
+        58.43137254901961,
+        25,
+        -3
+      ]
+    },
+    "PANTONE 10167 C": {
+      "name": "PANTONE 10167 C",
+      "code": "10167C",
+      "components": [
+        54.50980392156863,
+        33,
+        -2
+      ]
+    },
+    "PANTONE 10168 C": {
+      "name": "PANTONE 10168 C",
+      "code": "10168C",
+      "components": [
+        50.98039215686275,
+        40,
+        0
+      ]
+    },
+    "PANTONE 10169 C": {
+      "name": "PANTONE 10169 C",
+      "code": "10169C",
+      "components": [
+        47.84313725490196,
+        46,
+        3
+      ]
+    },
+    "PANTONE 10170 C": {
+      "name": "PANTONE 10170 C",
+      "code": "10170C",
+      "components": [
+        45.490196078431374,
+        52,
+        7
+      ]
+    },
+    "PANTONE 10171 C": {
+      "name": "PANTONE 10171 C",
+      "code": "10171C",
+      "components": [
+        43.529411764705884,
+        58,
+        14
+      ]
+    },
+    "PANTONE 10172 C": {
+      "name": "PANTONE 10172 C",
+      "code": "10172C",
+      "components": [
+        57.254901960784316,
+        21,
+        -10
+      ]
+    },
+    "PANTONE 10173 C": {
+      "name": "PANTONE 10173 C",
+      "code": "10173C",
+      "components": [
+        53.333333333333336,
+        28,
+        -11
+      ]
+    },
+    "PANTONE 10174 C": {
+      "name": "PANTONE 10174 C",
+      "code": "10174C",
+      "components": [
+        50.196078431372555,
+        35,
+        -12
+      ]
+    },
+    "PANTONE 10175 C": {
+      "name": "PANTONE 10175 C",
+      "code": "10175C",
+      "components": [
+        46.66666666666667,
+        41,
+        -11
+      ]
+    },
+    "PANTONE 10176 C": {
+      "name": "PANTONE 10176 C",
+      "code": "10176C",
+      "components": [
+        44.313725490196084,
+        48,
+        -9
+      ]
+    },
+    "PANTONE 10177 C": {
+      "name": "PANTONE 10177 C",
+      "code": "10177C",
+      "components": [
+        42.352941176470594,
+        54,
+        -5
+      ]
+    },
+    "PANTONE 10178 C": {
+      "name": "PANTONE 10178 C",
+      "code": "10178C",
+      "components": [
+        62.352941176470594,
+        18,
+        -7
+      ]
+    },
+    "PANTONE 10179 C": {
+      "name": "PANTONE 10179 C",
+      "code": "10179C",
+      "components": [
+        58.82352941176471,
+        24,
+        -8
+      ]
+    },
+    "PANTONE 10180 C": {
+      "name": "PANTONE 10180 C",
+      "code": "10180C",
+      "components": [
+        55.68627450980392,
+        31,
+        -9
+      ]
+    },
+    "PANTONE 10181 C": {
+      "name": "PANTONE 10181 C",
+      "code": "10181C",
+      "components": [
+        52.54901960784314,
+        37,
+        -9
+      ]
+    },
+    "PANTONE 10182 C": {
+      "name": "PANTONE 10182 C",
+      "code": "10182C",
+      "components": [
+        49.411764705882355,
+        44,
+        -9
+      ]
+    },
+    "PANTONE 10183 C": {
+      "name": "PANTONE 10183 C",
+      "code": "10183C",
+      "components": [
+        47.84313725490196,
+        50,
+        -7
+      ]
+    },
+    "PANTONE 10184 C": {
+      "name": "PANTONE 10184 C",
+      "code": "10184C",
+      "components": [
+        63.13725490196079,
+        15,
+        -9
+      ]
+    },
+    "PANTONE 10185 C": {
+      "name": "PANTONE 10185 C",
+      "code": "10185C",
+      "components": [
+        60.00000000000001,
+        22,
+        -11
+      ]
+    },
+    "PANTONE 10186 C": {
+      "name": "PANTONE 10186 C",
+      "code": "10186C",
+      "components": [
+        56.47058823529412,
+        28,
+        -13
+      ]
+    },
+    "PANTONE 10187 C": {
+      "name": "PANTONE 10187 C",
+      "code": "10187C",
+      "components": [
+        53.72549019607843,
+        34,
+        -15
+      ]
+    },
+    "PANTONE 10188 C": {
+      "name": "PANTONE 10188 C",
+      "code": "10188C",
+      "components": [
+        51.372549019607845,
+        41,
+        -16
+      ]
+    },
+    "PANTONE 10189 C": {
+      "name": "PANTONE 10189 C",
+      "code": "10189C",
+      "components": [
+        48.62745098039216,
+        48,
+        -16
+      ]
+    },
+    "PANTONE 10190 C": {
+      "name": "PANTONE 10190 C",
+      "code": "10190C",
+      "components": [
+        62.74509803921569,
+        5,
+        -3
+      ]
+    },
+    "PANTONE 10191 C": {
+      "name": "PANTONE 10191 C",
+      "code": "10191C",
+      "components": [
+        57.64705882352941,
+        8,
+        -4
+      ]
+    },
+    "PANTONE 10192 C": {
+      "name": "PANTONE 10192 C",
+      "code": "10192C",
+      "components": [
+        52.54901960784314,
+        11,
+        -4
+      ]
+    },
+    "PANTONE 10193 C": {
+      "name": "PANTONE 10193 C",
+      "code": "10193C",
+      "components": [
+        47.84313725490196,
+        13,
+        -5
+      ]
+    },
+    "PANTONE 10194 C": {
+      "name": "PANTONE 10194 C",
+      "code": "10194C",
+      "components": [
+        42.74509803921569,
+        15,
+        -5
+      ]
+    },
+    "PANTONE 10195 C": {
+      "name": "PANTONE 10195 C",
+      "code": "10195C",
+      "components": [
+        37.64705882352941,
+        17,
+        -5
+      ]
+    },
+    "PANTONE 10196 C": {
+      "name": "PANTONE 10196 C",
+      "code": "10196C",
+      "components": [
+        62.352941176470594,
+        11,
+        -8
+      ]
+    },
+    "PANTONE 10197 C": {
+      "name": "PANTONE 10197 C",
+      "code": "10197C",
+      "components": [
+        56.86274509803922,
+        20,
+        -12
+      ]
+    },
+    "PANTONE 10198 C": {
+      "name": "PANTONE 10198 C",
+      "code": "10198C",
+      "components": [
+        52.156862745098046,
+        27,
+        -14
+      ]
+    },
+    "PANTONE 10199 C": {
+      "name": "PANTONE 10199 C",
+      "code": "10199C",
+      "components": [
+        47.84313725490196,
+        32,
+        -15
+      ]
+    },
+    "PANTONE 10200 C": {
+      "name": "PANTONE 10200 C",
+      "code": "10200C",
+      "components": [
+        44.313725490196084,
+        38,
+        -16
+      ]
+    },
+    "PANTONE 10201 C": {
+      "name": "PANTONE 10201 C",
+      "code": "10201C",
+      "components": [
+        40.392156862745104,
+        43,
+        -15
+      ]
+    },
+    "PANTONE 10202 C": {
+      "name": "PANTONE 10202 C",
+      "code": "10202C",
+      "components": [
+        56.47058823529412,
+        17,
+        -12
+      ]
+    },
+    "PANTONE 10203 C": {
+      "name": "PANTONE 10203 C",
+      "code": "10203C",
+      "components": [
+        51.76470588235294,
+        22,
+        -15
+      ]
+    },
+    "PANTONE 10204 C": {
+      "name": "PANTONE 10204 C",
+      "code": "10204C",
+      "components": [
+        47.450980392156865,
+        27,
+        -17
+      ]
+    },
+    "PANTONE 10205 C": {
+      "name": "PANTONE 10205 C",
+      "code": "10205C",
+      "components": [
+        42.74509803921569,
+        32,
+        -18
+      ]
+    },
+    "PANTONE 10206 C": {
+      "name": "PANTONE 10206 C",
+      "code": "10206C",
+      "components": [
+        38.82352941176471,
+        35,
+        -19
+      ]
+    },
+    "PANTONE 10207 C": {
+      "name": "PANTONE 10207 C",
+      "code": "10207C",
+      "components": [
+        34.90196078431373,
+        38,
+        -19
+      ]
+    },
+    "PANTONE 10208 C": {
+      "name": "PANTONE 10208 C",
+      "code": "10208C",
+      "components": [
+        60.7843137254902,
+        14,
+        -12
+      ]
+    },
+    "PANTONE 10209 C": {
+      "name": "PANTONE 10209 C",
+      "code": "10209C",
+      "components": [
+        56.86274509803922,
+        20,
+        -16
+      ]
+    },
+    "PANTONE 10210 C": {
+      "name": "PANTONE 10210 C",
+      "code": "10210C",
+      "components": [
+        52.54901960784314,
+        25,
+        -19
+      ]
+    },
+    "PANTONE 10211 C": {
+      "name": "PANTONE 10211 C",
+      "code": "10211C",
+      "components": [
+        48.62745098039216,
+        29,
+        -22
+      ]
+    },
+    "PANTONE 10212 C": {
+      "name": "PANTONE 10212 C",
+      "code": "10212C",
+      "components": [
+        45.09803921568628,
+        34,
+        -25
+      ]
+    },
+    "PANTONE 10213 C": {
+      "name": "PANTONE 10213 C",
+      "code": "10213C",
+      "components": [
+        40.7843137254902,
+        39,
+        -28
+      ]
+    },
+    "PANTONE 10214 C": {
+      "name": "PANTONE 10214 C",
+      "code": "10214C",
+      "components": [
+        55.294117647058826,
+        14,
+        -19
+      ]
+    },
+    "PANTONE 10215 C": {
+      "name": "PANTONE 10215 C",
+      "code": "10215C",
+      "components": [
+        49.80392156862745,
+        19,
+        -25
+      ]
+    },
+    "PANTONE 10216 C": {
+      "name": "PANTONE 10216 C",
+      "code": "10216C",
+      "components": [
+        44.70588235294118,
+        23,
+        -30
+      ]
+    },
+    "PANTONE 10217 C": {
+      "name": "PANTONE 10217 C",
+      "code": "10217C",
+      "components": [
+        39.6078431372549,
+        27,
+        -35
+      ]
+    },
+    "PANTONE 10218 C": {
+      "name": "PANTONE 10218 C",
+      "code": "10218C",
+      "components": [
+        34.11764705882353,
+        31,
+        -39
+      ]
+    },
+    "PANTONE 10219 C": {
+      "name": "PANTONE 10219 C",
+      "code": "10219C",
+      "components": [
+        29.01960784313726,
+        34,
+        -43
+      ]
+    },
+    "PANTONE 10220 C": {
+      "name": "PANTONE 10220 C",
+      "code": "10220C",
+      "components": [
+        62.352941176470594,
+        7,
+        -11
+      ]
+    },
+    "PANTONE 10221 C": {
+      "name": "PANTONE 10221 C",
+      "code": "10221C",
+      "components": [
+        58.43137254901961,
+        10,
+        -15
+      ]
+    },
+    "PANTONE 10222 C": {
+      "name": "PANTONE 10222 C",
+      "code": "10222C",
+      "components": [
+        54.50980392156863,
+        12,
+        -19
+      ]
+    },
+    "PANTONE 10223 C": {
+      "name": "PANTONE 10223 C",
+      "code": "10223C",
+      "components": [
+        50.196078431372555,
+        15,
+        -23
+      ]
+    },
+    "PANTONE 10224 C": {
+      "name": "PANTONE 10224 C",
+      "code": "10224C",
+      "components": [
+        46.274509803921575,
+        18,
+        -27
+      ]
+    },
+    "PANTONE 10225 C": {
+      "name": "PANTONE 10225 C",
+      "code": "10225C",
+      "components": [
+        42.352941176470594,
+        21,
+        -31
+      ]
+    },
+    "PANTONE 10226 C": {
+      "name": "PANTONE 10226 C",
+      "code": "10226C",
+      "components": [
+        61.9607843137255,
+        5,
+        -12
+      ]
+    },
+    "PANTONE 10227 C": {
+      "name": "PANTONE 10227 C",
+      "code": "10227C",
+      "components": [
+        58.43137254901961,
+        7,
+        -16
+      ]
+    },
+    "PANTONE 10228 C": {
+      "name": "PANTONE 10228 C",
+      "code": "10228C",
+      "components": [
+        54.50980392156863,
+        9,
+        -20
+      ]
+    },
+    "PANTONE 10229 C": {
+      "name": "PANTONE 10229 C",
+      "code": "10229C",
+      "components": [
+        50.196078431372555,
+        11,
+        -24
+      ]
+    },
+    "PANTONE 10230 C": {
+      "name": "PANTONE 10230 C",
+      "code": "10230C",
+      "components": [
+        45.490196078431374,
+        13,
+        -28
+      ]
+    },
+    "PANTONE 10231 C": {
+      "name": "PANTONE 10231 C",
+      "code": "10231C",
+      "components": [
+        41.568627450980394,
+        16,
+        -33
+      ]
+    },
+    "PANTONE 10232 C": {
+      "name": "PANTONE 10232 C",
+      "code": "10232C",
+      "components": [
+        55.294117647058826,
+        6,
+        -17
+      ]
+    },
+    "PANTONE 10233 C": {
+      "name": "PANTONE 10233 C",
+      "code": "10233C",
+      "components": [
+        49.80392156862745,
+        9,
+        -22
+      ]
+    },
+    "PANTONE 10234 C": {
+      "name": "PANTONE 10234 C",
+      "code": "10234C",
+      "components": [
+        44.313725490196084,
+        11,
+        -27
+      ]
+    },
+    "PANTONE 10235 C": {
+      "name": "PANTONE 10235 C",
+      "code": "10235C",
+      "components": [
+        39.21568627450981,
+        14,
+        -31
+      ]
+    },
+    "PANTONE 10236 C": {
+      "name": "PANTONE 10236 C",
+      "code": "10236C",
+      "components": [
+        34.11764705882353,
+        16,
+        -34
+      ]
+    },
+    "PANTONE 10237 C": {
+      "name": "PANTONE 10237 C",
+      "code": "10237C",
+      "components": [
+        35.68627450980392,
+        15,
+        -33
+      ]
+    },
+    "PANTONE 10238 C": {
+      "name": "PANTONE 10238 C",
+      "code": "10238C",
+      "components": [
+        57.64705882352941,
+        4,
+        -18
+      ]
+    },
+    "PANTONE 10239 C": {
+      "name": "PANTONE 10239 C",
+      "code": "10239C",
+      "components": [
+        53.333333333333336,
+        6,
+        -24
+      ]
+    },
+    "PANTONE 10240 C": {
+      "name": "PANTONE 10240 C",
+      "code": "10240C",
+      "components": [
+        48.235294117647065,
+        9,
+        -30
+      ]
+    },
+    "PANTONE 10241 C": {
+      "name": "PANTONE 10241 C",
+      "code": "10241C",
+      "components": [
+        43.13725490196079,
+        12,
+        -35
+      ]
+    },
+    "PANTONE 10242 C": {
+      "name": "PANTONE 10242 C",
+      "code": "10242C",
+      "components": [
+        37.64705882352941,
+        15,
+        -41
+      ]
+    },
+    "PANTONE 10243 C": {
+      "name": "PANTONE 10243 C",
+      "code": "10243C",
+      "components": [
+        32.94117647058824,
+        19,
+        -46
+      ]
+    },
+    "PANTONE 10244 C": {
+      "name": "PANTONE 10244 C",
+      "code": "10244C",
+      "components": [
+        54.90196078431373,
+        -2,
+        -22
+      ]
+    },
+    "PANTONE 10245 C": {
+      "name": "PANTONE 10245 C",
+      "code": "10245C",
+      "components": [
+        49.411764705882355,
+        -1,
+        -29
+      ]
+    },
+    "PANTONE 10246 C": {
+      "name": "PANTONE 10246 C",
+      "code": "10246C",
+      "components": [
+        44.313725490196084,
+        1,
+        -35
+      ]
+    },
+    "PANTONE 10247 C": {
+      "name": "PANTONE 10247 C",
+      "code": "10247C",
+      "components": [
+        39.21568627450981,
+        3,
+        -40
+      ]
+    },
+    "PANTONE 10248 C": {
+      "name": "PANTONE 10248 C",
+      "code": "10248C",
+      "components": [
+        34.11764705882353,
+        7,
+        -45
+      ]
+    },
+    "PANTONE 10249 C": {
+      "name": "PANTONE 10249 C",
+      "code": "10249C",
+      "components": [
+        29.411764705882355,
+        11,
+        -50
+      ]
+    },
+    "PANTONE 10250 C": {
+      "name": "PANTONE 10250 C",
+      "code": "10250C",
+      "components": [
+        63.92156862745099,
+        -1,
+        -10
+      ]
+    },
+    "PANTONE 10251 C": {
+      "name": "PANTONE 10251 C",
+      "code": "10251C",
+      "components": [
+        59.21568627450981,
+        -1,
+        -16
+      ]
+    },
+    "PANTONE 10252 C": {
+      "name": "PANTONE 10252 C",
+      "code": "10252C",
+      "components": [
+        54.90196078431373,
+        -1,
+        -23
+      ]
+    },
+    "PANTONE 10253 C": {
+      "name": "PANTONE 10253 C",
+      "code": "10253C",
+      "components": [
+        50.196078431372555,
+        0,
+        -28
+      ]
+    },
+    "PANTONE 10254 C": {
+      "name": "PANTONE 10254 C",
+      "code": "10254C",
+      "components": [
+        45.490196078431374,
+        2,
+        -34
+      ]
+    },
+    "PANTONE 10255 C": {
+      "name": "PANTONE 10255 C",
+      "code": "10255C",
+      "components": [
+        40.7843137254902,
+        5,
+        -40
+      ]
+    },
+    "PANTONE 10256 C": {
+      "name": "PANTONE 10256 C",
+      "code": "10256C",
+      "components": [
+        60.00000000000001,
+        -4,
+        -16
+      ]
+    },
+    "PANTONE 10257 C": {
+      "name": "PANTONE 10257 C",
+      "code": "10257C",
+      "components": [
+        56.078431372549026,
+        -5,
+        -21
+      ]
+    },
+    "PANTONE 10258 C": {
+      "name": "PANTONE 10258 C",
+      "code": "10258C",
+      "components": [
+        52.156862745098046,
+        -5,
+        -27
+      ]
+    },
+    "PANTONE 10259 C": {
+      "name": "PANTONE 10259 C",
+      "code": "10259C",
+      "components": [
+        47.450980392156865,
+        -4,
+        -32
+      ]
+    },
+    "PANTONE 10260 C": {
+      "name": "PANTONE 10260 C",
+      "code": "10260C",
+      "components": [
+        43.529411764705884,
+        -2,
+        -38
+      ]
+    },
+    "PANTONE 10261 C": {
+      "name": "PANTONE 10261 C",
+      "code": "10261C",
+      "components": [
+        38.82352941176471,
+        1,
+        -44
+      ]
+    },
+    "PANTONE 10262 C": {
+      "name": "PANTONE 10262 C",
+      "code": "10262C",
+      "components": [
+        62.352941176470594,
+        -4,
+        -7
+      ]
+    },
+    "PANTONE 10263 C": {
+      "name": "PANTONE 10263 C",
+      "code": "10263C",
+      "components": [
+        56.47058823529412,
+        -5,
+        -10
+      ]
+    },
+    "PANTONE 10264 C": {
+      "name": "PANTONE 10264 C",
+      "code": "10264C",
+      "components": [
+        51.372549019607845,
+        -7,
+        -13
+      ]
+    },
+    "PANTONE 10265 C": {
+      "name": "PANTONE 10265 C",
+      "code": "10265C",
+      "components": [
+        46.274509803921575,
+        -8,
+        -15
+      ]
+    },
+    "PANTONE 10266 C": {
+      "name": "PANTONE 10266 C",
+      "code": "10266C",
+      "components": [
+        41.1764705882353,
+        -8,
+        -17
+      ]
+    },
+    "PANTONE 10267 C": {
+      "name": "PANTONE 10267 C",
+      "code": "10267C",
+      "components": [
+        36.07843137254902,
+        -8,
+        -18
+      ]
+    },
+    "PANTONE 10268 C": {
+      "name": "PANTONE 10268 C",
+      "code": "10268C",
+      "components": [
+        61.1764705882353,
+        -9,
+        -16
+      ]
+    },
+    "PANTONE 10269 C": {
+      "name": "PANTONE 10269 C",
+      "code": "10269C",
+      "components": [
+        56.86274509803922,
+        -12,
+        -21
+      ]
+    },
+    "PANTONE 10270 C": {
+      "name": "PANTONE 10270 C",
+      "code": "10270C",
+      "components": [
+        53.333333333333336,
+        -13,
+        -26
+      ]
+    },
+    "PANTONE 10271 C": {
+      "name": "PANTONE 10271 C",
+      "code": "10271C",
+      "components": [
+        49.411764705882355,
+        -14,
+        -31
+      ]
+    },
+    "PANTONE 10272 C": {
+      "name": "PANTONE 10272 C",
+      "code": "10272C",
+      "components": [
+        45.88235294117647,
+        -13,
+        -37
+      ]
+    },
+    "PANTONE 10273 C": {
+      "name": "PANTONE 10273 C",
+      "code": "10273C",
+      "components": [
+        42.352941176470594,
+        -12,
+        -43
+      ]
+    },
+    "PANTONE 10274 C": {
+      "name": "PANTONE 10274 C",
+      "code": "10274C",
+      "components": [
+        62.352941176470594,
+        -13,
+        -13
+      ]
+    },
+    "PANTONE 10275 C": {
+      "name": "PANTONE 10275 C",
+      "code": "10275C",
+      "components": [
+        59.6078431372549,
+        -16,
+        -18
+      ]
+    },
+    "PANTONE 10276 C": {
+      "name": "PANTONE 10276 C",
+      "code": "10276C",
+      "components": [
+        56.86274509803922,
+        -20,
+        -22
+      ]
+    },
+    "PANTONE 10277 C": {
+      "name": "PANTONE 10277 C",
+      "code": "10277C",
+      "components": [
+        54.117647058823536,
+        -23,
+        -27
+      ]
+    },
+    "PANTONE 10278 C": {
+      "name": "PANTONE 10278 C",
+      "code": "10278C",
+      "components": [
+        51.372549019607845,
+        -25,
+        -31
+      ]
+    },
+    "PANTONE 10279 C": {
+      "name": "PANTONE 10279 C",
+      "code": "10279C",
+      "components": [
+        48.62745098039216,
+        -27,
+        -37
+      ]
+    },
+    "PANTONE 10280 C": {
+      "name": "PANTONE 10280 C",
+      "code": "10280C",
+      "components": [
+        62.74509803921569,
+        -11,
+        -8
+      ]
+    },
+    "PANTONE 10281 C": {
+      "name": "PANTONE 10281 C",
+      "code": "10281C",
+      "components": [
+        59.6078431372549,
+        -15,
+        -10
+      ]
+    },
+    "PANTONE 10282 C": {
+      "name": "PANTONE 10282 C",
+      "code": "10282C",
+      "components": [
+        55.68627450980392,
+        -19,
+        -13
+      ]
+    },
+    "PANTONE 10283 C": {
+      "name": "PANTONE 10283 C",
+      "code": "10283C",
+      "components": [
+        52.156862745098046,
+        -22,
+        -15
+      ]
+    },
+    "PANTONE 10284 C": {
+      "name": "PANTONE 10284 C",
+      "code": "10284C",
+      "components": [
+        48.62745098039216,
+        -25,
+        -17
+      ]
+    },
+    "PANTONE 10285 C": {
+      "name": "PANTONE 10285 C",
+      "code": "10285C",
+      "components": [
+        45.09803921568628,
+        -27,
+        -20
+      ]
+    },
+    "PANTONE 10286 C": {
+      "name": "PANTONE 10286 C",
+      "code": "10286C",
+      "components": [
+        64.31372549019608,
+        -14,
+        -7
+      ]
+    },
+    "PANTONE 10287 C": {
+      "name": "PANTONE 10287 C",
+      "code": "10287C",
+      "components": [
+        61.9607843137255,
+        -19,
+        -10
+      ]
+    },
+    "PANTONE 10288 C": {
+      "name": "PANTONE 10288 C",
+      "code": "10288C",
+      "components": [
+        59.21568627450981,
+        -25,
+        -12
+      ]
+    },
+    "PANTONE 10289 C": {
+      "name": "PANTONE 10289 C",
+      "code": "10289C",
+      "components": [
+        56.86274509803922,
+        -30,
+        -14
+      ]
+    },
+    "PANTONE 10290 C": {
+      "name": "PANTONE 10290 C",
+      "code": "10290C",
+      "components": [
+        54.50980392156863,
+        -35,
+        -16
+      ]
+    },
+    "PANTONE 10291 C": {
+      "name": "PANTONE 10291 C",
+      "code": "10291C",
+      "components": [
+        52.156862745098046,
+        -41,
+        -17
+      ]
+    },
+    "PANTONE 10292 C": {
+      "name": "PANTONE 10292 C",
+      "code": "10292C",
+      "components": [
+        65.88235294117648,
+        -16,
+        -3
+      ]
+    },
+    "PANTONE 10293 C": {
+      "name": "PANTONE 10293 C",
+      "code": "10293C",
+      "components": [
+        63.92156862745099,
+        -22,
+        -3
+      ]
+    },
+    "PANTONE 10294 C": {
+      "name": "PANTONE 10294 C",
+      "code": "10294C",
+      "components": [
+        61.9607843137255,
+        -28,
+        -3
+      ]
+    },
+    "PANTONE 10295 C": {
+      "name": "PANTONE 10295 C",
+      "code": "10295C",
+      "components": [
+        60.00000000000001,
+        -34,
+        -3
+      ]
+    },
+    "PANTONE 10296 C": {
+      "name": "PANTONE 10296 C",
+      "code": "10296C",
+      "components": [
+        58.03921568627452,
+        -41,
+        -3
+      ]
+    },
+    "PANTONE 10297 C": {
+      "name": "PANTONE 10297 C",
+      "code": "10297C",
+      "components": [
+        56.47058823529412,
+        -49,
+        -2
+      ]
+    },
+    "PANTONE 10298 C": {
+      "name": "PANTONE 10298 C",
+      "code": "10298C",
+      "components": [
+        63.92156862745099,
+        -14,
+        9
+      ]
+    },
+    "PANTONE 10299 C": {
+      "name": "PANTONE 10299 C",
+      "code": "10299C",
+      "components": [
+        61.1764705882353,
+        -19,
+        13
+      ]
+    },
+    "PANTONE 10300 C": {
+      "name": "PANTONE 10300 C",
+      "code": "10300C",
+      "components": [
+        58.82352941176471,
+        -24,
+        16
+      ]
+    },
+    "PANTONE 10301 C": {
+      "name": "PANTONE 10301 C",
+      "code": "10301C",
+      "components": [
+        56.078431372549026,
+        -30,
+        19
+      ]
+    },
+    "PANTONE 10302 C": {
+      "name": "PANTONE 10302 C",
+      "code": "10302C",
+      "components": [
+        53.72549019607843,
+        -35,
+        22
+      ]
+    },
+    "PANTONE 10303 C": {
+      "name": "PANTONE 10303 C",
+      "code": "10303C",
+      "components": [
+        50.98039215686275,
+        -42,
+        25
+      ]
+    },
+    "PANTONE 10304 C": {
+      "name": "PANTONE 10304 C",
+      "code": "10304C",
+      "components": [
+        65.09803921568628,
+        -13,
+        14
+      ]
+    },
+    "PANTONE 10305 C": {
+      "name": "PANTONE 10305 C",
+      "code": "10305C",
+      "components": [
+        62.74509803921569,
+        -18,
+        19
+      ]
+    },
+    "PANTONE 10306 C": {
+      "name": "PANTONE 10306 C",
+      "code": "10306C",
+      "components": [
+        60.392156862745104,
+        -23,
+        23
+      ]
+    },
+    "PANTONE 10307 C": {
+      "name": "PANTONE 10307 C",
+      "code": "10307C",
+      "components": [
+        58.03921568627452,
+        -28,
+        27
+      ]
+    },
+    "PANTONE 10308 C": {
+      "name": "PANTONE 10308 C",
+      "code": "10308C",
+      "components": [
+        55.68627450980392,
+        -32,
+        30
+      ]
+    },
+    "PANTONE 10309 C": {
+      "name": "PANTONE 10309 C",
+      "code": "10309C",
+      "components": [
+        53.333333333333336,
+        -38,
+        34
+      ]
+    },
+    "PANTONE 10310 C": {
+      "name": "PANTONE 10310 C",
+      "code": "10310C",
+      "components": [
+        64.70588235294117,
+        -5,
+        5
+      ]
+    },
+    "PANTONE 10311 C": {
+      "name": "PANTONE 10311 C",
+      "code": "10311C",
+      "components": [
+        60.392156862745104,
+        -8,
+        8
+      ]
+    },
+    "PANTONE 10312 C": {
+      "name": "PANTONE 10312 C",
+      "code": "10312C",
+      "components": [
+        56.47058823529412,
+        -10,
+        10
+      ]
+    },
+    "PANTONE 10313 C": {
+      "name": "PANTONE 10313 C",
+      "code": "10313C",
+      "components": [
+        52.156862745098046,
+        -12,
+        12
+      ]
+    },
+    "PANTONE 10314 C": {
+      "name": "PANTONE 10314 C",
+      "code": "10314C",
+      "components": [
+        47.84313725490196,
+        -14,
+        13
+      ]
+    },
+    "PANTONE 10315 C": {
+      "name": "PANTONE 10315 C",
+      "code": "10315C",
+      "components": [
+        43.529411764705884,
+        -15,
+        14
+      ]
+    },
+    "PANTONE 10316 C": {
+      "name": "PANTONE 10316 C",
+      "code": "10316C",
+      "components": [
+        67.05882352941177,
+        -13,
+        19
+      ]
+    },
+    "PANTONE 10317 C": {
+      "name": "PANTONE 10317 C",
+      "code": "10317C",
+      "components": [
+        65.49019607843138,
+        -18,
+        26
+      ]
+    },
+    "PANTONE 10318 C": {
+      "name": "PANTONE 10318 C",
+      "code": "10318C",
+      "components": [
+        64.31372549019608,
+        -22,
+        32
+      ]
+    },
+    "PANTONE 10319 C": {
+      "name": "PANTONE 10319 C",
+      "code": "10319C",
+      "components": [
+        63.13725490196079,
+        -27,
+        38
+      ]
+    },
+    "PANTONE 10320 C": {
+      "name": "PANTONE 10320 C",
+      "code": "10320C",
+      "components": [
+        61.9607843137255,
+        -33,
+        43
+      ]
+    },
+    "PANTONE 10321 C": {
+      "name": "PANTONE 10321 C",
+      "code": "10321C",
+      "components": [
+        60.7843137254902,
+        -39,
+        49
+      ]
+    },
+    "PANTONE 10322 C": {
+      "name": "PANTONE 10322 C",
+      "code": "10322C",
+      "components": [
+        68.23529411764706,
+        -9,
+        26
+      ]
+    },
+    "PANTONE 10323 C": {
+      "name": "PANTONE 10323 C",
+      "code": "10323C",
+      "components": [
+        67.05882352941177,
+        -12,
+        34
+      ]
+    },
+    "PANTONE 10324 C": {
+      "name": "PANTONE 10324 C",
+      "code": "10324C",
+      "components": [
+        66.66666666666667,
+        -15,
+        42
+      ]
+    },
+    "PANTONE 10325 C": {
+      "name": "PANTONE 10325 C",
+      "code": "10325C",
+      "components": [
+        65.49019607843138,
+        -18,
+        49
+      ]
+    },
+    "PANTONE 10326 C": {
+      "name": "PANTONE 10326 C",
+      "code": "10326C",
+      "components": [
+        65.49019607843138,
+        -21,
+        56
+      ]
+    },
+    "PANTONE 10327 C": {
+      "name": "PANTONE 10327 C",
+      "code": "10327C",
+      "components": [
+        65.49019607843138,
+        -25,
+        62
+      ]
+    },
+    "PANTONE 10328 C": {
+      "name": "PANTONE 10328 C",
+      "code": "10328C",
+      "components": [
+        63.529411764705884,
+        -8,
+        17
+      ]
+    },
+    "PANTONE 10329 C": {
+      "name": "PANTONE 10329 C",
+      "code": "10329C",
+      "components": [
+        60.7843137254902,
+        -10,
+        22
+      ]
+    },
+    "PANTONE 10330 C": {
+      "name": "PANTONE 10330 C",
+      "code": "10330C",
+      "components": [
+        57.254901960784316,
+        -11,
+        26
+      ]
+    },
+    "PANTONE 10331 C": {
+      "name": "PANTONE 10331 C",
+      "code": "10331C",
+      "components": [
+        54.117647058823536,
+        -13,
+        29
+      ]
+    },
+    "PANTONE 10332 C": {
+      "name": "PANTONE 10332 C",
+      "code": "10332C",
+      "components": [
+        50.58823529411765,
+        -14,
+        31
+      ]
+    },
+    "PANTONE 10333 C": {
+      "name": "PANTONE 10333 C",
+      "code": "10333C",
+      "components": [
+        46.66666666666667,
+        -15,
+        32
+      ]
+    },
+    "PANTONE 10334 C": {
+      "name": "PANTONE 10334 C",
+      "code": "10334C",
+      "components": [
+        62.74509803921569,
+        -2,
+        12
+      ]
+    },
+    "PANTONE 10335 C": {
+      "name": "PANTONE 10335 C",
+      "code": "10335C",
+      "components": [
+        59.6078431372549,
+        -2,
+        16
+      ]
+    },
+    "PANTONE 10336 C": {
+      "name": "PANTONE 10336 C",
+      "code": "10336C",
+      "components": [
+        56.47058823529412,
+        -3,
+        20
+      ]
+    },
+    "PANTONE 10337 C": {
+      "name": "PANTONE 10337 C",
+      "code": "10337C",
+      "components": [
+        52.54901960784314,
+        -3,
+        23
+      ]
+    },
+    "PANTONE 10338 C": {
+      "name": "PANTONE 10338 C",
+      "code": "10338C",
+      "components": [
+        48.62745098039216,
+        -4,
+        25
+      ]
+    },
+    "PANTONE 10339 C": {
+      "name": "PANTONE 10339 C",
+      "code": "10339C",
+      "components": [
+        44.313725490196084,
+        -4,
+        28
+      ]
+    },
+    "PANTONE 10340 C": {
+      "name": "PANTONE 10340 C",
+      "code": "10340C",
+      "components": [
+        62.74509803921569,
+        1,
+        14
+      ]
+    },
+    "PANTONE 10341 C": {
+      "name": "PANTONE 10341 C",
+      "code": "10341C",
+      "components": [
+        59.21568627450981,
+        1,
+        19
+      ]
+    },
+    "PANTONE 10342 C": {
+      "name": "PANTONE 10342 C",
+      "code": "10342C",
+      "components": [
+        56.078431372549026,
+        1,
+        23
+      ]
+    },
+    "PANTONE 10343 C": {
+      "name": "PANTONE 10343 C",
+      "code": "10343C",
+      "components": [
+        52.156862745098046,
+        2,
+        27
+      ]
+    },
+    "PANTONE 10344 C": {
+      "name": "PANTONE 10344 C",
+      "code": "10344C",
+      "components": [
+        48.62745098039216,
+        2,
+        29
+      ]
+    },
+    "PANTONE 10345 C": {
+      "name": "PANTONE 10345 C",
+      "code": "10345C",
+      "components": [
+        44.70588235294118,
+        2,
+        32
+      ]
+    },
+    "PANTONE 10346 C": {
+      "name": "PANTONE 10346 C",
+      "code": "10346C",
+      "components": [
+        62.74509803921569,
+        3,
+        15
+      ]
+    },
+    "PANTONE 10347 C": {
+      "name": "PANTONE 10347 C",
+      "code": "10347C",
+      "components": [
+        59.6078431372549,
+        4,
+        21
+      ]
+    },
+    "PANTONE 10348 C": {
+      "name": "PANTONE 10348 C",
+      "code": "10348C",
+      "components": [
+        56.47058823529412,
+        5,
+        25
+      ]
+    },
+    "PANTONE 10349 C": {
+      "name": "PANTONE 10349 C",
+      "code": "10349C",
+      "components": [
+        53.72549019607843,
+        6,
+        28
+      ]
+    },
+    "PANTONE 10350 C": {
+      "name": "PANTONE 10350 C",
+      "code": "10350C",
+      "components": [
+        50.196078431372555,
+        7,
+        31
+      ]
+    },
+    "PANTONE 10351 C": {
+      "name": "PANTONE 10351 C",
+      "code": "10351C",
+      "components": [
+        47.05882352941177,
+        7,
+        34
+      ]
+    },
+    "PANTONE 10352 C": {
+      "name": "PANTONE 10352 C",
+      "code": "10352C",
+      "components": [
+        65.88235294117648,
+        2,
+        10
+      ]
+    },
+    "PANTONE 10353 C": {
+      "name": "PANTONE 10353 C",
+      "code": "10353C",
+      "components": [
+        62.74509803921569,
+        4,
+        17
+      ]
+    },
+    "PANTONE 10354 C": {
+      "name": "PANTONE 10354 C",
+      "code": "10354C",
+      "components": [
+        59.21568627450981,
+        6,
+        23
+      ]
+    },
+    "PANTONE 10355 C": {
+      "name": "PANTONE 10355 C",
+      "code": "10355C",
+      "components": [
+        55.68627450980392,
+        8,
+        28
+      ]
+    },
+    "PANTONE 10356 C": {
+      "name": "PANTONE 10356 C",
+      "code": "10356C",
+      "components": [
+        52.94117647058824,
+        9,
+        32
+      ]
+    },
+    "PANTONE 10357 C": {
+      "name": "PANTONE 10357 C",
+      "code": "10357C",
+      "components": [
+        49.411764705882355,
+        10,
+        35
+      ]
+    },
+    "PANTONE 10358 C": {
+      "name": "PANTONE 10358 C",
+      "code": "10358C",
+      "components": [
+        61.1764705882353,
+        4,
+        15
+      ]
+    },
+    "PANTONE 10359 C": {
+      "name": "PANTONE 10359 C",
+      "code": "10359C",
+      "components": [
+        57.64705882352941,
+        6,
+        20
+      ]
+    },
+    "PANTONE 10360 C": {
+      "name": "PANTONE 10360 C",
+      "code": "10360C",
+      "components": [
+        53.72549019607843,
+        8,
+        23
+      ]
+    },
+    "PANTONE 10361 C": {
+      "name": "PANTONE 10361 C",
+      "code": "10361C",
+      "components": [
+        49.80392156862745,
+        9,
+        26
+      ]
+    },
+    "PANTONE 10362 C": {
+      "name": "PANTONE 10362 C",
+      "code": "10362C",
+      "components": [
+        45.88235294117647,
+        10,
+        28
+      ]
+    },
+    "PANTONE 10363 C": {
+      "name": "PANTONE 10363 C",
+      "code": "10363C",
+      "components": [
+        41.568627450980394,
+        11,
+        30
+      ]
+    },
+    "PANTONE 10364 C": {
+      "name": "PANTONE 10364 C",
+      "code": "10364C",
+      "components": [
+        64.31372549019608,
+        5,
+        12
+      ]
+    },
+    "PANTONE 10365 C": {
+      "name": "PANTONE 10365 C",
+      "code": "10365C",
+      "components": [
+        60.00000000000001,
+        9,
+        19
+      ]
+    },
+    "PANTONE 10366 C": {
+      "name": "PANTONE 10366 C",
+      "code": "10366C",
+      "components": [
+        55.294117647058826,
+        12,
+        24
+      ]
+    },
+    "PANTONE 10367 C": {
+      "name": "PANTONE 10367 C",
+      "code": "10367C",
+      "components": [
+        51.372549019607845,
+        15,
+        27
+      ]
+    },
+    "PANTONE 10368 C": {
+      "name": "PANTONE 10368 C",
+      "code": "10368C",
+      "components": [
+        47.450980392156865,
+        17,
+        30
+      ]
+    },
+    "PANTONE 10369 C": {
+      "name": "PANTONE 10369 C",
+      "code": "10369C",
+      "components": [
+        43.529411764705884,
+        19,
+        32
+      ]
+    },
+    "PANTONE 10370 C": {
+      "name": "PANTONE 10370 C",
+      "code": "10370C",
+      "components": [
+        63.529411764705884,
+        2,
+        6
+      ]
+    },
+    "PANTONE 10371 C": {
+      "name": "PANTONE 10371 C",
+      "code": "10371C",
+      "components": [
+        58.43137254901961,
+        4,
+        10
+      ]
+    },
+    "PANTONE 10372 C": {
+      "name": "PANTONE 10372 C",
+      "code": "10372C",
+      "components": [
+        53.72549019607843,
+        6,
+        13
+      ]
+    },
+    "PANTONE 10373 C": {
+      "name": "PANTONE 10373 C",
+      "code": "10373C",
+      "components": [
+        48.62745098039216,
+        7,
+        15
+      ]
+    },
+    "PANTONE 10374 C": {
+      "name": "PANTONE 10374 C",
+      "code": "10374C",
+      "components": [
+        43.529411764705884,
+        8,
+        16
+      ]
+    },
+    "PANTONE 10375 C": {
+      "name": "PANTONE 10375 C",
+      "code": "10375C",
+      "components": [
+        39.21568627450981,
+        9,
+        17
+      ]
+    },
+    "PANTONE 10376 C": {
+      "name": "PANTONE 10376 C",
+      "code": "10376C",
+      "components": [
+        58.43137254901961,
+        3,
+        6
+      ]
+    },
+    "PANTONE 10377 C": {
+      "name": "PANTONE 10377 C",
+      "code": "10377C",
+      "components": [
+        53.72549019607843,
+        5,
+        8
+      ]
+    },
+    "PANTONE 10378 C": {
+      "name": "PANTONE 10378 C",
+      "code": "10378C",
+      "components": [
+        48.62745098039216,
+        6,
+        9
+      ]
+    },
+    "PANTONE 10379 C": {
+      "name": "PANTONE 10379 C",
+      "code": "10379C",
+      "components": [
+        44.313725490196084,
+        7,
+        10
+      ]
+    },
+    "PANTONE 10380 C": {
+      "name": "PANTONE 10380 C",
+      "code": "10380C",
+      "components": [
+        39.6078431372549,
+        7,
+        11
+      ]
+    },
+    "PANTONE 10381 C": {
+      "name": "PANTONE 10381 C",
+      "code": "10381C",
+      "components": [
+        34.11764705882353,
+        7,
+        12
+      ]
+    },
+    "PANTONE 10382 C": {
+      "name": "PANTONE 10382 C",
+      "code": "10382C",
+      "components": [
+        60.392156862745104,
+        2,
+        -1
+      ]
+    },
+    "PANTONE 10383 C": {
+      "name": "PANTONE 10383 C",
+      "code": "10383C",
+      "components": [
+        53.333333333333336,
+        3,
+        0
+      ]
+    },
+    "PANTONE 10384 C": {
+      "name": "PANTONE 10384 C",
+      "code": "10384C",
+      "components": [
+        47.05882352941177,
+        4,
+        0
+      ]
+    },
+    "PANTONE 10385 C": {
+      "name": "PANTONE 10385 C",
+      "code": "10385C",
+      "components": [
+        40.7843137254902,
+        5,
+        0
+      ]
+    },
+    "PANTONE 10386 C": {
+      "name": "PANTONE 10386 C",
+      "code": "10386C",
+      "components": [
+        35.294117647058826,
+        5,
+        0
+      ]
+    },
+    "PANTONE 10387 C": {
+      "name": "PANTONE 10387 C",
+      "code": "10387C",
+      "components": [
+        29.80392156862745,
+        5,
+        1
+      ]
+    },
+    "PANTONE 10388 C": {
+      "name": "PANTONE 10388 C",
+      "code": "10388C",
+      "components": [
+        59.21568627450981,
+        -1,
+        -3
+      ]
+    },
+    "PANTONE 10389 C": {
+      "name": "PANTONE 10389 C",
+      "code": "10389C",
+      "components": [
+        53.333333333333336,
+        -1,
+        -3
+      ]
+    },
+    "PANTONE 10390 C": {
+      "name": "PANTONE 10390 C",
+      "code": "10390C",
+      "components": [
+        47.05882352941177,
+        -2,
+        -3
+      ]
+    },
+    "PANTONE 10391 C": {
+      "name": "PANTONE 10391 C",
+      "code": "10391C",
+      "components": [
+        40.7843137254902,
+        -2,
+        -4
+      ]
+    },
+    "PANTONE 10392 C": {
+      "name": "PANTONE 10392 C",
+      "code": "10392C",
+      "components": [
+        35.294117647058826,
+        -2,
+        -4
+      ]
+    },
+    "PANTONE 10393 C": {
+      "name": "PANTONE 10393 C",
+      "code": "10393C",
+      "components": [
+        29.411764705882355,
+        -2,
+        -4
+      ]
+    },
+    "PANTONE 10394 C": {
+      "name": "PANTONE 10394 C",
+      "code": "10394C",
+      "components": [
+        51.76470588235294,
+        1,
+        2
+      ]
+    },
+    "PANTONE 10395 C": {
+      "name": "PANTONE 10395 C",
+      "code": "10395C",
+      "components": [
+        45.88235294117647,
+        1,
+        2
+      ]
+    },
+    "PANTONE 10396 C": {
+      "name": "PANTONE 10396 C",
+      "code": "10396C",
+      "components": [
+        39.21568627450981,
+        1,
+        2
+      ]
+    },
+    "PANTONE 10397 C": {
+      "name": "PANTONE 10397 C",
+      "code": "10397C",
+      "components": [
+        32.94117647058824,
+        1,
+        2
+      ]
+    },
+    "PANTONE 10398 C": {
+      "name": "PANTONE 10398 C",
+      "code": "10398C",
+      "components": [
+        27.450980392156865,
+        1,
+        2
+      ]
+    },
+    "PANTONE 10399 C": {
+      "name": "PANTONE 10399 C",
+      "code": "10399C",
+      "components": [
+        21.96078431372549,
+        1,
+        2
+      ]
+    }
+  }
+}

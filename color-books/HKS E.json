@@ -1,0 +1,804 @@
+{
+  "version": 1,
+  "title": "HKS E",
+  "prefix": "HKS ",
+  "suffix": " E",
+  "colorCount": 88,
+  "colorSpace": "LAB",
+  "channels": 3,
+  "spotIdentifier": "Spot",
+  "records": {
+    "HKS 1 E": {
+      "name": "HKS 1 E",
+      "code": "1E",
+      "components": [
+        87.05882352941177,
+        4,
+        59
+      ]
+    },
+    "HKS 2 E": {
+      "name": "HKS 2 E",
+      "code": "2E",
+      "components": [
+        86.27450980392157,
+        -4,
+        78
+      ]
+    },
+    "HKS 3 E": {
+      "name": "HKS 3 E",
+      "code": "3E",
+      "components": [
+        87.45098039215686,
+        0,
+        82
+      ]
+    },
+    "HKS 4 E": {
+      "name": "HKS 4 E",
+      "code": "4E",
+      "components": [
+        83.13725490196079,
+        12,
+        78
+      ]
+    },
+    "HKS 5 E": {
+      "name": "HKS 5 E",
+      "code": "5E",
+      "components": [
+        82.3529411764706,
+        16,
+        73
+      ]
+    },
+    "HKS 6 E": {
+      "name": "HKS 6 E",
+      "code": "6E",
+      "components": [
+        76.07843137254902,
+        31,
+        66
+      ]
+    },
+    "HKS 7 E": {
+      "name": "HKS 7 E",
+      "code": "7E",
+      "components": [
+        68.62745098039215,
+        47,
+        59
+      ]
+    },
+    "HKS 207 E": {
+      "name": "HKS 207 E",
+      "code": "207E",
+      "components": [
+        70.58823529411765,
+        44,
+        60
+      ]
+    },
+    "HKS 8 E": {
+      "name": "HKS 8 E",
+      "code": "8E",
+      "components": [
+        65.88235294117648,
+        52,
+        54
+      ]
+    },
+    "HKS 10 E": {
+      "name": "HKS 10 E",
+      "code": "10E",
+      "components": [
+        63.92156862745099,
+        55,
+        50
+      ]
+    },
+    "HKS 11 E": {
+      "name": "HKS 11 E",
+      "code": "11E",
+      "components": [
+        74.90196078431373,
+        37,
+        33
+      ]
+    },
+    "HKS 12 E": {
+      "name": "HKS 12 E",
+      "code": "12E",
+      "components": [
+        59.6078431372549,
+        56,
+        42
+      ]
+    },
+    "HKS 13 E": {
+      "name": "HKS 13 E",
+      "code": "13E",
+      "components": [
+        60.00000000000001,
+        60,
+        40
+      ]
+    },
+    "HKS 14 E": {
+      "name": "HKS 14 E",
+      "code": "14E",
+      "components": [
+        55.68627450980392,
+        58,
+        37
+      ]
+    },
+    "HKS 15 E": {
+      "name": "HKS 15 E",
+      "code": "15E",
+      "components": [
+        54.50980392156863,
+        61,
+        26
+      ]
+    },
+    "HKS 16 E": {
+      "name": "HKS 16 E",
+      "code": "16E",
+      "components": [
+        50.58823529411765,
+        41,
+        20
+      ]
+    },
+    "HKS 17 E": {
+      "name": "HKS 17 E",
+      "code": "17E",
+      "components": [
+        50.58823529411765,
+        48,
+        14
+      ]
+    },
+    "HKS 18 E": {
+      "name": "HKS 18 E",
+      "code": "18E",
+      "components": [
+        44.70588235294118,
+        39,
+        10
+      ]
+    },
+    "HKS 21 E": {
+      "name": "HKS 21 E",
+      "code": "21E",
+      "components": [
+        70.58823529411765,
+        46,
+        12
+      ]
+    },
+    "HKS 22 E": {
+      "name": "HKS 22 E",
+      "code": "22E",
+      "components": [
+        60.392156862745104,
+        60,
+        40
+      ]
+    },
+    "HKS 23 E": {
+      "name": "HKS 23 E",
+      "code": "23E",
+      "components": [
+        55.68627450980392,
+        60,
+        27
+      ]
+    },
+    "HKS 24 E": {
+      "name": "HKS 24 E",
+      "code": "24E",
+      "components": [
+        54.50980392156863,
+        58,
+        14
+      ]
+    },
+    "HKS 25 E": {
+      "name": "HKS 25 E",
+      "code": "25E",
+      "components": [
+        52.54901960784314,
+        59,
+        4
+      ]
+    },
+    "HKS 26 E": {
+      "name": "HKS 26 E",
+      "code": "26E",
+      "components": [
+        52.54901960784314,
+        58,
+        -3
+      ]
+    },
+    "HKS 27 E": {
+      "name": "HKS 27 E",
+      "code": "27E",
+      "components": [
+        53.333333333333336,
+        66,
+        -7
+      ]
+    },
+    "HKS 28 E": {
+      "name": "HKS 28 E",
+      "code": "28E",
+      "components": [
+        49.80392156862745,
+        51,
+        10
+      ]
+    },
+    "HKS 29 E": {
+      "name": "HKS 29 E",
+      "code": "29E",
+      "components": [
+        45.88235294117647,
+        54,
+        -26
+      ]
+    },
+    "HKS 31 E": {
+      "name": "HKS 31 E",
+      "code": "31E",
+      "components": [
+        51.372549019607845,
+        60,
+        -10
+      ]
+    },
+    "HKS 32 E": {
+      "name": "HKS 32 E",
+      "code": "32E",
+      "components": [
+        52.54901960784314,
+        64,
+        0
+      ]
+    },
+    "HKS 33 E": {
+      "name": "HKS 33 E",
+      "code": "33E",
+      "components": [
+        46.274509803921575,
+        54,
+        -34
+      ]
+    },
+    "HKS 34 E": {
+      "name": "HKS 34 E",
+      "code": "34E",
+      "components": [
+        41.568627450980394,
+        37,
+        -39
+      ]
+    },
+    "HKS 35 E": {
+      "name": "HKS 35 E",
+      "code": "35E",
+      "components": [
+        38.03921568627451,
+        18,
+        -39
+      ]
+    },
+    "HKS 36 E": {
+      "name": "HKS 36 E",
+      "code": "36E",
+      "components": [
+        42.352941176470594,
+        29,
+        -41
+      ]
+    },
+    "HKS 37 E": {
+      "name": "HKS 37 E",
+      "code": "37E",
+      "components": [
+        39.21568627450981,
+        23,
+        -31
+      ]
+    },
+    "HKS 38 E": {
+      "name": "HKS 38 E",
+      "code": "38E",
+      "components": [
+        40,
+        0,
+        -15
+      ]
+    },
+    "HKS 39 E": {
+      "name": "HKS 39 E",
+      "code": "39E",
+      "components": [
+        50.58823529411765,
+        -5,
+        -48
+      ]
+    },
+    "HKS 40 E": {
+      "name": "HKS 40 E",
+      "code": "40E",
+      "components": [
+        54.117647058823536,
+        -23,
+        -30
+      ]
+    },
+    "HKS 41 E": {
+      "name": "HKS 41 E",
+      "code": "41E",
+      "components": [
+        38.82352941176471,
+        -1,
+        -18
+      ]
+    },
+    "HKS 42 E": {
+      "name": "HKS 42 E",
+      "code": "42E",
+      "components": [
+        44.70588235294118,
+        4,
+        -40
+      ]
+    },
+    "HKS 43 E": {
+      "name": "HKS 43 E",
+      "code": "43E",
+      "components": [
+        41.96078431372549,
+        13,
+        -53
+      ]
+    },
+    "HKS 243 E": {
+      "name": "HKS 243 E",
+      "code": "243E",
+      "components": [
+        44.313725490196084,
+        1,
+        -49
+      ]
+    },
+    "HKS 44 E": {
+      "name": "HKS 44 E",
+      "code": "44E",
+      "components": [
+        48.62745098039216,
+        -9,
+        -43
+      ]
+    },
+    "HKS 45 E": {
+      "name": "HKS 45 E",
+      "code": "45E",
+      "components": [
+        42.74509803921569,
+        10,
+        -37
+      ]
+    },
+    "HKS 46 E": {
+      "name": "HKS 46 E",
+      "code": "46E",
+      "components": [
+        54.117647058823536,
+        -19,
+        -31
+      ]
+    },
+    "HKS 47 E": {
+      "name": "HKS 47 E",
+      "code": "47E",
+      "components": [
+        54.117647058823536,
+        -24,
+        -44
+      ]
+    },
+    "HKS 48 E": {
+      "name": "HKS 48 E",
+      "code": "48E",
+      "components": [
+        54.50980392156863,
+        -32,
+        -34
+      ]
+    },
+    "HKS 49 E": {
+      "name": "HKS 49 E",
+      "code": "49E",
+      "components": [
+        55.68627450980392,
+        -27,
+        -37
+      ]
+    },
+    "HKS 50 E": {
+      "name": "HKS 50 E",
+      "code": "50E",
+      "components": [
+        67.05882352941177,
+        -30,
+        -29
+      ]
+    },
+    "HKS 51 E": {
+      "name": "HKS 51 E",
+      "code": "51E",
+      "components": [
+        57.254901960784316,
+        -38,
+        -18
+      ]
+    },
+    "HKS 52 E": {
+      "name": "HKS 52 E",
+      "code": "52E",
+      "components": [
+        55.68627450980392,
+        -42,
+        -5
+      ]
+    },
+    "HKS 53 E": {
+      "name": "HKS 53 E",
+      "code": "53E",
+      "components": [
+        64.70588235294117,
+        -53,
+        -1
+      ]
+    },
+    "HKS 54 E": {
+      "name": "HKS 54 E",
+      "code": "54E",
+      "components": [
+        56.86274509803922,
+        -46,
+        10
+      ]
+    },
+    "HKS 55 E": {
+      "name": "HKS 55 E",
+      "code": "55E",
+      "components": [
+        53.72549019607843,
+        -39,
+        3
+      ]
+    },
+    "HKS 56 E": {
+      "name": "HKS 56 E",
+      "code": "56E",
+      "components": [
+        49.80392156862745,
+        -27,
+        0
+      ]
+    },
+    "HKS 57 E": {
+      "name": "HKS 57 E",
+      "code": "57E",
+      "components": [
+        58.03921568627452,
+        -43,
+        17
+      ]
+    },
+    "HKS 58 E": {
+      "name": "HKS 58 E",
+      "code": "58E",
+      "components": [
+        51.372549019607845,
+        -20,
+        13
+      ]
+    },
+    "HKS 59 E": {
+      "name": "HKS 59 E",
+      "code": "59E",
+      "components": [
+        54.90196078431373,
+        -41,
+        -15
+      ]
+    },
+    "HKS 60 E": {
+      "name": "HKS 60 E",
+      "code": "60E",
+      "components": [
+        62.352941176470594,
+        -39,
+        35
+      ]
+    },
+    "HKS 61 E": {
+      "name": "HKS 61 E",
+      "code": "61E",
+      "components": [
+        48.235294117647065,
+        -16,
+        13
+      ]
+    },
+    "HKS 62 E": {
+      "name": "HKS 62 E",
+      "code": "62E",
+      "components": [
+        55.294117647058826,
+        -6,
+        29
+      ]
+    },
+    "HKS 63 E": {
+      "name": "HKS 63 E",
+      "code": "63E",
+      "components": [
+        56.47058823529412,
+        -22,
+        24
+      ]
+    },
+    "HKS 64 E": {
+      "name": "HKS 64 E",
+      "code": "64E",
+      "components": [
+        62.74509803921569,
+        -45,
+        34
+      ]
+    },
+    "HKS 65 E": {
+      "name": "HKS 65 E",
+      "code": "65E",
+      "components": [
+        66.66666666666667,
+        -45,
+        42
+      ]
+    },
+    "HKS 66 E": {
+      "name": "HKS 66 E",
+      "code": "66E",
+      "components": [
+        73.72549019607844,
+        -38,
+        54
+      ]
+    },
+    "HKS 67 E": {
+      "name": "HKS 67 E",
+      "code": "67E",
+      "components": [
+        74.11764705882354,
+        -37,
+        55
+      ]
+    },
+    "HKS 68 E": {
+      "name": "HKS 68 E",
+      "code": "68E",
+      "components": [
+        76.47058823529412,
+        -1,
+        63
+      ]
+    },
+    "HKS 69 E": {
+      "name": "HKS 69 E",
+      "code": "69E",
+      "components": [
+        83.13725490196079,
+        -9,
+        69
+      ]
+    },
+    "HKS 71 E": {
+      "name": "HKS 71 E",
+      "code": "71E",
+      "components": [
+        70.98039215686275,
+        17,
+        51
+      ]
+    },
+    "HKS 72 E": {
+      "name": "HKS 72 E",
+      "code": "72E",
+      "components": [
+        68.23529411764706,
+        21,
+        50
+      ]
+    },
+    "HKS 73 E": {
+      "name": "HKS 73 E",
+      "code": "73E",
+      "components": [
+        63.13725490196079,
+        15,
+        38
+      ]
+    },
+    "HKS 74 E": {
+      "name": "HKS 74 E",
+      "code": "74E",
+      "components": [
+        53.333333333333336,
+        12,
+        31
+      ]
+    },
+    "HKS 75 E": {
+      "name": "HKS 75 E",
+      "code": "75E",
+      "components": [
+        53.333333333333336,
+        5,
+        30
+      ]
+    },
+    "HKS 76 E": {
+      "name": "HKS 76 E",
+      "code": "76E",
+      "components": [
+        45.09803921568628,
+        7,
+        14
+      ]
+    },
+    "HKS 77 E": {
+      "name": "HKS 77 E",
+      "code": "77E",
+      "components": [
+        47.450980392156865,
+        11,
+        14
+      ]
+    },
+    "HKS 78 E": {
+      "name": "HKS 78 E",
+      "code": "78E",
+      "components": [
+        48.235294117647065,
+        20,
+        20
+      ]
+    },
+    "HKS 81 E": {
+      "name": "HKS 81 E",
+      "code": "81E",
+      "components": [
+        59.21568627450981,
+        37,
+        41
+      ]
+    },
+    "HKS 82 E": {
+      "name": "HKS 82 E",
+      "code": "82E",
+      "components": [
+        53.333333333333336,
+        31,
+        31
+      ]
+    },
+    "HKS 83 E": {
+      "name": "HKS 83 E",
+      "code": "83E",
+      "components": [
+        48.62745098039216,
+        24,
+        17
+      ]
+    },
+    "HKS 84 E": {
+      "name": "HKS 84 E",
+      "code": "84E",
+      "components": [
+        43.13725490196079,
+        16,
+        11
+      ]
+    },
+    "HKS 88 E": {
+      "name": "HKS 88 E",
+      "code": "88E",
+      "components": [
+        33.72549019607843,
+        2,
+        3
+      ]
+    },
+    "HKS 89 E": {
+      "name": "HKS 89 E",
+      "code": "89E",
+      "components": [
+        68.62745098039215,
+        2,
+        10
+      ]
+    },
+    "HKS 90 E": {
+      "name": "HKS 90 E",
+      "code": "90E",
+      "components": [
+        38.82352941176471,
+        3,
+        6
+      ]
+    },
+    "HKS 91 E": {
+      "name": "HKS 91 E",
+      "code": "91E",
+      "components": [
+        67.45098039215686,
+        -4,
+        1
+      ]
+    },
+    "HKS 92 E": {
+      "name": "HKS 92 E",
+      "code": "92E",
+      "components": [
+        49.80392156862745,
+        -1,
+        0
+      ]
+    },
+    "HKS 93 E": {
+      "name": "HKS 93 E",
+      "code": "93E",
+      "components": [
+        38.82352941176471,
+        -1,
+        -4
+      ]
+    },
+    "HKS 95 E": {
+      "name": "HKS 95 E",
+      "code": "95E",
+      "components": [
+        62.352941176470594,
+        -1,
+        5
+      ]
+    },
+    "HKS 96 E": {
+      "name": "HKS 96 E",
+      "code": "96E",
+      "components": [
+        52.54901960784314,
+        0,
+        4
+      ]
+    },
+    "HKS 97 E": {
+      "name": "HKS 97 E",
+      "code": "97E",
+      "components": [
+        35.68627450980392,
+        -1,
+        2
+      ]
+    }
+  }
+}
