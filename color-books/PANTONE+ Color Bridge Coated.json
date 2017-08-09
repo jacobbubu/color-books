@@ -6,7 +6,7 @@
   "colorCount": 1313,
   "colorSpace": "CMYK",
   "channels": 4,
-  "spotIdentifier": "Process",
+  "isSpot": false,
   "records": {
     "PANTONE Process Yellow CP": {
       "name": "PANTONE Process Yellow CP",

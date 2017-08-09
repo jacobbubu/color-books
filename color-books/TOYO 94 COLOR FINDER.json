@@ -6,7 +6,7 @@
   "colorCount": 1050,
   "colorSpace": "LAB",
   "channels": 3,
-  "spotIdentifier": "Spot",
+  "isSpot": true,
   "records": {
     "TOYO 1": {
       "name": "TOYO 1",

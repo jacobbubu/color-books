@@ -1,6 +1,6 @@
 {
   "name": "color-books",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Easily use color books in Javascript.",
   "main": "lib/index.js",
   "repository": {

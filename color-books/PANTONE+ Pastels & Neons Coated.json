@@ -6,7 +6,7 @@
   "colorCount": 210,
   "colorSpace": "LAB",
   "channels": 3,
-  "spotIdentifier": "Spot",
+  "isSpot": true,
   "records": {
     "PANTONE Yellow 0131 C": {
       "name": "PANTONE Yellow 0131 C",

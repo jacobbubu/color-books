@@ -6,7 +6,7 @@
   "colorCount": 300,
   "colorSpace": "LAB",
   "channels": 3,
-  "spotIdentifier": "Spot",
+  "isSpot": true,
   "records": {
     "PANTONE 10101 C": {
       "name": "PANTONE 10101 C",

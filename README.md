@@ -18,33 +18,33 @@ let totalCount = 0
 for (const name of booknames) {
   const book = load(name);
   totalCount += book.colorCount;
-  console.log(`${name}:`, book.colorCount);
+  console.log(`${name}: ${book.colorCount} colors`);
 }
 console.log(`===\nTotal color count: ${totalCount}`);
 console.log("===");
-const { title, colorSpace, records, spotIdentifier, colorCount } = load('PANTONE+ Solid Coated');
+const { title, colorSpace, records, isSpot, colorCount } = load('PANTONE+ Solid Coated');
 console.log(title, `\n\tColor space: ${colorSpace}`);
-console.log(`\tIs spot color?: ${spotIdentifier}`);
+console.log(`\tIs spot color?: ${isSpot}`);
 console.log(`\t'PANTONE Orange 021 C':`, records['PANTONE Orange 021 C'].components)
 ```
 
 The output would be:
 
 ```
-ANPA Color: 300
-DIC Color Guide: 1280
-FOCOLTONE: 763
+ANPA Color: 300 colors
+DIC Color Guide: 1280 colors
+FOCOLTONE: 763 colors
 ...
-PANTONE+ CMYK Coated: 2868
-PANTONE+ Metallic Coated: 301
+PANTONE+ CMYK Coated: 2868 colors
+PANTONE+ Metallic Coated: 301 colors
 ...
-TRUMATCH: 2091
+TRUMATCH: 2091 colors
 ===
 Total color count: 19198
 ===
 PANTONE+® Solid Coated
     Color space: LAB
-    Is spot color?: Spot
+    Is spot color?: true
     'PANTONE Orange 021 C': [ 60.7843137254902, 66, 85 ]
 ```
 
@@ -85,7 +85,7 @@ The meta-data in each book includes:
   * colorCount": 2868
   * colorSpace": "CMYK"
   * channels": 4
-  * spotIdentifier: "Process" or "Spot"
+  * isSpot: true / false
   * record: color records dictionary
 
 The color recod consists of 3 fields:

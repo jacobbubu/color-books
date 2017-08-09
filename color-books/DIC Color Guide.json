@@ -6,7 +6,7 @@
   "colorCount": 1280,
   "colorSpace": "LAB",
   "channels": 3,
-  "spotIdentifier": "Spot",
+  "isSpot": true,
   "records": {
     "DIC 1": {
       "name": "DIC 1",

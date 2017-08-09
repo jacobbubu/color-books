@@ -6,7 +6,7 @@
   "colorCount": 86,
   "colorSpace": "LAB",
   "channels": 3,
-  "spotIdentifier": "Spot",
+  "isSpot": true,
   "records": {
     "HKS 1 N": {
       "name": "HKS 1 N",

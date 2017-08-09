@@ -6,7 +6,7 @@
   "colorCount": 1079,
   "colorSpace": "LAB",
   "channels": 3,
-  "spotIdentifier": "Spot",
+  "isSpot": true,
   "records": {
     "CF 1": {
       "name": "CF 1",

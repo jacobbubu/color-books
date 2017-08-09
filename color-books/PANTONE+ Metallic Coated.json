@@ -6,7 +6,7 @@
   "colorCount": 301,
   "colorSpace": "LAB",
   "channels": 3,
-  "spotIdentifier": "Spot",
+  "isSpot": true,
   "records": {
     "PANTONE 871M C": {
       "name": "PANTONE 871M C",

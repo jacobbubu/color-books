@@ -6,7 +6,7 @@
   "colorCount": 300,
   "colorSpace": "LAB",
   "channels": 3,
-  "spotIdentifier": "Spot",
+  "isSpot": true,
   "records": {
     "ANPA 71-1D AdPro": {
       "name": "ANPA 71-1D AdPro",
