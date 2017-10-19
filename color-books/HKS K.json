@@ -1,16 +1,18 @@
 {
   "version": 1,
   "title": "HKS K",
+  "description": "Copyright© 2001, HKS (Hostmann-Steinberg, K+E, Schmincke) - Warenzeichenverband e.V.",
   "prefix": "HKS ",
   "suffix": " K",
   "colorCount": 88,
+  "pageSize": 5,
   "colorSpace": "LAB",
   "channels": 3,
   "isSpot": true,
   "records": {
     "HKS 1 K": {
       "name": "HKS 1 K",
-      "code": "1K",
+      "code": "01K",
       "components": [
         87.05882352941177,
         3,
@@ -19,7 +21,7 @@
     },
     "HKS 2 K": {
       "name": "HKS 2 K",
-      "code": "2K",
+      "code": "02K",
       "components": [
         85.49019607843138,
         -2,
@@ -28,7 +30,7 @@
     },
     "HKS 3 K": {
       "name": "HKS 3 K",
-      "code": "3K",
+      "code": "03K",
       "components": [
         87.84313725490196,
         0,
@@ -37,7 +39,7 @@
     },
     "HKS 4 K": {
       "name": "HKS 4 K",
-      "code": "4K",
+      "code": "04K",
       "components": [
         81.9607843137255,
         13,
@@ -46,7 +48,7 @@
     },
     "HKS 5 K": {
       "name": "HKS 5 K",
-      "code": "5K",
+      "code": "05K",
       "components": [
         80,
         21,
@@ -55,7 +57,7 @@
     },
     "HKS 6 K": {
       "name": "HKS 6 K",
-      "code": "6K",
+      "code": "06K",
       "components": [
         71.76470588235294,
         44,
@@ -64,7 +66,7 @@
     },
     "HKS 7 K": {
       "name": "HKS 7 K",
-      "code": "7K",
+      "code": "07K",
       "components": [
         65.09803921568628,
         57,
@@ -73,7 +75,7 @@
     },
     "HKS 8 K": {
       "name": "HKS 8 K",
-      "code": "8K",
+      "code": "08K",
       "components": [
         61.9607843137255,
         61,

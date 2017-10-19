@@ -1,16 +1,18 @@
 {
   "version": 1,
   "title": "HKS Z Process",
+  "description": "Copyright© 2001, HKS (Hostmann-Steinberg, K+E, Schmincke) - Warenzeichenverband e.V.",
   "prefix": "HKS ",
   "suffix": " Z",
   "colorCount": 86,
+  "pageSize": 6,
   "colorSpace": "CMYK",
   "channels": 4,
   "isSpot": false,
   "records": {
-    "HKS 1 Z": {
-      "name": "HKS 1 Z",
-      "code": "1ZP",
+    "HKS 01 Z": {
+      "name": "HKS 01 Z",
+      "code": "01ZP",
       "components": [
         0,
         5.098039215686275,
@@ -18,9 +20,9 @@
         0
       ]
     },
-    "HKS 2 Z": {
-      "name": "HKS 2 Z",
-      "code": "2ZP",
+    "HKS 02 Z": {
+      "name": "HKS 02 Z",
+      "code": "02ZP",
       "components": [
         3.1372549019607847,
         0,
@@ -28,9 +30,9 @@
         0
       ]
     },
-    "HKS 3 Z": {
-      "name": "HKS 3 Z",
-      "code": "3ZP",
+    "HKS 03 Z": {
+      "name": "HKS 03 Z",
+      "code": "03ZP",
       "components": [
         0,
         0,
@@ -38,9 +40,9 @@
         0
       ]
     },
-    "HKS 4 Z": {
-      "name": "HKS 4 Z",
-      "code": "4ZP",
+    "HKS 04 Z": {
+      "name": "HKS 04 Z",
+      "code": "04ZP",
       "components": [
         0,
         14.901960784313726,
@@ -48,9 +50,9 @@
         0
       ]
     },
-    "HKS 5 Z": {
-      "name": "HKS 5 Z",
-      "code": "5ZP",
+    "HKS 05 Z": {
+      "name": "HKS 05 Z",
+      "code": "05ZP",
       "components": [
         0,
         20,
@@ -58,9 +60,9 @@
         0
       ]
     },
-    "HKS 6 Z": {
-      "name": "HKS 6 Z",
-      "code": "6ZP",
+    "HKS 06 Z": {
+      "name": "HKS 06 Z",
+      "code": "06ZP",
       "components": [
         0,
         30.196078431372552,
@@ -68,9 +70,9 @@
         0
       ]
     },
-    "HKS 7 Z": {
-      "name": "HKS 7 Z",
-      "code": "7ZP",
+    "HKS 07 Z": {
+      "name": "HKS 07 Z",
+      "code": "07ZP",
       "components": [
         0,
         45.09803921568628,
@@ -78,9 +80,9 @@
         0
       ]
     },
-    "HKS 8 Z": {
-      "name": "HKS 8 Z",
-      "code": "8ZP",
+    "HKS 08 Z": {
+      "name": "HKS 08 Z",
+      "code": "08ZP",
       "components": [
         0,
         54.90196078431373,

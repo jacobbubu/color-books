@@ -1,9 +1,11 @@
 {
   "version": 1,
   "title": "FOCOLTONE",
+  "description": "",
   "prefix": "FOCOLTONE ",
   "suffix": "",
   "colorCount": 763,
+  "pageSize": 5,
   "colorSpace": "CMYK",
   "channels": 4,
   "isSpot": false,

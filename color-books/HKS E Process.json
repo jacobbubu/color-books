@@ -1,16 +1,18 @@
 {
   "version": 1,
   "title": "HKS E Process",
+  "description": "Copyright© 2001, HKS (Hostmann-Steinberg, K+E, Schmincke) - Warenzeichenverband e.V.",
   "prefix": "HKS ",
   "suffix": " E",
   "colorCount": 86,
+  "pageSize": 6,
   "colorSpace": "CMYK",
   "channels": 4,
   "isSpot": false,
   "records": {
-    "HKS 1 E": {
-      "name": "HKS 1 E",
-      "code": "1EP",
+    "HKS 01 E": {
+      "name": "HKS 01 E",
+      "code": "01EP",
       "components": [
         0,
         5.098039215686275,
@@ -18,9 +20,9 @@
         0
       ]
     },
-    "HKS 2 E": {
-      "name": "HKS 2 E",
-      "code": "2EP",
+    "HKS 02 E": {
+      "name": "HKS 02 E",
+      "code": "02EP",
       "components": [
         3.1372549019607847,
         0,
@@ -28,9 +30,9 @@
         0
       ]
     },
-    "HKS 3 E": {
-      "name": "HKS 3 E",
-      "code": "3EP",
+    "HKS 03 E": {
+      "name": "HKS 03 E",
+      "code": "03EP",
       "components": [
         0,
         0,
@@ -38,9 +40,9 @@
         0
       ]
     },
-    "HKS 4 E": {
-      "name": "HKS 4 E",
-      "code": "4EP",
+    "HKS 04 E": {
+      "name": "HKS 04 E",
+      "code": "04EP",
       "components": [
         0,
         7.843137254901961,
@@ -48,9 +50,9 @@
         0
       ]
     },
-    "HKS 5 E": {
-      "name": "HKS 5 E",
-      "code": "5EP",
+    "HKS 05 E": {
+      "name": "HKS 05 E",
+      "code": "05EP",
       "components": [
         0,
         14.901960784313726,
@@ -58,9 +60,9 @@
         0
       ]
     },
-    "HKS 6 E": {
-      "name": "HKS 6 E",
-      "code": "6EP",
+    "HKS 06 E": {
+      "name": "HKS 06 E",
+      "code": "06EP",
       "components": [
         0,
         30.196078431372552,
@@ -68,9 +70,9 @@
         0
       ]
     },
-    "HKS 7 E": {
-      "name": "HKS 7 E",
-      "code": "7EP",
+    "HKS 07 E": {
+      "name": "HKS 07 E",
+      "code": "07EP",
       "components": [
         0,
         45.09803921568628,
@@ -78,9 +80,9 @@
         0
       ]
     },
-    "HKS 8 E": {
-      "name": "HKS 8 E",
-      "code": "8EP",
+    "HKS 08 E": {
+      "name": "HKS 08 E",
+      "code": "08EP",
       "components": [
         0,
         50.196078431372555,

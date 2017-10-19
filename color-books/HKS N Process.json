@@ -1,16 +1,18 @@
 {
   "version": 1,
   "title": "HKS N Process",
+  "description": "Copyright© 2001, HKS (Hostmann-Steinberg, K+E, Schmincke) - Warenzeichenverband e.V.",
   "prefix": "HKS ",
   "suffix": " N",
   "colorCount": 86,
+  "pageSize": 6,
   "colorSpace": "CMYK",
   "channels": 4,
   "isSpot": false,
   "records": {
-    "HKS 1 N": {
-      "name": "HKS 1 N",
-      "code": "1NP",
+    "HKS 01 N": {
+      "name": "HKS 01 N",
+      "code": "01NP",
       "components": [
         0,
         5.098039215686275,
@@ -18,9 +20,9 @@
         0
       ]
     },
-    "HKS 2 N": {
-      "name": "HKS 2 N",
-      "code": "2NP",
+    "HKS 02 N": {
+      "name": "HKS 02 N",
+      "code": "02NP",
       "components": [
         1.9607843137254903,
         0,
@@ -28,9 +30,9 @@
         0
       ]
     },
-    "HKS 3 N": {
-      "name": "HKS 3 N",
-      "code": "3NP",
+    "HKS 03 N": {
+      "name": "HKS 03 N",
+      "code": "03NP",
       "components": [
         0,
         0,
@@ -38,9 +40,9 @@
         0
       ]
     },
-    "HKS 4 N": {
-      "name": "HKS 4 N",
-      "code": "4NP",
+    "HKS 04 N": {
+      "name": "HKS 04 N",
+      "code": "04NP",
       "components": [
         0,
         10.19607843137255,
@@ -48,9 +50,9 @@
         0
       ]
     },
-    "HKS 5 N": {
-      "name": "HKS 5 N",
-      "code": "5NP",
+    "HKS 05 N": {
+      "name": "HKS 05 N",
+      "code": "05NP",
       "components": [
         0,
         14.901960784313726,
@@ -58,9 +60,9 @@
         0
       ]
     },
-    "HKS 6 N": {
-      "name": "HKS 6 N",
-      "code": "6NP",
+    "HKS 06 N": {
+      "name": "HKS 06 N",
+      "code": "06NP",
       "components": [
         0,
         30.196078431372552,
@@ -68,9 +70,9 @@
         0
       ]
     },
-    "HKS 7 N": {
-      "name": "HKS 7 N",
-      "code": "7NP",
+    "HKS 07 N": {
+      "name": "HKS 07 N",
+      "code": "07NP",
       "components": [
         0,
         45.09803921568628,
@@ -78,9 +80,9 @@
         0
       ]
     },
-    "HKS 8 N": {
-      "name": "HKS 8 N",
-      "code": "8NP",
+    "HKS 08 N": {
+      "name": "HKS 08 N",
+      "code": "08NP",
       "components": [
         0,
         50.196078431372555,

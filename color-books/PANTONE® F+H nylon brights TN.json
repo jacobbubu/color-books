@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "title": "18F38443-6087-41AA-9F6F-0BCC7577A5BD.acb",
+  "description": "Copyright© X-Rite, 2014",
+  "prefix": "PANTONE ",
+  "suffix": "",
+  "colorCount": 21,
+  "pageSize": 7,
+  "colorSpace": "LAB",
+  "channels": 3,
+  "isSpot": true,
+  "records": {
+    "PANTONE 12-0645 TN": {
+      "name": "PANTONE 12-0645 TN",
+      "code": "0",
+      "components": [
+        95.68627450980392,
+        -13,
+        75
+      ]
+    },
+    "PANTONE 13-0630 TN": {
+      "name": "PANTONE 13-0630 TN",
+      "code": "1",
+      "components": [
+        100,
+        -42,
+        106
+      ]
+    },
+    "PANTONE 13-1145 TN": {
+      "name": "PANTONE 13-1145 TN",
+      "code": "2",
+      "components": [
+        90.58823529411765,
+        51,
+        73
+      ]
+    },
+    "PANTONE 15-1460 TN": {
+      "name": "PANTONE 15-1460 TN",
+      "code": "3",
+      "components": [
+        74.50980392156863,
+        74,
+        78
+      ]
+    },
+    "PANTONE 15-1360 TN": {
+      "name": "PANTONE 15-1360 TN",
+      "code": "4",
+      "components": [
+        79.2156862745098,
+        83,
+        80
+      ]
+    },
+    "PANTONE 15-1456 TN": {
+      "name": "PANTONE 15-1456 TN",
+      "code": "5",
+      "components": [
+        70.98039215686275,
+        85,
+        50
+      ]
+    },
+    "PANTONE 16-1650 TN": {
+      "name": "PANTONE 16-1650 TN",
+      "code": "6",
+      "components": [
+        65.88235294117648,
+        93,
+        45
+      ]
+    },
+    "PANTONE 18-1757 TN": {
+      "name": "PANTONE 18-1757 TN",
+      "code": "7",
+      "components": [
+        49.411764705882355,
+        68,
+        16
+      ]
+    },
+    "PANTONE 13-2120 TN": {
+      "name": "PANTONE 13-2120 TN",
+      "code": "8",
+      "components": [
+        85.49019607843138,
+        55,
+        1
+      ]
+    },
+    "PANTONE 16-2130 TN": {
+      "name": "PANTONE 16-2130 TN",
+      "code": "9",
+      "components": [
+        72.54901960784314,
+        93,
+        10
+      ]
+    },
+    "PANTONE 16-2125 TN": {
+      "name": "PANTONE 16-2125 TN",
+      "code": "10",
+      "components": [
+        69.01960784313727,
+        70,
+        -3
+      ]
+    },
+    "PANTONE 17-2435 TN": {
+      "name": "PANTONE 17-2435 TN",
+      "code": "11",
+      "components": [
+        56.078431372549026,
+        85,
+        1
+      ]
+    },
+    "PANTONE 18-3250 TN": {
+      "name": "PANTONE 18-3250 TN",
+      "code": "12",
+      "components": [
+        41.96078431372549,
+        52,
+        -29
+      ]
+    },
+    "PANTONE 18-3640 TN": {
+      "name": "PANTONE 18-3640 TN",
+      "code": "13",
+      "components": [
+        36.07843137254902,
+        27,
+        -35
+      ]
+    },
+    "PANTONE 16-3828 TN": {
+      "name": "PANTONE 16-3828 TN",
+      "code": "14",
+      "components": [
+        51.76470588235294,
+        21,
+        -35
+      ]
+    },
+    "PANTONE 18-3940 TN": {
+      "name": "PANTONE 18-3940 TN",
+      "code": "15",
+      "components": [
+        39.21568627450981,
+        23,
+        -45
+      ]
+    },
+    "PANTONE 18-4245 TN": {
+      "name": "PANTONE 18-4245 TN",
+      "code": "16",
+      "components": [
+        39.21568627450981,
+        -7,
+        -52
+      ]
+    },
+    "PANTONE 17-4436 TN": {
+      "name": "PANTONE 17-4436 TN",
+      "code": "17",
+      "components": [
+        49.411764705882355,
+        -34,
+        -41
+      ]
+    },
+    "PANTONE 14-4530 TN": {
+      "name": "PANTONE 14-4530 TN",
+      "code": "18",
+      "components": [
+        73.33333333333334,
+        -30,
+        -27
+      ]
+    },
+    "PANTONE 16-6230 TN": {
+      "name": "PANTONE 16-6230 TN",
+      "code": "19",
+      "components": [
+        68.62745098039215,
+        -69,
+        39
+      ]
+    },
+    "PANTONE 13-0340 TN": {
+      "name": "PANTONE 13-0340 TN",
+      "code": "20",
+      "components": [
+        93.72549019607844,
+        -71,
+        72
+      ]
+    }
+  }
+}

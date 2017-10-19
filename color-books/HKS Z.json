@@ -1,16 +1,18 @@
 {
   "version": 1,
   "title": "HKS Z",
+  "description": "Copyright© 2001, HKS (Hostmann-Steinberg, K+E, Schmincke) - Warenzeichenverband e.V.",
   "prefix": "HKS ",
   "suffix": " Z",
   "colorCount": 50,
+  "pageSize": 5,
   "colorSpace": "LAB",
   "channels": 3,
   "isSpot": true,
   "records": {
     "HKS 2 Z": {
       "name": "HKS 2 Z",
-      "code": "2Z",
+      "code": "02Z",
       "components": [
         82.3529411764706,
         -3,
@@ -19,7 +21,7 @@
     },
     "HKS 3 Z": {
       "name": "HKS 3 Z",
-      "code": "3Z",
+      "code": "03Z",
       "components": [
         81.5686274509804,
         0,
@@ -28,7 +30,7 @@
     },
     "HKS 4 Z": {
       "name": "HKS 4 Z",
-      "code": "4Z",
+      "code": "04Z",
       "components": [
         78.43137254901961,
         10,
@@ -37,7 +39,7 @@
     },
     "HKS 5 Z": {
       "name": "HKS 5 Z",
-      "code": "5Z",
+      "code": "05Z",
       "components": [
         77.25490196078432,
         13,
@@ -46,7 +48,7 @@
     },
     "HKS 6 Z": {
       "name": "HKS 6 Z",
-      "code": "6Z",
+      "code": "06Z",
       "components": [
         73.33333333333334,
         25,
@@ -55,7 +57,7 @@
     },
     "HKS 7 Z": {
       "name": "HKS 7 Z",
-      "code": "7Z",
+      "code": "07Z",
       "components": [
         67.84313725490196,
         39,
@@ -64,7 +66,7 @@
     },
     "HKS 8 Z": {
       "name": "HKS 8 Z",
-      "code": "8Z",
+      "code": "08Z",
       "components": [
         64.31372549019608,
         45,

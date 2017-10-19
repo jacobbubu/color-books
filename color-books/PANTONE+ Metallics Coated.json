@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "title": "PANTONE® metallic coated",
-  "description": "Copyright© Pantone, Inc., 2001",
+  "title": "4BCF90BC-6EB5-438F-B256-2DDDAB419E3B.acb",
+  "description": "Copyright© X-Rite, 2014",
   "prefix": "PANTONE ",
-  "suffix": " C",
+  "suffix": "",
   "colorCount": 301,
   "pageSize": 7,
   "colorSpace": "LAB",
@@ -12,2711 +12,2711 @@
   "records": {
     "PANTONE 871 C": {
       "name": "PANTONE 871 C",
-      "code": "871MC",
+      "code": "0",
       "components": [
-        50.196078431372555,
-        2,
-        24
+        50.58823529411765,
+        3,
+        26
       ]
     },
     "PANTONE 872 C": {
       "name": "PANTONE 872 C",
-      "code": "872MC",
+      "code": "1",
       "components": [
-        50.196078431372555,
-        6,
-        26
+        49.80392156862745,
+        5,
+        25
       ]
     },
     "PANTONE 873 C": {
       "name": "PANTONE 873 C",
-      "code": "873MC",
+      "code": "2",
       "components": [
-        48.62745098039216,
-        8,
+        49.411764705882355,
+        7,
         24
       ]
     },
     "PANTONE 874 C": {
       "name": "PANTONE 874 C",
-      "code": "874MC",
+      "code": "3",
       "components": [
-        49.01960784313726,
+        47.84313725490196,
         8,
-        24
+        22
       ]
     },
     "PANTONE 875 C": {
       "name": "PANTONE 875 C",
-      "code": "875MC",
+      "code": "4",
       "components": [
-        49.01960784313726,
+        47.84313725490196,
         11,
-        22
+        19
       ]
     },
     "PANTONE 876 C": {
       "name": "PANTONE 876 C",
-      "code": "876MC",
+      "code": "5",
       "components": [
-        49.01960784313726,
-        16,
-        24
+        47.05882352941177,
+        15,
+        21
       ]
     },
     "PANTONE 877 C": {
       "name": "PANTONE 877 C",
-      "code": "877MC",
+      "code": "6",
       "components": [
         59.6078431372549,
         -1,
-        -1
+        -2
       ]
     },
     "PANTONE 8001 C": {
       "name": "PANTONE 8001 C",
-      "code": "8001MC",
+      "code": "7",
       "components": [
-        58.43137254901961,
+        57.64705882352941,
         0,
         1
       ]
     },
     "PANTONE 8002 C": {
       "name": "PANTONE 8002 C",
-      "code": "8002MC",
+      "code": "8",
       "components": [
-        56.078431372549026,
-        2,
-        6
+        55.68627450980392,
+        1,
+        5
       ]
     },
     "PANTONE 8003 C": {
       "name": "PANTONE 8003 C",
-      "code": "8003MC",
+      "code": "9",
       "components": [
-        53.72549019607843,
-        3,
-        9
+        54.117647058823536,
+        2,
+        7
       ]
     },
     "PANTONE 8004 C": {
       "name": "PANTONE 8004 C",
-      "code": "8004MC",
+      "code": "10",
       "components": [
         52.156862745098046,
-        5,
-        13
+        4,
+        11
       ]
     },
     "PANTONE 8005 C": {
       "name": "PANTONE 8005 C",
-      "code": "8005MC",
+      "code": "11",
       "components": [
-        50.58823529411765,
+        49.411764705882355,
         6,
-        18
+        16
       ]
     },
     "PANTONE 8006 C": {
       "name": "PANTONE 8006 C",
-      "code": "8006MC",
+      "code": "12",
       "components": [
         49.411764705882355,
         7,
-        20
+        18
       ]
     },
     "PANTONE 8020 C": {
       "name": "PANTONE 8020 C",
-      "code": "8020MC",
+      "code": "13",
       "components": [
-        56.078431372549026,
-        7,
+        58.03921568627452,
+        5,
         10
       ]
     },
     "PANTONE 8021 C": {
       "name": "PANTONE 8021 C",
-      "code": "8021MC",
+      "code": "14",
       "components": [
-        54.117647058823536,
-        11,
+        56.47058823529412,
+        10,
         14
       ]
     },
     "PANTONE 8022 C": {
       "name": "PANTONE 8022 C",
-      "code": "8022MC",
+      "code": "15",
       "components": [
-        52.54901960784314,
-        17,
-        21
+        53.72549019607843,
+        19,
+        25
       ]
     },
     "PANTONE 8023 C": {
       "name": "PANTONE 8023 C",
-      "code": "8023MC",
+      "code": "16",
       "components": [
-        49.80392156862745,
-        23,
-        26
+        50.196078431372555,
+        26,
+        32
       ]
     },
     "PANTONE 8024 C": {
       "name": "PANTONE 8024 C",
-      "code": "8024MC",
+      "code": "17",
       "components": [
-        47.84313725490196,
-        30,
-        36
+        48.62745098039216,
+        32,
+        41
       ]
     },
     "PANTONE 8025 C": {
       "name": "PANTONE 8025 C",
-      "code": "8025MC",
+      "code": "18",
       "components": [
-        47.05882352941177,
-        34,
-        42
+        45.88235294117647,
+        35,
+        43
       ]
     },
     "PANTONE 8040 C": {
       "name": "PANTONE 8040 C",
-      "code": "8040MC",
+      "code": "19",
       "components": [
-        57.64705882352941,
-        3,
+        60.00000000000001,
+        1,
         2
       ]
     },
     "PANTONE 8041 C": {
       "name": "PANTONE 8041 C",
-      "code": "8041MC",
+      "code": "20",
       "components": [
-        56.47058823529412,
-        9,
-        7
+        56.86274509803922,
+        8,
+        8
       ]
     },
     "PANTONE 8042 C": {
       "name": "PANTONE 8042 C",
-      "code": "8042MC",
+      "code": "21",
       "components": [
-        54.50980392156863,
+        54.90196078431373,
         13,
         11
       ]
     },
     "PANTONE 8043 C": {
       "name": "PANTONE 8043 C",
-      "code": "8043MC",
+      "code": "22",
       "components": [
-        52.94117647058824,
-        20,
-        16
+        52.54901960784314,
+        21,
+        18
       ]
     },
     "PANTONE 8044 C": {
       "name": "PANTONE 8044 C",
-      "code": "8044MC",
+      "code": "23",
       "components": [
         48.62745098039216,
-        24,
-        23
+        28,
+        26
       ]
     },
     "PANTONE 8045 C": {
       "name": "PANTONE 8045 C",
-      "code": "8045MC",
+      "code": "24",
       "components": [
-        47.84313725490196,
-        28,
-        28
+        46.274509803921575,
+        30,
+        29
       ]
     },
     "PANTONE 8060 C": {
       "name": "PANTONE 8060 C",
-      "code": "8060MC",
+      "code": "25",
       "components": [
-        56.86274509803922,
-        10,
-        -2
+        57.64705882352941,
+        8,
+        -1
       ]
     },
     "PANTONE 8061 C": {
       "name": "PANTONE 8061 C",
-      "code": "8061MC",
+      "code": "26",
       "components": [
-        55.294117647058826,
-        16,
-        -1
+        54.50980392156863,
+        15,
+        0
       ]
     },
     "PANTONE 8062 C": {
       "name": "PANTONE 8062 C",
-      "code": "8062MC",
+      "code": "27",
       "components": [
-        53.333333333333336,
+        51.76470588235294,
         22,
-        1
+        2
       ]
     },
     "PANTONE 8063 C": {
       "name": "PANTONE 8063 C",
-      "code": "8063MC",
+      "code": "28",
       "components": [
-        51.372549019607845,
-        29,
-        4
+        49.01960784313726,
+        30,
+        6
       ]
     },
     "PANTONE 8064 C": {
       "name": "PANTONE 8064 C",
-      "code": "8064MC",
+      "code": "29",
       "components": [
-        50.196078431372555,
-        27,
-        9
+        47.450980392156865,
+        30,
+        10
       ]
     },
     "PANTONE 8065 C": {
       "name": "PANTONE 8065 C",
-      "code": "8065MC",
+      "code": "30",
       "components": [
-        47.84313725490196,
-        29,
-        13
+        45.09803921568628,
+        32,
+        14
       ]
     },
     "PANTONE 8080 C": {
       "name": "PANTONE 8080 C",
-      "code": "8080MC",
+      "code": "31",
       "components": [
-        56.47058823529412,
-        9,
-        -7
+        58.43137254901961,
+        6,
+        -5
       ]
     },
     "PANTONE 8081 C": {
       "name": "PANTONE 8081 C",
-      "code": "8081MC",
+      "code": "32",
       "components": [
-        50.98039215686275,
-        24,
-        -12
+        52.54901960784314,
+        20,
+        -10
       ]
     },
     "PANTONE 8082 C": {
       "name": "PANTONE 8082 C",
-      "code": "8082MC",
+      "code": "33",
       "components": [
-        48.235294117647065,
-        31,
-        -14
+        49.411764705882355,
+        28,
+        -12
       ]
     },
     "PANTONE 8083 C": {
       "name": "PANTONE 8083 C",
-      "code": "8083MC",
+      "code": "34",
       "components": [
-        45.09803921568628,
-        38,
+        45.88235294117647,
+        39,
         -14
       ]
     },
     "PANTONE 8084 C": {
       "name": "PANTONE 8084 C",
-      "code": "8084MC",
+      "code": "35",
       "components": [
-        43.529411764705884,
-        46,
-        -9
+        42.352941176470594,
+        48,
+        -8
       ]
     },
     "PANTONE 8085 C": {
       "name": "PANTONE 8085 C",
-      "code": "8085MC",
+      "code": "36",
       "components": [
-        41.1764705882353,
-        49,
-        -3
+        39.6078431372549,
+        51,
+        -2
       ]
     },
     "PANTONE 8100 C": {
       "name": "PANTONE 8100 C",
-      "code": "8100MC",
+      "code": "37",
       "components": [
-        52.94117647058824,
-        15,
-        -13
+        55.294117647058826,
+        11,
+        -10
       ]
     },
     "PANTONE 8101 C": {
       "name": "PANTONE 8101 C",
-      "code": "8101MC",
+      "code": "38",
       "components": [
-        49.80392156862745,
-        21,
-        -16
+        50.98039215686275,
+        20,
+        -15
       ]
     },
     "PANTONE 8102 C": {
       "name": "PANTONE 8102 C",
-      "code": "8102MC",
+      "code": "39",
       "components": [
-        46.274509803921575,
-        29,
-        -19
+        47.450980392156865,
+        27,
+        -18
       ]
     },
     "PANTONE 8103 C": {
       "name": "PANTONE 8103 C",
-      "code": "8103MC",
+      "code": "40",
       "components": [
         43.13725490196079,
-        36,
+        37,
         -22
       ]
     },
     "PANTONE 8104 C": {
       "name": "PANTONE 8104 C",
-      "code": "8104MC",
+      "code": "41",
       "components": [
-        39.21568627450981,
-        42,
-        -17
+        40,
+        45,
+        -18
       ]
     },
     "PANTONE 8105 C": {
       "name": "PANTONE 8105 C",
-      "code": "8105MC",
+      "code": "42",
       "components": [
-        37.254901960784316,
-        45,
+        36.07843137254902,
+        47,
         -12
       ]
     },
     "PANTONE 8120 C": {
       "name": "PANTONE 8120 C",
-      "code": "8120MC",
+      "code": "43",
       "components": [
-        56.078431372549026,
-        7,
-        -10
+        57.64705882352941,
+        5,
+        -8
       ]
     },
     "PANTONE 8121 C": {
       "name": "PANTONE 8121 C",
-      "code": "8121MC",
+      "code": "44",
       "components": [
-        52.156862745098046,
-        13,
-        -14
+        54.50980392156863,
+        10,
+        -12
       ]
     },
     "PANTONE 8122 C": {
       "name": "PANTONE 8122 C",
-      "code": "8122MC",
+      "code": "45",
       "components": [
-        49.01960784313726,
-        19,
-        -18
+        49.411764705882355,
+        18,
+        -17
       ]
     },
     "PANTONE 8123 C": {
       "name": "PANTONE 8123 C",
-      "code": "8123MC",
+      "code": "46",
       "components": [
-        45.88235294117647,
-        27,
-        -23
+        45.490196078431374,
+        28,
+        -24
       ]
     },
     "PANTONE 8124 C": {
       "name": "PANTONE 8124 C",
-      "code": "8124MC",
+      "code": "47",
       "components": [
-        42.352941176470594,
-        33,
+        41.96078431372549,
+        34,
         -19
       ]
     },
     "PANTONE 8125 C": {
       "name": "PANTONE 8125 C",
-      "code": "8125MC",
+      "code": "48",
       "components": [
-        40,
-        35,
-        -16
+        39.21568627450981,
+        34,
+        -15
       ]
     },
     "PANTONE 8140 C": {
       "name": "PANTONE 8140 C",
-      "code": "8140MC",
+      "code": "49",
       "components": [
-        52.156862745098046,
-        10,
-        -16
+        53.72549019607843,
+        8,
+        -13
       ]
     },
     "PANTONE 8141 C": {
       "name": "PANTONE 8141 C",
-      "code": "8141MC",
+      "code": "50",
       "components": [
-        48.235294117647065,
-        15,
-        -22
+        49.80392156862745,
+        12,
+        -19
       ]
     },
     "PANTONE 8142 C": {
       "name": "PANTONE 8142 C",
-      "code": "8142MC",
+      "code": "51",
       "components": [
         44.70588235294118,
-        20,
+        19,
         -27
       ]
     },
     "PANTONE 8143 C": {
       "name": "PANTONE 8143 C",
-      "code": "8143MC",
+      "code": "52",
       "components": [
-        40,
+        39.6078431372549,
         25,
         -33
       ]
     },
     "PANTONE 8144 C": {
       "name": "PANTONE 8144 C",
-      "code": "8144MC",
+      "code": "53",
       "components": [
-        39.21568627450981,
+        39.6078431372549,
         23,
         -23
       ]
     },
     "PANTONE 8145 C": {
       "name": "PANTONE 8145 C",
-      "code": "8145MC",
+      "code": "54",
       "components": [
-        37.64705882352941,
+        36.07843137254902,
         24,
         -20
       ]
     },
     "PANTONE 8160 C": {
       "name": "PANTONE 8160 C",
-      "code": "8160MC",
+      "code": "55",
       "components": [
-        55.68627450980392,
-        2,
-        -9
+        58.03921568627452,
+        1,
+        -8
       ]
     },
     "PANTONE 8161 C": {
       "name": "PANTONE 8161 C",
-      "code": "8161MC",
+      "code": "56",
       "components": [
-        51.76470588235294,
-        5,
-        -16
+        53.72549019607843,
+        4,
+        -14
       ]
     },
     "PANTONE 8162 C": {
       "name": "PANTONE 8162 C",
-      "code": "8162MC",
+      "code": "57",
       "components": [
-        43.529411764705884,
-        12,
+        44.313725490196084,
+        11,
         -29
       ]
     },
     "PANTONE 8163 C": {
       "name": "PANTONE 8163 C",
-      "code": "8163MC",
+      "code": "58",
       "components": [
-        38.82352941176471,
-        16,
-        -37
+        39.21568627450981,
+        17,
+        -38
       ]
     },
     "PANTONE 8164 C": {
       "name": "PANTONE 8164 C",
-      "code": "8164MC",
+      "code": "59",
       "components": [
-        35.294117647058826,
-        20,
+        36.07843137254902,
+        19,
         -37
       ]
     },
     "PANTONE 8165 C": {
       "name": "PANTONE 8165 C",
-      "code": "8165MC",
+      "code": "60",
       "components": [
-        31.372549019607845,
+        32.54901960784314,
         21,
-        -35
+        -37
       ]
     },
     "PANTONE 8180 C": {
       "name": "PANTONE 8180 C",
-      "code": "8180MC",
+      "code": "61",
       "components": [
-        55.68627450980392,
-        -2,
-        -10
+        59.21568627450981,
+        -3,
+        -7
       ]
     },
     "PANTONE 8181 C": {
       "name": "PANTONE 8181 C",
-      "code": "8181MC",
+      "code": "62",
       "components": [
-        49.01960784313726,
-        -2,
-        -23
+        52.156862745098046,
+        -3,
+        -19
       ]
     },
     "PANTONE 8182 C": {
       "name": "PANTONE 8182 C",
-      "code": "8182MC",
+      "code": "63",
       "components": [
-        45.490196078431374,
-        -1,
-        -31
+        46.66666666666667,
+        -2,
+        -29
       ]
     },
     "PANTONE 8183 C": {
       "name": "PANTONE 8183 C",
-      "code": "8183MC",
+      "code": "64",
       "components": [
-        40.7843137254902,
-        1,
+        41.1764705882353,
+        0,
         -39
       ]
     },
     "PANTONE 8184 C": {
       "name": "PANTONE 8184 C",
-      "code": "8184MC",
+      "code": "65",
       "components": [
-        36.86274509803922,
-        1,
-        -38
+        35.68627450980392,
+        0,
+        -39
       ]
     },
     "PANTONE 8185 C": {
       "name": "PANTONE 8185 C",
-      "code": "8185MC",
+      "code": "66",
       "components": [
-        34.11764705882353,
-        2,
-        -38
+        32.15686274509804,
+        0,
+        -36
       ]
     },
     "PANTONE 8200 C": {
       "name": "PANTONE 8200 C",
-      "code": "8200MC",
+      "code": "67",
       "components": [
-        54.90196078431373,
+        57.64705882352941,
         -7,
-        -13
+        -10
       ]
     },
     "PANTONE 8201 C": {
       "name": "PANTONE 8201 C",
-      "code": "8201MC",
+      "code": "68",
       "components": [
-        52.54901960784314,
+        54.50980392156863,
         -9,
-        -18
+        -15
       ]
     },
     "PANTONE 8202 C": {
       "name": "PANTONE 8202 C",
-      "code": "8202MC",
+      "code": "69",
       "components": [
-        49.80392156862745,
-        -10,
-        -24
+        51.372549019607845,
+        -12,
+        -22
       ]
     },
     "PANTONE 8203 C": {
       "name": "PANTONE 8203 C",
-      "code": "8203MC",
+      "code": "70",
       "components": [
-        46.66666666666667,
-        -12,
-        -31
+        47.05882352941177,
+        -15,
+        -30
       ]
     },
     "PANTONE 8204 C": {
       "name": "PANTONE 8204 C",
-      "code": "8204MC",
+      "code": "71",
       "components": [
-        46.274509803921575,
-        -13,
+        45.88235294117647,
+        -15,
         -21
       ]
     },
     "PANTONE 8205 C": {
       "name": "PANTONE 8205 C",
-      "code": "8205MC",
+      "code": "72",
       "components": [
-        43.529411764705884,
-        -13,
+        43.13725490196079,
+        -15,
         -18
       ]
     },
     "PANTONE 8220 C": {
       "name": "PANTONE 8220 C",
-      "code": "8220MC",
+      "code": "73",
       "components": [
-        56.078431372549026,
-        -9,
-        -12
+        57.254901960784316,
+        -8,
+        -10
       ]
     },
     "PANTONE 8221 C": {
       "name": "PANTONE 8221 C",
-      "code": "8221MC",
+      "code": "74",
       "components": [
-        54.50980392156863,
+        55.294117647058826,
         -12,
-        -16
+        -15
       ]
     },
     "PANTONE 8222 C": {
       "name": "PANTONE 8222 C",
-      "code": "8222MC",
+      "code": "75",
       "components": [
-        52.54901960784314,
-        -15,
+        53.333333333333336,
+        -17,
         -21
       ]
     },
     "PANTONE 8223 C": {
       "name": "PANTONE 8223 C",
-      "code": "8223MC",
+      "code": "76",
       "components": [
-        49.411764705882355,
-        -18,
+        49.80392156862745,
+        -21,
         -26
       ]
     },
     "PANTONE 8224 C": {
       "name": "PANTONE 8224 C",
-      "code": "8224MC",
+      "code": "77",
       "components": [
-        46.274509803921575,
-        -21,
+        44.313725490196084,
+        -25,
         -23
       ]
     },
     "PANTONE 8225 C": {
       "name": "PANTONE 8225 C",
-      "code": "8225MC",
+      "code": "78",
       "components": [
-        43.13725490196079,
-        -23,
-        -21
+        40.7843137254902,
+        -24,
+        -20
       ]
     },
     "PANTONE 8240 C": {
       "name": "PANTONE 8240 C",
-      "code": "8240MC",
+      "code": "79",
       "components": [
-        58.82352941176471,
+        59.6078431372549,
         -5,
-        -6
+        -5
       ]
     },
     "PANTONE 8241 C": {
       "name": "PANTONE 8241 C",
-      "code": "8241MC",
+      "code": "80",
       "components": [
-        56.078431372549026,
+        55.68627450980392,
         -13,
-        -13
+        -11
       ]
     },
     "PANTONE 8242 C": {
       "name": "PANTONE 8242 C",
-      "code": "8242MC",
+      "code": "81",
       "components": [
-        53.72549019607843,
-        -18,
-        -16
+        54.117647058823536,
+        -19,
+        -15
       ]
     },
     "PANTONE 8243 C": {
       "name": "PANTONE 8243 C",
-      "code": "8243MC",
+      "code": "82",
       "components": [
-        52.156862745098046,
-        -23,
-        -21
+        51.372549019607845,
+        -24,
+        -19
       ]
     },
     "PANTONE 8244 C": {
       "name": "PANTONE 8244 C",
-      "code": "8244MC",
+      "code": "83",
       "components": [
-        49.01960784313726,
-        -19,
+        48.62745098039216,
+        -22,
         -11
       ]
     },
     "PANTONE 8245 C": {
       "name": "PANTONE 8245 C",
-      "code": "8245MC",
+      "code": "84",
       "components": [
         46.274509803921575,
-        -20,
-        -8
+        -23,
+        -9
       ]
     },
     "PANTONE 8260 C": {
       "name": "PANTONE 8260 C",
-      "code": "8260MC",
+      "code": "85",
       "components": [
-        57.254901960784316,
+        57.64705882352941,
         -9,
-        -9
+        -5
       ]
     },
     "PANTONE 8261 C": {
       "name": "PANTONE 8261 C",
-      "code": "8261MC",
+      "code": "86",
       "components": [
-        54.90196078431373,
+        56.078431372549026,
         -13,
-        -10
+        -7
       ]
     },
     "PANTONE 8262 C": {
       "name": "PANTONE 8262 C",
-      "code": "8262MC",
+      "code": "87",
       "components": [
-        52.54901960784314,
-        -18,
-        -13
+        52.94117647058824,
+        -19,
+        -9
       ]
     },
     "PANTONE 8263 C": {
       "name": "PANTONE 8263 C",
-      "code": "8263MC",
+      "code": "88",
       "components": [
-        50.58823529411765,
-        -23,
-        -15
+        49.80392156862745,
+        -26,
+        -10
       ]
     },
     "PANTONE 8264 C": {
       "name": "PANTONE 8264 C",
-      "code": "8264MC",
+      "code": "89",
       "components": [
         45.490196078431374,
-        -25,
-        -11
+        -27,
+        -6
       ]
     },
     "PANTONE 8265 C": {
       "name": "PANTONE 8265 C",
-      "code": "8265MC",
+      "code": "90",
       "components": [
-        41.1764705882353,
-        -25,
-        -6
+        40.7843137254902,
+        -28,
+        -3
       ]
     },
     "PANTONE 8280 C": {
       "name": "PANTONE 8280 C",
-      "code": "8280MC",
+      "code": "91",
       "components": [
         60.00000000000001,
-        -10,
-        -4
+        -9,
+        -3
       ]
     },
     "PANTONE 8281 C": {
       "name": "PANTONE 8281 C",
-      "code": "8281MC",
+      "code": "92",
       "components": [
-        59.6078431372549,
+        58.43137254901961,
         -15,
         -4
       ]
     },
     "PANTONE 8282 C": {
       "name": "PANTONE 8282 C",
-      "code": "8282MC",
+      "code": "93",
       "components": [
-        59.21568627450981,
+        57.254901960784316,
         -21,
         -4
       ]
     },
     "PANTONE 8283 C": {
       "name": "PANTONE 8283 C",
-      "code": "8283MC",
+      "code": "94",
       "components": [
-        58.82352941176471,
-        -29,
-        -4
+        56.47058823529412,
+        -30,
+        -5
       ]
     },
     "PANTONE 8284 C": {
       "name": "PANTONE 8284 C",
-      "code": "8284MC",
+      "code": "95",
       "components": [
-        56.47058823529412,
+        54.117647058823536,
         -24,
-        2
+        1
       ]
     },
     "PANTONE 8285 C": {
       "name": "PANTONE 8285 C",
-      "code": "8285MC",
+      "code": "96",
       "components": [
-        54.117647058823536,
-        -24,
+        52.54901960784314,
+        -27,
         5
       ]
     },
     "PANTONE 8300 C": {
       "name": "PANTONE 8300 C",
-      "code": "8300MC",
+      "code": "97",
       "components": [
         60.00000000000001,
         -9,
-        1
+        2
       ]
     },
     "PANTONE 8301 C": {
       "name": "PANTONE 8301 C",
-      "code": "8301MC",
+      "code": "98",
       "components": [
-        60.392156862745104,
+        58.82352941176471,
         -15,
-        3
+        5
       ]
     },
     "PANTONE 8302 C": {
       "name": "PANTONE 8302 C",
-      "code": "8302MC",
+      "code": "99",
       "components": [
-        59.21568627450981,
-        -21,
-        6
+        58.03921568627452,
+        -22,
+        8
       ]
     },
     "PANTONE 8303 C": {
       "name": "PANTONE 8303 C",
-      "code": "8303MC",
+      "code": "100",
       "components": [
-        55.68627450980392,
-        -28,
-        10
+        56.47058823529412,
+        -30,
+        12
       ]
     },
     "PANTONE 8304 C": {
       "name": "PANTONE 8304 C",
-      "code": "8304MC",
+      "code": "101",
       "components": [
         54.117647058823536,
-        -22,
-        14
+        -24,
+        15
       ]
     },
     "PANTONE 8305 C": {
       "name": "PANTONE 8305 C",
-      "code": "8305MC",
+      "code": "102",
       "components": [
-        52.156862745098046,
-        -21,
-        17
+        51.372549019607845,
+        -24,
+        18
       ]
     },
     "PANTONE 8320 C": {
       "name": "PANTONE 8320 C",
-      "code": "8320MC",
+      "code": "103",
       "components": [
-        59.6078431372549,
-        -4,
-        2
+        60.7843137254902,
+        -5,
+        3
       ]
     },
     "PANTONE 8321 C": {
       "name": "PANTONE 8321 C",
-      "code": "8321MC",
+      "code": "104",
       "components": [
         59.6078431372549,
-        -12,
-        12
+        -13,
+        13
       ]
     },
     "PANTONE 8322 C": {
       "name": "PANTONE 8322 C",
-      "code": "8322MC",
+      "code": "105",
       "components": [
         59.21568627450981,
         -18,
-        18
+        19
       ]
     },
     "PANTONE 8323 C": {
       "name": "PANTONE 8323 C",
-      "code": "8323MC",
+      "code": "106",
       "components": [
-        56.47058823529412,
-        -23,
-        22
+        58.43137254901961,
+        -26,
+        27
       ]
     },
     "PANTONE 8324 C": {
       "name": "PANTONE 8324 C",
-      "code": "8324MC",
+      "code": "107",
       "components": [
-        56.86274509803922,
-        -19,
-        25
+        58.03921568627452,
+        -20,
+        28
       ]
     },
     "PANTONE 8325 C": {
       "name": "PANTONE 8325 C",
-      "code": "8325MC",
+      "code": "108",
       "components": [
-        54.90196078431373,
-        -18,
-        29
+        54.50980392156863,
+        -19,
+        31
       ]
     },
     "PANTONE 8340 C": {
       "name": "PANTONE 8340 C",
-      "code": "8340MC",
+      "code": "109",
       "components": [
-        60.392156862745104,
+        60.7843137254902,
         -6,
         12
       ]
     },
     "PANTONE 8341 C": {
       "name": "PANTONE 8341 C",
-      "code": "8341MC",
+      "code": "110",
       "components": [
-        60.00000000000001,
+        60.7843137254902,
         -9,
-        18
+        19
       ]
     },
     "PANTONE 8342 C": {
       "name": "PANTONE 8342 C",
-      "code": "8342MC",
+      "code": "111",
       "components": [
-        60.392156862745104,
-        -12,
-        26
+        61.568627450980394,
+        -13,
+        28
       ]
     },
     "PANTONE 8343 C": {
       "name": "PANTONE 8343 C",
-      "code": "8343MC",
+      "code": "112",
       "components": [
-        60.00000000000001,
-        -16,
-        34
+        60.7843137254902,
+        -17,
+        37
       ]
     },
     "PANTONE 8344 C": {
       "name": "PANTONE 8344 C",
-      "code": "8344MC",
+      "code": "113",
       "components": [
-        57.64705882352941,
-        -15,
-        41
+        58.82352941176471,
+        -17,
+        46
       ]
     },
     "PANTONE 8345 C": {
       "name": "PANTONE 8345 C",
-      "code": "8345MC",
+      "code": "114",
       "components": [
-        56.078431372549026,
-        -14,
-        47
+        56.47058823529412,
+        -15,
+        50
       ]
     },
     "PANTONE 8360 C": {
       "name": "PANTONE 8360 C",
-      "code": "8360MC",
+      "code": "115",
       "components": [
-        60.7843137254902,
-        -4,
+        61.1764705882353,
+        -5,
         15
       ]
     },
     "PANTONE 8361 C": {
       "name": "PANTONE 8361 C",
-      "code": "8361MC",
+      "code": "116",
       "components": [
-        59.6078431372549,
-        -5,
-        21
+        61.568627450980394,
+        -6,
+        24
       ]
     },
     "PANTONE 8362 C": {
       "name": "PANTONE 8362 C",
-      "code": "8362MC",
+      "code": "117",
       "components": [
-        60.7843137254902,
-        -5,
-        30
+        62.352941176470594,
+        -6,
+        34
       ]
     },
     "PANTONE 8363 C": {
       "name": "PANTONE 8363 C",
-      "code": "8363MC",
+      "code": "118",
       "components": [
         63.529411764705884,
-        -5,
-        42
+        -6,
+        47
       ]
     },
     "PANTONE 8364 C": {
       "name": "PANTONE 8364 C",
-      "code": "8364MC",
+      "code": "119",
       "components": [
-        60.392156862745104,
-        -1,
-        41
+        60.7843137254902,
+        -2,
+        44
       ]
     },
     "PANTONE 8365 C": {
       "name": "PANTONE 8365 C",
-      "code": "8365MC",
+      "code": "120",
       "components": [
-        60.00000000000001,
-        1,
-        45
+        59.6078431372549,
+        0,
+        48
       ]
     },
     "PANTONE 8380 C": {
       "name": "PANTONE 8380 C",
-      "code": "8380MC",
+      "code": "121",
       "components": [
-        59.6078431372549,
-        -1,
+        60.392156862745104,
+        -2,
         6
       ]
     },
     "PANTONE 8381 C": {
       "name": "PANTONE 8381 C",
-      "code": "8381MC",
+      "code": "122",
       "components": [
-        59.6078431372549,
+        60.392156862745104,
         -1,
         14
       ]
     },
     "PANTONE 8382 C": {
       "name": "PANTONE 8382 C",
-      "code": "8382MC",
+      "code": "123",
       "components": [
-        59.6078431372549,
-        1,
+        60.00000000000001,
+        0,
         22
       ]
     },
     "PANTONE 8383 C": {
       "name": "PANTONE 8383 C",
-      "code": "8383MC",
+      "code": "124",
       "components": [
-        58.43137254901961,
+        59.6078431372549,
         3,
         29
       ]
     },
     "PANTONE 8384 C": {
       "name": "PANTONE 8384 C",
-      "code": "8384MC",
+      "code": "125",
       "components": [
-        56.86274509803922,
+        57.254901960784316,
         8,
-        39
+        41
       ]
     },
     "PANTONE 8385 C": {
       "name": "PANTONE 8385 C",
-      "code": "8385MC",
+      "code": "126",
       "components": [
-        55.294117647058826,
-        11,
-        43
+        55.68627450980392,
+        10,
+        45
       ]
     },
     "PANTONE 8400 C": {
       "name": "PANTONE 8400 C",
-      "code": "8400MC",
+      "code": "127",
       "components": [
-        54.117647058823536,
-        0,
+        56.078431372549026,
+        -1,
         -1
       ]
     },
     "PANTONE 8401 C": {
       "name": "PANTONE 8401 C",
-      "code": "8401MC",
+      "code": "128",
       "components": [
-        49.411764705882355,
+        52.94117647058824,
         0,
         0
       ]
     },
     "PANTONE 8402 C": {
       "name": "PANTONE 8402 C",
-      "code": "8402MC",
+      "code": "129",
       "components": [
-        43.92156862745098,
+        46.274509803921575,
         0,
-        1
+        0
       ]
     },
     "PANTONE 8403 C": {
       "name": "PANTONE 8403 C",
-      "code": "8403MC",
+      "code": "130",
       "components": [
-        38.82352941176471,
+        40,
         0,
         1
       ]
     },
     "PANTONE 8404 C": {
       "name": "PANTONE 8404 C",
-      "code": "8404MC",
+      "code": "131",
       "components": [
-        34.50980392156863,
-        2,
+        33.333333333333336,
+        1,
         4
       ]
     },
     "PANTONE 8405 C": {
       "name": "PANTONE 8405 C",
-      "code": "8405MC",
+      "code": "132",
       "components": [
-        31.764705882352942,
-        3,
-        6
+        29.411764705882355,
+        2,
+        5
       ]
     },
     "PANTONE 8420 C": {
       "name": "PANTONE 8420 C",
-      "code": "8420MC",
+      "code": "133",
       "components": [
-        58.43137254901961,
-        3,
+        58.82352941176471,
+        1,
         0
       ]
     },
     "PANTONE 8421 C": {
       "name": "PANTONE 8421 C",
-      "code": "8421MC",
+      "code": "134",
       "components": [
-        50.98039215686275,
-        2,
+        53.333333333333336,
+        0,
         0
       ]
     },
     "PANTONE 8422 C": {
       "name": "PANTONE 8422 C",
-      "code": "8422MC",
+      "code": "135",
       "components": [
-        46.66666666666667,
-        3,
-        1
+        47.84313725490196,
+        1,
+        0
       ]
     },
     "PANTONE 8423 C": {
       "name": "PANTONE 8423 C",
-      "code": "8423MC",
+      "code": "136",
       "components": [
-        41.568627450980394,
+        41.1764705882353,
         3,
         1
       ]
     },
     "PANTONE 8424 C": {
       "name": "PANTONE 8424 C",
-      "code": "8424MC",
+      "code": "137",
       "components": [
-        37.254901960784316,
+        36.86274509803922,
         5,
         5
       ]
     },
     "PANTONE 8425 C": {
       "name": "PANTONE 8425 C",
-      "code": "8425MC",
+      "code": "138",
       "components": [
-        35.294117647058826,
+        34.11764705882353,
         6,
-        7
+        6
       ]
     },
     "PANTONE 8440 C": {
       "name": "PANTONE 8440 C",
-      "code": "8440MC",
+      "code": "139",
       "components": [
-        57.254901960784316,
-        10,
+        56.86274509803922,
+        8,
         2
       ]
     },
     "PANTONE 8441 C": {
       "name": "PANTONE 8441 C",
-      "code": "8441MC",
+      "code": "140",
       "components": [
         55.294117647058826,
         15,
-        5
+        6
       ]
     },
     "PANTONE 8442 C": {
       "name": "PANTONE 8442 C",
-      "code": "8442MC",
+      "code": "141",
       "components": [
-        52.94117647058824,
-        21,
-        8
+        52.54901960784314,
+        22,
+        9
       ]
     },
     "PANTONE 8443 C": {
       "name": "PANTONE 8443 C",
-      "code": "8443MC",
+      "code": "142",
       "components": [
-        51.76470588235294,
-        28,
-        13
+        49.80392156862745,
+        31,
+        15
       ]
     },
     "PANTONE 8444 C": {
       "name": "PANTONE 8444 C",
-      "code": "8444MC",
+      "code": "143",
       "components": [
-        49.01960784313726,
-        34,
-        21
+        47.450980392156865,
+        38,
+        23
       ]
     },
     "PANTONE 8445 C": {
       "name": "PANTONE 8445 C",
-      "code": "8445MC",
+      "code": "144",
       "components": [
-        47.450980392156865,
-        38,
-        28
+        45.09803921568628,
+        40,
+        27
       ]
     },
     "PANTONE 8460 C": {
       "name": "PANTONE 8460 C",
-      "code": "8460MC",
+      "code": "145",
       "components": [
-        55.68627450980392,
-        4,
-        -5
+        58.03921568627452,
+        2,
+        -3
       ]
     },
     "PANTONE 8461 C": {
       "name": "PANTONE 8461 C",
-      "code": "8461MC",
+      "code": "146",
       "components": [
-        51.76470588235294,
-        8,
-        -5
+        52.94117647058824,
+        6,
+        -4
       ]
     },
     "PANTONE 8462 C": {
       "name": "PANTONE 8462 C",
-      "code": "8462MC",
+      "code": "147",
       "components": [
-        47.450980392156865,
-        11,
-        -6
+        49.411764705882355,
+        8,
+        -4
       ]
     },
     "PANTONE 8463 C": {
       "name": "PANTONE 8463 C",
-      "code": "8463MC",
+      "code": "148",
       "components": [
-        42.74509803921569,
-        13,
+        44.313725490196084,
+        11,
         -5
       ]
     },
     "PANTONE 8464 C": {
       "name": "PANTONE 8464 C",
-      "code": "8464MC",
+      "code": "149",
       "components": [
-        39.21568627450981,
-        17,
-        -1
+        37.64705882352941,
+        18,
+        -2
       ]
     },
     "PANTONE 8465 C": {
       "name": "PANTONE 8465 C",
-      "code": "8465MC",
+      "code": "150",
       "components": [
-        37.254901960784316,
-        18,
+        35.68627450980392,
+        19,
         1
       ]
     },
     "PANTONE 8480 C": {
       "name": "PANTONE 8480 C",
-      "code": "8480MC",
+      "code": "151",
       "components": [
-        40.7843137254902,
-        -6,
-        -19
+        40,
+        -9,
+        -16
       ]
     },
     "PANTONE 8481 C": {
       "name": "PANTONE 8481 C",
-      "code": "8481MC",
+      "code": "152",
       "components": [
-        40,
-        -1,
-        -20
+        39.6078431372549,
+        -2,
+        -16
       ]
     },
     "PANTONE 8482 C": {
       "name": "PANTONE 8482 C",
-      "code": "8482MC",
+      "code": "153",
       "components": [
-        34.90196078431373,
-        -6,
+        34.11764705882353,
+        -8,
         -20
       ]
     },
     "PANTONE 8483 C": {
       "name": "PANTONE 8483 C",
-      "code": "8483MC",
+      "code": "154",
       "components": [
-        28.627450980392158,
-        -4,
-        -26
+        26.666666666666668,
+        -6,
+        -27
       ]
     },
     "PANTONE 8484 C": {
       "name": "PANTONE 8484 C",
-      "code": "8484MC",
+      "code": "155",
       "components": [
-        34.50980392156863,
-        -5,
+        32.94117647058824,
+        -7,
         -30
       ]
     },
     "PANTONE 8485 C": {
       "name": "PANTONE 8485 C",
-      "code": "8485MC",
+      "code": "156",
       "components": [
         37.254901960784316,
-        -5,
-        -31
+        -7,
+        -32
       ]
     },
     "PANTONE 8500 C": {
       "name": "PANTONE 8500 C",
-      "code": "8500MC",
+      "code": "157",
       "components": [
-        51.76470588235294,
-        -6,
+        52.54901960784314,
+        -7,
         -1
       ]
     },
     "PANTONE 8501 C": {
       "name": "PANTONE 8501 C",
-      "code": "8501MC",
+      "code": "158",
       "components": [
-        49.411764705882355,
-        -12,
-        0
+        47.05882352941177,
+        -14,
+        3
       ]
     },
     "PANTONE 8502 C": {
       "name": "PANTONE 8502 C",
-      "code": "8502MC",
+      "code": "159",
       "components": [
-        40.392156862745104,
-        -8,
+        38.82352941176471,
+        -11,
         -8
       ]
     },
     "PANTONE 8503 C": {
       "name": "PANTONE 8503 C",
-      "code": "8503MC",
+      "code": "160",
       "components": [
-        26.666666666666668,
-        -3,
-        -9
+        23.92156862745098,
+        -6,
+        -7
       ]
     },
     "PANTONE 8504 C": {
       "name": "PANTONE 8504 C",
-      "code": "8504MC",
+      "code": "161",
       "components": [
-        31.372549019607845,
-        -4,
+        30.98039215686275,
+        -8,
         -14
       ]
     },
     "PANTONE 8505 C": {
       "name": "PANTONE 8505 C",
-      "code": "8505MC",
+      "code": "162",
       "components": [
-        34.90196078431373,
-        -5,
-        -16
+        34.11764705882353,
+        -8,
+        -14
       ]
     },
     "PANTONE 8520 C": {
       "name": "PANTONE 8520 C",
-      "code": "8520MC",
+      "code": "163",
       "components": [
         49.01960784313726,
-        -2,
+        -3,
         14
       ]
     },
     "PANTONE 8521 C": {
       "name": "PANTONE 8521 C",
-      "code": "8521MC",
+      "code": "164",
       "components": [
-        36.86274509803922,
-        -3,
-        8
+        34.50980392156863,
+        -4,
+        9
       ]
     },
     "PANTONE 8522 C": {
       "name": "PANTONE 8522 C",
-      "code": "8522MC",
+      "code": "165",
       "components": [
-        32.54901960784314,
-        -5,
-        5
+        29.411764705882355,
+        -7,
+        4
       ]
     },
     "PANTONE 8523 C": {
       "name": "PANTONE 8523 C",
-      "code": "8523MC",
+      "code": "166",
       "components": [
-        26.27450980392157,
-        -6,
+        23.529411764705884,
+        -7,
         2
       ]
     },
     "PANTONE 8524 C": {
       "name": "PANTONE 8524 C",
-      "code": "8524MC",
+      "code": "167",
       "components": [
-        30.98039215686275,
-        -7,
-        -1
+        29.01960784313726,
+        -10,
+        -3
       ]
     },
     "PANTONE 8525 C": {
       "name": "PANTONE 8525 C",
-      "code": "8525MC",
+      "code": "168",
       "components": [
-        34.50980392156863,
-        -7,
-        -3
+        32.15686274509804,
+        -10,
+        -5
       ]
     },
     "PANTONE 8540 C": {
       "name": "PANTONE 8540 C",
-      "code": "8540MC",
+      "code": "169",
       "components": [
-        39.6078431372549,
-        25,
-        11
+        39.21568627450981,
+        27,
+        9
       ]
     },
     "PANTONE 8541 C": {
       "name": "PANTONE 8541 C",
-      "code": "8541MC",
+      "code": "170",
       "components": [
-        34.50980392156863,
-        19,
-        7
+        33.333333333333336,
+        21,
+        5
       ]
     },
     "PANTONE 8542 C": {
       "name": "PANTONE 8542 C",
-      "code": "8542MC",
+      "code": "171",
       "components": [
-        27.84313725490196,
-        23,
-        7
+        26.666666666666668,
+        25,
+        6
       ]
     },
     "PANTONE 8543 C": {
       "name": "PANTONE 8543 C",
-      "code": "8543MC",
+      "code": "172",
       "components": [
-        28.23529411764706,
-        23,
-        -2
+        26.27450980392157,
+        22,
+        -3
       ]
     },
     "PANTONE 8544 C": {
       "name": "PANTONE 8544 C",
-      "code": "8544MC",
+      "code": "173",
       "components": [
-        31.764705882352942,
-        20,
-        -5
+        29.80392156862745,
+        22,
+        -7
       ]
     },
     "PANTONE 8545 C": {
       "name": "PANTONE 8545 C",
-      "code": "8545MC",
+      "code": "174",
       "components": [
-        32.54901960784314,
-        16,
-        -5
+        30.58823529411765,
+        20,
+        -8
       ]
     },
     "PANTONE 8560 C": {
       "name": "PANTONE 8560 C",
-      "code": "8560MC",
+      "code": "175",
       "components": [
-        41.1764705882353,
-        17,
-        15
+        37.254901960784316,
+        19,
+        18
       ]
     },
     "PANTONE 8561 C": {
       "name": "PANTONE 8561 C",
-      "code": "8561MC",
+      "code": "176",
       "components": [
-        37.254901960784316,
-        21,
-        10
+        34.90196078431373,
+        23,
+        11
       ]
     },
     "PANTONE 8562 C": {
       "name": "PANTONE 8562 C",
-      "code": "8562MC",
+      "code": "177",
       "components": [
-        33.72549019607843,
-        23,
-        8
+        32.15686274509804,
+        25,
+        7
       ]
     },
     "PANTONE 8563 C": {
       "name": "PANTONE 8563 C",
-      "code": "8563MC",
+      "code": "178",
       "components": [
         34.11764705882353,
         20,
-        13
+        12
       ]
     },
     "PANTONE 8564 C": {
       "name": "PANTONE 8564 C",
-      "code": "8564MC",
+      "code": "179",
       "components": [
-        38.43137254901961,
-        18,
+        37.254901960784316,
+        19,
         8
       ]
     },
     "PANTONE 8565 C": {
       "name": "PANTONE 8565 C",
-      "code": "8565MC",
+      "code": "180",
       "components": [
-        40.392156862745104,
-        16,
+        37.64705882352941,
+        17,
         6
       ]
     },
     "PANTONE 8580 C": {
       "name": "PANTONE 8580 C",
-      "code": "8580MC",
+      "code": "181",
       "components": [
-        49.80392156862745,
-        12,
-        31
+        49.01960784313726,
+        13,
+        34
       ]
     },
     "PANTONE 8581 C": {
       "name": "PANTONE 8581 C",
-      "code": "8581MC",
+      "code": "182",
       "components": [
-        43.529411764705884,
-        13,
-        27
+        41.96078431372549,
+        14,
+        30
       ]
     },
     "PANTONE 8582 C": {
       "name": "PANTONE 8582 C",
-      "code": "8582MC",
+      "code": "183",
       "components": [
-        40.7843137254902,
-        14,
-        28
+        39.21568627450981,
+        15,
+        30
       ]
     },
     "PANTONE 8583 C": {
       "name": "PANTONE 8583 C",
-      "code": "8583MC",
+      "code": "184",
       "components": [
-        34.50980392156863,
-        15,
-        27
+        32.94117647058824,
+        16,
+        30
       ]
     },
     "PANTONE 8584 C": {
       "name": "PANTONE 8584 C",
-      "code": "8584MC",
+      "code": "185",
       "components": [
-        34.50980392156863,
-        13,
-        21
+        34.11764705882353,
+        14,
+        26
       ]
     },
     "PANTONE 8585 C": {
       "name": "PANTONE 8585 C",
-      "code": "8585MC",
+      "code": "186",
       "components": [
-        39.6078431372549,
+        36.86274509803922,
         12,
-        20
+        24
       ]
     },
     "PANTONE 8600 C": {
       "name": "PANTONE 8600 C",
-      "code": "8600MC",
+      "code": "187",
       "components": [
-        38.43137254901961,
+        36.86274509803922,
         2,
-        1
+        2
       ]
     },
     "PANTONE 8601 C": {
       "name": "PANTONE 8601 C",
-      "code": "8601MC",
+      "code": "188",
       "components": [
-        31.372549019607845,
-        4,
+        29.411764705882355,
+        3,
         2
       ]
     },
     "PANTONE 8602 C": {
       "name": "PANTONE 8602 C",
-      "code": "8602MC",
+      "code": "189",
       "components": [
-        27.058823529411768,
-        3,
+        24.705882352941178,
+        2,
         -3
       ]
     },
     "PANTONE 8603 C": {
       "name": "PANTONE 8603 C",
-      "code": "8603MC",
+      "code": "190",
       "components": [
-        21.96078431372549,
-        3,
-        -6
+        20,
+        1,
+        -7
       ]
     },
     "PANTONE 8604 C": {
       "name": "PANTONE 8604 C",
-      "code": "8604MC",
+      "code": "191",
       "components": [
-        26.27450980392157,
-        1,
-        -10
+        23.92156862745098,
+        0,
+        -11
       ]
     },
     "PANTONE 8605 C": {
       "name": "PANTONE 8605 C",
-      "code": "8605MC",
+      "code": "192",
       "components": [
-        30.58823529411765,
-        0,
+        27.84313725490196,
+        -1,
         -12
       ]
     },
     "PANTONE 8620 C": {
       "name": "PANTONE 8620 C",
-      "code": "8620MC",
+      "code": "193",
       "components": [
-        43.92156862745098,
-        7,
-        16
+        41.1764705882353,
+        8,
+        20
       ]
     },
     "PANTONE 8621 C": {
       "name": "PANTONE 8621 C",
-      "code": "8621MC",
+      "code": "194",
       "components": [
-        38.03921568627451,
-        6,
-        14
+        34.11764705882353,
+        7,
+        15
       ]
     },
     "PANTONE 8622 C": {
       "name": "PANTONE 8622 C",
-      "code": "8622MC",
+      "code": "195",
       "components": [
-        32.15686274509804,
-        6,
+        29.411764705882355,
+        5,
         12
       ]
     },
     "PANTONE 8623 C": {
       "name": "PANTONE 8623 C",
-      "code": "8623MC",
+      "code": "196",
       "components": [
-        29.80392156862745,
+        25.098039215686278,
         3,
         6
       ]
     },
     "PANTONE 8624 C": {
       "name": "PANTONE 8624 C",
-      "code": "8624MC",
+      "code": "197",
       "components": [
-        26.27450980392157,
-        3,
-        5
-      ]
-    },
-    "PANTONE 8625 C": {
-      "name": "PANTONE 8625 C",
-      "code": "8625MC",
-      "components": [
-        28.23529411764706,
+        25.88235294117647,
         2,
         4
       ]
     },
+    "PANTONE 8625 C": {
+      "name": "PANTONE 8625 C",
+      "code": "198",
+      "components": [
+        27.450980392156865,
+        1,
+        3
+      ]
+    },
     "PANTONE 8640 C": {
       "name": "PANTONE 8640 C",
-      "code": "8640MC",
+      "code": "199",
       "components": [
         54.117647058823536,
         7,
-        41
+        45
       ]
     },
     "PANTONE 8641 C": {
       "name": "PANTONE 8641 C",
-      "code": "8641MC",
+      "code": "200",
       "components": [
-        56.86274509803922,
+        58.03921568627452,
         6,
-        50
+        54
       ]
     },
     "PANTONE 8642 C": {
       "name": "PANTONE 8642 C",
-      "code": "8642MC",
+      "code": "201",
       "components": [
-        60.00000000000001,
+        59.6078431372549,
         6,
-        59
+        61
       ]
     },
     "PANTONE 8643 C": {
       "name": "PANTONE 8643 C",
-      "code": "8643MC",
+      "code": "202",
       "components": [
-        58.82352941176471,
-        7,
-        64
+        59.21568627450981,
+        6,
+        65
       ]
     },
     "PANTONE 8644 C": {
       "name": "PANTONE 8644 C",
-      "code": "8644MC",
+      "code": "203",
       "components": [
-        59.6078431372549,
-        3,
-        55
+        61.1764705882353,
+        1,
+        61
       ]
     },
     "PANTONE 8645 C": {
       "name": "PANTONE 8645 C",
-      "code": "8645MC",
+      "code": "204",
       "components": [
-        59.6078431372549,
-        -1,
-        49
+        61.568627450980394,
+        -2,
+        54
       ]
     },
     "PANTONE 8660 C": {
       "name": "PANTONE 8660 C",
-      "code": "8660MC",
+      "code": "205",
       "components": [
-        50.58823529411765,
-        4,
-        38
+        51.372549019607845,
+        3,
+        40
       ]
     },
     "PANTONE 8661 C": {
       "name": "PANTONE 8661 C",
-      "code": "8661MC",
+      "code": "206",
       "components": [
-        50.98039215686275,
-        -1,
-        49
+        51.76470588235294,
+        -3,
+        50
       ]
     },
     "PANTONE 8662 C": {
       "name": "PANTONE 8662 C",
-      "code": "8662MC",
+      "code": "207",
       "components": [
-        51.76470588235294,
-        -5,
-        49
+        52.94117647058824,
+        -7,
+        51
       ]
     },
     "PANTONE 8663 C": {
       "name": "PANTONE 8663 C",
-      "code": "8663MC",
+      "code": "208",
       "components": [
-        52.156862745098046,
-        -11,
-        53
+        53.333333333333336,
+        -13,
+        55
       ]
     },
     "PANTONE 8664 C": {
       "name": "PANTONE 8664 C",
-      "code": "8664MC",
+      "code": "209",
       "components": [
-        56.86274509803922,
-        -14,
-        48
+        57.254901960784316,
+        -15,
+        50
       ]
     },
     "PANTONE 8665 C": {
       "name": "PANTONE 8665 C",
-      "code": "8665MC",
+      "code": "210",
       "components": [
-        57.64705882352941,
-        -15,
-        43
+        58.03921568627452,
+        -16,
+        45
       ]
     },
     "PANTONE 8680 C": {
       "name": "PANTONE 8680 C",
-      "code": "8680MC",
+      "code": "211",
       "components": [
-        50.196078431372555,
-        -4,
-        28
+        47.84313725490196,
+        -2,
+        30
       ]
     },
     "PANTONE 8681 C": {
       "name": "PANTONE 8681 C",
-      "code": "8681MC",
+      "code": "212",
       "components": [
         50.196078431372555,
-        -8,
-        35
+        -10,
+        38
       ]
     },
     "PANTONE 8682 C": {
       "name": "PANTONE 8682 C",
-      "code": "8682MC",
+      "code": "213",
       "components": [
-        50.58823529411765,
-        -16,
-        39
+        49.80392156862745,
+        -18,
+        41
       ]
     },
     "PANTONE 8683 C": {
       "name": "PANTONE 8683 C",
-      "code": "8683MC",
+      "code": "214",
       "components": [
-        54.90196078431373,
-        -27,
-        43
+        51.76470588235294,
+        -28,
+        44
       ]
     },
     "PANTONE 8684 C": {
       "name": "PANTONE 8684 C",
-      "code": "8684MC",
+      "code": "215",
       "components": [
-        52.94117647058824,
-        -26,
-        36
+        51.76470588235294,
+        -27,
+        39
       ]
     },
     "PANTONE 8685 C": {
       "name": "PANTONE 8685 C",
-      "code": "8685MC",
+      "code": "216",
       "components": [
-        54.117647058823536,
-        -25,
-        31
+        53.72549019607843,
+        -27,
+        34
       ]
     },
     "PANTONE 8700 C": {
       "name": "PANTONE 8700 C",
-      "code": "8700MC",
+      "code": "217",
       "components": [
-        48.235294117647065,
-        -6,
+        47.450980392156865,
+        -7,
         21
       ]
     },
     "PANTONE 8701 C": {
       "name": "PANTONE 8701 C",
-      "code": "8701MC",
+      "code": "218",
       "components": [
-        49.01960784313726,
-        -13,
-        26
+        47.84313725490196,
+        -14,
+        27
       ]
     },
     "PANTONE 8702 C": {
       "name": "PANTONE 8702 C",
-      "code": "8702MC",
+      "code": "219",
       "components": [
-        49.01960784313726,
+        47.84313725490196,
         -23,
-        26
+        28
       ]
     },
     "PANTONE 8703 C": {
       "name": "PANTONE 8703 C",
-      "code": "8703MC",
+      "code": "220",
       "components": [
-        48.62745098039216,
+        47.84313725490196,
         -33,
-        28
+        29
       ]
     },
     "PANTONE 8704 C": {
       "name": "PANTONE 8704 C",
-      "code": "8704MC",
+      "code": "221",
       "components": [
         50.98039215686275,
-        -31,
-        21
+        -33,
+        23
       ]
     },
     "PANTONE 8705 C": {
       "name": "PANTONE 8705 C",
-      "code": "8705MC",
+      "code": "222",
       "components": [
-        52.156862745098046,
-        -29,
-        16
+        52.54901960784314,
+        -32,
+        19
       ]
     },
     "PANTONE 8720 C": {
       "name": "PANTONE 8720 C",
-      "code": "8720MC",
+      "code": "223",
       "components": [
-        45.490196078431374,
-        -15,
-        10
+        43.13725490196079,
+        -17,
+        9
       ]
     },
     "PANTONE 8721 C": {
       "name": "PANTONE 8721 C",
-      "code": "8721MC",
+      "code": "224",
       "components": [
-        47.84313725490196,
-        -16,
+        45.490196078431374,
+        -18,
         13
       ]
     },
     "PANTONE 8722 C": {
       "name": "PANTONE 8722 C",
-      "code": "8722MC",
+      "code": "225",
       "components": [
-        45.88235294117647,
-        -23,
-        10
+        43.529411764705884,
+        -26,
+        8
       ]
     },
     "PANTONE 8723 C": {
       "name": "PANTONE 8723 C",
-      "code": "8723MC",
+      "code": "226",
       "components": [
-        49.80392156862745,
-        -35,
-        11
+        46.66666666666667,
+        -36,
+        9
       ]
     },
     "PANTONE 8724 C": {
       "name": "PANTONE 8724 C",
-      "code": "8724MC",
+      "code": "227",
       "components": [
-        54.117647058823536,
-        -34,
-        5
+        50.196078431372555,
+        -35,
+        4
       ]
     },
     "PANTONE 8725 C": {
       "name": "PANTONE 8725 C",
-      "code": "8725MC",
+      "code": "228",
       "components": [
-        54.90196078431373,
-        -32,
+        51.76470588235294,
+        -33,
         1
       ]
     },
     "PANTONE 8740 C": {
       "name": "PANTONE 8740 C",
-      "code": "8740MC",
+      "code": "229",
       "components": [
-        42.74509803921569,
-        -13,
-        1
+        40.7843137254902,
+        -15,
+        0
       ]
     },
     "PANTONE 8741 C": {
       "name": "PANTONE 8741 C",
-      "code": "8741MC",
+      "code": "230",
       "components": [
-        41.96078431372549,
-        -22,
-        0
+        38.82352941176471,
+        -24,
+        3
       ]
     },
     "PANTONE 8742 C": {
       "name": "PANTONE 8742 C",
-      "code": "8742MC",
+      "code": "231",
       "components": [
-        42.352941176470594,
-        -22,
+        40,
+        -24,
         -1
       ]
     },
     "PANTONE 8743 C": {
       "name": "PANTONE 8743 C",
-      "code": "8743MC",
+      "code": "232",
       "components": [
-        41.96078431372549,
-        -30,
-        -10
+        38.43137254901961,
+        -31,
+        -9
       ]
     },
     "PANTONE 8744 C": {
       "name": "PANTONE 8744 C",
-      "code": "8744MC",
+      "code": "233",
       "components": [
-        45.490196078431374,
-        -28,
-        -14
+        41.96078431372549,
+        -29,
+        -13
       ]
     },
     "PANTONE 8745 C": {
       "name": "PANTONE 8745 C",
-      "code": "8745MC",
+      "code": "234",
       "components": [
-        47.84313725490196,
-        -26,
-        -16
+        44.70588235294118,
+        -27,
+        -15
       ]
     },
     "PANTONE 8760 C": {
       "name": "PANTONE 8760 C",
-      "code": "8760MC",
+      "code": "235",
       "components": [
-        41.96078431372549,
-        -20,
-        -9
+        37.254901960784316,
+        -21,
+        -7
       ]
     },
     "PANTONE 8761 C": {
       "name": "PANTONE 8761 C",
-      "code": "8761MC",
+      "code": "236",
       "components": [
-        38.03921568627451,
-        -25,
-        -16
+        34.90196078431373,
+        -26,
+        -15
       ]
     },
     "PANTONE 8762 C": {
       "name": "PANTONE 8762 C",
-      "code": "8762MC",
+      "code": "237",
       "components": [
-        37.254901960784316,
-        -13,
-        -11
+        34.90196078431373,
+        -15,
+        -12
       ]
     },
     "PANTONE 8763 C": {
       "name": "PANTONE 8763 C",
-      "code": "8763MC",
+      "code": "238",
       "components": [
-        33.333333333333336,
-        -15,
+        31.764705882352942,
+        -17,
         -22
       ]
     },
     "PANTONE 8764 C": {
       "name": "PANTONE 8764 C",
-      "code": "8764MC",
+      "code": "239",
       "components": [
-        38.03921568627451,
-        -14,
-        -24
+        36.07843137254902,
+        -16,
+        -25
       ]
     },
     "PANTONE 8765 C": {
       "name": "PANTONE 8765 C",
-      "code": "8765MC",
+      "code": "240",
       "components": [
-        40.7843137254902,
-        -13,
+        39.6078431372549,
+        -15,
         -26
       ]
     },
     "PANTONE 8780 C": {
       "name": "PANTONE 8780 C",
-      "code": "8780MC",
+      "code": "241",
       "components": [
-        28.627450980392158,
-        9,
-        -18
+        26.27450980392157,
+        10,
+        -22
       ]
     },
     "PANTONE 8781 C": {
       "name": "PANTONE 8781 C",
-      "code": "8781MC",
+      "code": "242",
       "components": [
-        29.01960784313726,
-        4,
-        -20
+        28.23529411764706,
+        2,
+        -18
       ]
     },
     "PANTONE 8782 C": {
       "name": "PANTONE 8782 C",
-      "code": "8782MC",
+      "code": "243",
       "components": [
-        27.84313725490196,
-        14,
+        24.31372549019608,
+        13,
         -37
       ]
     },
     "PANTONE 8783 C": {
       "name": "PANTONE 8783 C",
-      "code": "8783MC",
+      "code": "244",
       "components": [
-        25.490196078431374,
-        7,
-        -33
+        22.745098039215687,
+        6,
+        -36
       ]
     },
     "PANTONE 8784 C": {
       "name": "PANTONE 8784 C",
-      "code": "8784MC",
+      "code": "245",
       "components": [
-        29.80392156862745,
-        6,
-        -35
+        28.23529411764706,
+        4,
+        -37
       ]
     },
     "PANTONE 8785 C": {
       "name": "PANTONE 8785 C",
-      "code": "8785MC",
+      "code": "246",
       "components": [
-        33.333333333333336,
-        5,
+        32.15686274509804,
+        4,
         -37
       ]
     },
     "PANTONE 8800 C": {
       "name": "PANTONE 8800 C",
-      "code": "8800MC",
+      "code": "247",
       "components": [
-        29.80392156862745,
-        21,
+        27.84313725490196,
+        20,
         -15
       ]
     },
     "PANTONE 8801 C": {
       "name": "PANTONE 8801 C",
-      "code": "8801MC",
+      "code": "248",
       "components": [
-        29.01960784313726,
-        18,
-        -16
+        27.84313725490196,
+        19,
+        -19
       ]
     },
     "PANTONE 8802 C": {
       "name": "PANTONE 8802 C",
-      "code": "8802MC",
+      "code": "249",
       "components": [
-        23.92156862745098,
-        21,
-        -26
+        23.137254901960787,
+        22,
+        -29
       ]
     },
     "PANTONE 8803 C": {
       "name": "PANTONE 8803 C",
-      "code": "8803MC",
+      "code": "250",
       "components": [
-        24.31372549019608,
+        23.92156862745098,
         24,
         -25
       ]
     },
     "PANTONE 8804 C": {
       "name": "PANTONE 8804 C",
-      "code": "8804MC",
+      "code": "251",
       "components": [
-        29.411764705882355,
+        27.450980392156865,
         22,
-        -29
+        -28
       ]
     },
     "PANTONE 8805 C": {
       "name": "PANTONE 8805 C",
-      "code": "8805MC",
+      "code": "252",
       "components": [
-        32.54901960784314,
+        31.372549019607845,
         20,
         -30
       ]
     },
     "PANTONE 8820 C": {
       "name": "PANTONE 8820 C",
-      "code": "8820MC",
+      "code": "253",
       "components": [
-        38.03921568627451,
-        34,
-        -1
+        37.254901960784316,
+        35,
+        -3
       ]
     },
     "PANTONE 8821 C": {
       "name": "PANTONE 8821 C",
-      "code": "8821MC",
+      "code": "254",
       "components": [
-        35.294117647058826,
+        33.72549019607843,
         41,
-        -7
+        -8
       ]
     },
     "PANTONE 8822 C": {
       "name": "PANTONE 8822 C",
-      "code": "8822MC",
+      "code": "255",
       "components": [
         31.372549019607845,
-        28,
-        -11
+        31,
+        -18
       ]
     },
     "PANTONE 8823 C": {
       "name": "PANTONE 8823 C",
-      "code": "8823MC",
+      "code": "256",
       "components": [
-        27.84313725490196,
-        33,
-        -22
+        26.666666666666668,
+        35,
+        -25
       ]
     },
     "PANTONE 8824 C": {
       "name": "PANTONE 8824 C",
-      "code": "8824MC",
+      "code": "257",
       "components": [
-        31.764705882352942,
-        30,
-        -26
+        30.58823529411765,
+        31,
+        -28
       ]
     },
     "PANTONE 8825 C": {
       "name": "PANTONE 8825 C",
-      "code": "8825MC",
+      "code": "258",
       "components": [
-        35.294117647058826,
-        28,
-        -29
+        31.764705882352942,
+        31,
+        -32
       ]
     },
     "PANTONE 8840 C": {
       "name": "PANTONE 8840 C",
-      "code": "8840MC",
+      "code": "259",
       "components": [
-        38.43137254901961,
-        34,
-        6
+        38.03921568627451,
+        38,
+        3
       ]
     },
     "PANTONE 8841 C": {
       "name": "PANTONE 8841 C",
-      "code": "8841MC",
+      "code": "260",
       "components": [
-        36.07843137254902,
-        41,
-        2
+        35.294117647058826,
+        44,
+        0
       ]
     },
     "PANTONE 8842 C": {
       "name": "PANTONE 8842 C",
-      "code": "8842MC",
+      "code": "261",
       "components": [
-        34.11764705882353,
+        32.94117647058824,
         50,
         -5
       ]
     },
     "PANTONE 8843 C": {
       "name": "PANTONE 8843 C",
-      "code": "8843MC",
+      "code": "262",
       "components": [
-        32.54901960784314,
-        48,
-        -13
+        30.98039215686275,
+        49,
+        -14
       ]
     },
     "PANTONE 8844 C": {
       "name": "PANTONE 8844 C",
-      "code": "8844MC",
+      "code": "263",
       "components": [
-        35.294117647058826,
-        43,
-        -18
+        32.94117647058824,
+        45,
+        -19
       ]
     },
     "PANTONE 8845 C": {
       "name": "PANTONE 8845 C",
-      "code": "8845MC",
+      "code": "264",
       "components": [
-        37.64705882352941,
-        39,
+        35.294117647058826,
+        38,
         -21
       ]
     },
     "PANTONE 8860 C": {
       "name": "PANTONE 8860 C",
-      "code": "8860MC",
+      "code": "265",
       "components": [
-        43.92156862745098,
-        33,
-        15
+        40.7843137254902,
+        36,
+        19
       ]
     },
     "PANTONE 8861 C": {
       "name": "PANTONE 8861 C",
-      "code": "8861MC",
+      "code": "266",
       "components": [
-        40,
-        37,
-        11
+        38.43137254901961,
+        39,
+        13
       ]
     },
     "PANTONE 8862 C": {
       "name": "PANTONE 8862 C",
-      "code": "8862MC",
+      "code": "267",
       "components": [
-        38.43137254901961,
-        43,
+        36.86274509803922,
+        47,
         11
       ]
     },
     "PANTONE 8863 C": {
       "name": "PANTONE 8863 C",
-      "code": "8863MC",
+      "code": "268",
       "components": [
-        36.07843137254902,
-        50,
-        14
+        34.50980392156863,
+        52,
+        13
       ]
     },
     "PANTONE 8864 C": {
       "name": "PANTONE 8864 C",
-      "code": "8864MC",
+      "code": "269",
       "components": [
-        37.64705882352941,
-        44,
-        5
+        36.07843137254902,
+        48,
+        4
       ]
     },
     "PANTONE 8865 C": {
       "name": "PANTONE 8865 C",
-      "code": "8865MC",
+      "code": "270",
       "components": [
-        39.6078431372549,
-        38,
-        -1
+        37.64705882352941,
+        42,
+        -2
       ]
     },
     "PANTONE 8880 C": {
       "name": "PANTONE 8880 C",
-      "code": "8880MC",
+      "code": "271",
       "components": [
-        44.70588235294118,
-        30,
-        11
+        42.352941176470594,
+        31,
+        16
       ]
     },
     "PANTONE 8881 C": {
       "name": "PANTONE 8881 C",
-      "code": "8881MC",
+      "code": "272",
       "components": [
-        42.74509803921569,
-        39,
-        8
+        41.1764705882353,
+        40,
+        11
       ]
     },
     "PANTONE 8882 C": {
       "name": "PANTONE 8882 C",
-      "code": "8882MC",
+      "code": "273",
       "components": [
-        41.96078431372549,
-        47,
-        4
+        41.1764705882353,
+        49,
+        6
       ]
     },
     "PANTONE 8883 C": {
       "name": "PANTONE 8883 C",
-      "code": "8883MC",
+      "code": "274",
       "components": [
-        43.13725490196079,
-        48,
-        16
+        41.1764705882353,
+        50,
+        22
       ]
     },
     "PANTONE 8884 C": {
       "name": "PANTONE 8884 C",
-      "code": "8884MC",
+      "code": "275",
       "components": [
-        45.09803921568628,
-        43,
-        9
+        41.568627450980394,
+        45,
+        16
       ]
     },
     "PANTONE 8885 C": {
       "name": "PANTONE 8885 C",
-      "code": "8885MC",
+      "code": "276",
       "components": [
-        45.490196078431374,
-        38,
-        5
+        42.74509803921569,
+        41,
+        11
       ]
     },
     "PANTONE 8900 C": {
       "name": "PANTONE 8900 C",
-      "code": "8900MC",
+      "code": "277",
       "components": [
-        47.84313725490196,
-        30,
-        29
+        45.09803921568628,
+        34,
+        31
       ]
     },
     "PANTONE 8901 C": {
       "name": "PANTONE 8901 C",
-      "code": "8901MC",
+      "code": "278",
       "components": [
-        50.58823529411765,
-        38,
-        29
+        47.84313725490196,
+        42,
+        33
       ]
     },
     "PANTONE 8902 C": {
       "name": "PANTONE 8902 C",
-      "code": "8902MC",
+      "code": "279",
       "components": [
-        51.372549019607845,
-        39,
-        19
+        48.62745098039216,
+        43,
+        23
       ]
     },
     "PANTONE 8903 C": {
       "name": "PANTONE 8903 C",
-      "code": "8903MC",
+      "code": "280",
       "components": [
-        49.01960784313726,
-        46,
-        23
+        47.84313725490196,
+        50,
+        26
       ]
     },
     "PANTONE 8904 C": {
       "name": "PANTONE 8904 C",
-      "code": "8904MC",
+      "code": "281",
       "components": [
-        50.58823529411765,
-        41,
-        16
+        49.01960784313726,
+        46,
+        19
       ]
     },
     "PANTONE 8905 C": {
       "name": "PANTONE 8905 C",
-      "code": "8905MC",
+      "code": "282",
       "components": [
-        51.372549019607845,
-        36,
-        10
+        48.62745098039216,
+        42,
+        15
       ]
     },
     "PANTONE 8920 C": {
       "name": "PANTONE 8920 C",
-      "code": "8920MC",
+      "code": "283",
       "components": [
-        49.80392156862745,
-        23,
-        24
+        47.450980392156865,
+        27,
+        28
       ]
     },
     "PANTONE 8921 C": {
       "name": "PANTONE 8921 C",
-      "code": "8921MC",
+      "code": "284",
       "components": [
-        49.411764705882355,
-        36,
-        40
+        47.84313725490196,
+        39,
+        43
       ]
     },
     "PANTONE 8922 C": {
       "name": "PANTONE 8922 C",
-      "code": "8922MC",
+      "code": "285",
       "components": [
-        48.62745098039216,
-        40,
-        52
+        47.84313725490196,
+        41,
+        55
       ]
     },
     "PANTONE 8923 C": {
       "name": "PANTONE 8923 C",
-      "code": "8923MC",
+      "code": "286",
       "components": [
-        47.84313725490196,
-        43,
-        47
+        47.05882352941177,
+        45,
+        48
       ]
     },
     "PANTONE 8924 C": {
       "name": "PANTONE 8924 C",
-      "code": "8924MC",
+      "code": "287",
       "components": [
-        49.01960784313726,
-        37,
-        37
+        47.450980392156865,
+        41,
+        41
       ]
     },
     "PANTONE 8925 C": {
       "name": "PANTONE 8925 C",
-      "code": "8925MC",
+      "code": "288",
       "components": [
-        49.01960784313726,
-        33,
-        31
+        47.84313725490196,
+        37,
+        35
       ]
     },
     "PANTONE 8940 C": {
       "name": "PANTONE 8940 C",
-      "code": "8940MC",
+      "code": "289",
       "components": [
-        50.196078431372555,
-        20,
-        38
+        48.62745098039216,
+        22,
+        43
       ]
     },
     "PANTONE 8941 C": {
       "name": "PANTONE 8941 C",
-      "code": "8941MC",
+      "code": "290",
       "components": [
-        50.98039215686275,
-        26,
-        44
+        49.01960784313726,
+        27,
+        49
       ]
     },
     "PANTONE 8942 C": {
       "name": "PANTONE 8942 C",
-      "code": "8942MC",
+      "code": "291",
       "components": [
-        49.01960784313726,
+        48.235294117647065,
         32,
-        50
+        55
       ]
     },
     "PANTONE 8943 C": {
       "name": "PANTONE 8943 C",
-      "code": "8943MC",
+      "code": "292",
       "components": [
-        52.94117647058824,
-        37,
-        58
+        50.58823529411765,
+        38,
+        61
       ]
     },
     "PANTONE 8944 C": {
       "name": "PANTONE 8944 C",
-      "code": "8944MC",
+      "code": "293",
       "components": [
-        52.94117647058824,
-        33,
-        49
+        50.98039215686275,
+        34,
+        54
       ]
     },
     "PANTONE 8945 C": {
       "name": "PANTONE 8945 C",
-      "code": "8945MC",
+      "code": "294",
       "components": [
-        53.333333333333336,
-        30,
+        50.196078431372555,
+        29,
         44
       ]
     },
     "PANTONE 8960 C": {
       "name": "PANTONE 8960 C",
-      "code": "8960MC",
+      "code": "295",
       "components": [
-        50.196078431372555,
-        12,
-        39
+        50.98039215686275,
+        13,
+        43
       ]
     },
     "PANTONE 8961 C": {
       "name": "PANTONE 8961 C",
-      "code": "8961MC",
+      "code": "296",
       "components": [
         50.196078431372555,
-        20,
-        45
+        21,
+        49
       ]
     },
     "PANTONE 8962 C": {
       "name": "PANTONE 8962 C",
-      "code": "8962MC",
+      "code": "297",
       "components": [
-        54.90196078431373,
+        52.156862745098046,
         22,
-        62
+        61
       ]
     },
     "PANTONE 8963 C": {
       "name": "PANTONE 8963 C",
-      "code": "8963MC",
+      "code": "298",
       "components": [
-        55.294117647058826,
+        51.372549019607845,
         30,
         60
       ]
     },
     "PANTONE 8964 C": {
       "name": "PANTONE 8964 C",
-      "code": "8964MC",
+      "code": "299",
       "components": [
-        50.58823529411765,
+        50.98039215686275,
         25,
-        47
+        51
       ]
     },
     "PANTONE 8965 C": {
       "name": "PANTONE 8965 C",
-      "code": "8965MC",
+      "code": "300",
       "components": [
-        50.58823529411765,
+        51.76470588235294,
         20,
-        40
+        44
       ]
     }
   }

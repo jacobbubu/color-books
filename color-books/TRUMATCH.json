@@ -1,9 +1,11 @@
 {
   "version": 1,
   "title": "TRUMATCH",
+  "description": "",
   "prefix": "TRUMATCH ",
   "suffix": "",
   "colorCount": 2091,
+  "pageSize": 8,
   "colorSpace": "CMYK",
   "channels": 4,
   "isSpot": false,
