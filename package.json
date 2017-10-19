@@ -10,7 +10,7 @@
   "scripts": {
     "build": "coffee --compile --bare --output lib/ src/ && coffee gen-types.coffee",
     "watch": "coffee --compile --bare --watch --output lib/ src/",
-    "prepublish": "npm run build"
+    "prepare": "npm run build"
   },
   "files": [
     "lib",
