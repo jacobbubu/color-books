@@ -1,6 +1,6 @@
 {
   "name": "color-books",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easily use color books in Javascript.",
   "main": "lib/index.js",
   "repository": {
@@ -8,14 +8,16 @@
     "url": "https://github.com/jacobbubu/color-books.git"
   },
   "scripts": {
-    "build": "coffee --compile --bare --output lib/ src/",
+    "build": "coffee --compile --bare --output lib/ src/ && coffee gen-types.coffee",
     "watch": "coffee --compile --bare --watch --output lib/ src/",
     "prepublish": "npm run build"
   },
   "files": [
     "lib",
-    "color-books"
+    "color-books",
+    "typings"
   ],
+  "typings": "typings/index.d.ts",
   "keywords": [
     "colorbook",
     "color",
@@ -30,6 +32,6 @@
   "author": "Rong Shen <rong.shen@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "coffeescript": "^2.0.0-beta4"
+    "coffeescript": "^2.0.1"
   }
 }
